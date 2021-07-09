@@ -15,7 +15,13 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@ac/api-interfaces": ["libs/api-interfaces/src/index.ts"]
+      "@ac/api-interfaces": ["libs/api-interfaces/src/index.ts"],
+      "@ac/location/address//address-interface": [
+        "libs/location/address/address-interface/src/index.ts"
+      ],
+      "@ac/location/address/instant-address": [
+        "libs/location/address/instant-address/src/index.ts"
+      ]
     }
   },
   "exclude": ["node_modules", "tmp"]

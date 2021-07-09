@@ -1,0 +1,387 @@
+[
+  {
+    "PROVINCE_CODE": "081",
+    "PROVINCE_NAME": "กระบี่",
+    "PROVINCE_NAME_EN": "Krabi"
+  },
+  {
+    "PROVINCE_CODE": "010",
+    "PROVINCE_NAME": "กรุงเทพมหานคร",
+    "PROVINCE_NAME_EN": "Bangkok"
+  },
+  {
+    "PROVINCE_CODE": "071",
+    "PROVINCE_NAME": "กาญจนบุรี",
+    "PROVINCE_NAME_EN": "Kanchanaburi"
+  },
+  {
+    "PROVINCE_CODE": "046",
+    "PROVINCE_NAME": "กาฬสินธุ์",
+    "PROVINCE_NAME_EN": "Kalasin"
+  },
+  {
+    "PROVINCE_CODE": "062",
+    "PROVINCE_NAME": "กำแพงเพชร",
+    "PROVINCE_NAME_EN": "Kamphaeng Phet"
+  },
+  {
+    "PROVINCE_CODE": "040",
+    "PROVINCE_NAME": "ขอนแก่น",
+    "PROVINCE_NAME_EN": "Khon Kaen"
+  },
+  {
+    "PROVINCE_CODE": "022",
+    "PROVINCE_NAME": "จันทบุรี",
+    "PROVINCE_NAME_EN": "Chanthaburi"
+  },
+  {
+    "PROVINCE_CODE": "024",
+    "PROVINCE_NAME": "ฉะเชิงเทรา",
+    "PROVINCE_NAME_EN": "Chachoengsao"
+  },
+  {
+    "PROVINCE_CODE": "020",
+    "PROVINCE_NAME": "ชลบุรี",
+    "PROVINCE_NAME_EN": "Chon Buri"
+  },
+  {
+    "PROVINCE_CODE": "018",
+    "PROVINCE_NAME": "ชัยนาท",
+    "PROVINCE_NAME_EN": "Chai Nat"
+  },
+  {
+    "PROVINCE_CODE": "036",
+    "PROVINCE_NAME": "ชัยภูมิ",
+    "PROVINCE_NAME_EN": "Chaiyaphum"
+  },
+  {
+    "PROVINCE_CODE": "086",
+    "PROVINCE_NAME": "ชุมพร",
+    "PROVINCE_NAME_EN": "Chumphon"
+  },
+  {
+    "PROVINCE_CODE": "057",
+    "PROVINCE_NAME": "เชียงราย",
+    "PROVINCE_NAME_EN": "Chiang Rai"
+  },
+  {
+    "PROVINCE_CODE": "050",
+    "PROVINCE_NAME": "เชียงใหม่",
+    "PROVINCE_NAME_EN": "Chiang Mai"
+  },
+  {
+    "PROVINCE_CODE": "092",
+    "PROVINCE_NAME": "ตรัง",
+    "PROVINCE_NAME_EN": "Trang"
+  },
+  {
+    "PROVINCE_CODE": "023",
+    "PROVINCE_NAME": "ตราด",
+    "PROVINCE_NAME_EN": "Trat"
+  },
+  {
+    "PROVINCE_CODE": "063",
+    "PROVINCE_NAME": "ตาก",
+    "PROVINCE_NAME_EN": "Tak"
+  },
+  {
+    "PROVINCE_CODE": "026",
+    "PROVINCE_NAME": "นครนายก",
+    "PROVINCE_NAME_EN": "Nakhon Nayok"
+  },
+  {
+    "PROVINCE_CODE": "073",
+    "PROVINCE_NAME": "นครปฐม",
+    "PROVINCE_NAME_EN": "Nakhon Pathom"
+  },
+  {
+    "PROVINCE_CODE": "048",
+    "PROVINCE_NAME": "นครพนม",
+    "PROVINCE_NAME_EN": "Nakhon Phanom"
+  },
+  {
+    "PROVINCE_CODE": "030",
+    "PROVINCE_NAME": "นครราชสีมา",
+    "PROVINCE_NAME_EN": "Nakhon Ratchasima"
+  },
+  {
+    "PROVINCE_CODE": "080",
+    "PROVINCE_NAME": "นครศรีธรรมราช",
+    "PROVINCE_NAME_EN": "Nakhon Si Thammarat"
+  },
+  {
+    "PROVINCE_CODE": "060",
+    "PROVINCE_NAME": "นครสวรรค์",
+    "PROVINCE_NAME_EN": "Nakhon Sawan"
+  },
+  {
+    "PROVINCE_CODE": "012",
+    "PROVINCE_NAME": "นนทบุรี",
+    "PROVINCE_NAME_EN": "Nonthaburi"
+  },
+  {
+    "PROVINCE_CODE": "096",
+    "PROVINCE_NAME": "นราธิวาส",
+    "PROVINCE_NAME_EN": "Narathiwat"
+  },
+  {
+    "PROVINCE_CODE": "055",
+    "PROVINCE_NAME": "น่าน",
+    "PROVINCE_NAME_EN": "Nan"
+  },
+  {
+    "PROVINCE_CODE": "038",
+    "PROVINCE_NAME": "บึงกาฬ",
+    "PROVINCE_NAME_EN": "Bueng Kan"
+  },
+  {
+    "PROVINCE_CODE": "031",
+    "PROVINCE_NAME": "บุรีรัมย์",
+    "PROVINCE_NAME_EN": "Buri Ram"
+  },
+  {
+    "PROVINCE_CODE": "013",
+    "PROVINCE_NAME": "ปทุมธานี",
+    "PROVINCE_NAME_EN": "Pathum Thani"
+  },
+  {
+    "PROVINCE_CODE": "077",
+    "PROVINCE_NAME": "ประจวบคีรีขันธ์",
+    "PROVINCE_NAME_EN": "Prachuap Khiri Khan"
+  },
+  {
+    "PROVINCE_CODE": "025",
+    "PROVINCE_NAME": "ปราจีนบุรี",
+    "PROVINCE_NAME_EN": "Prachin Buri"
+  },
+  {
+    "PROVINCE_CODE": "094",
+    "PROVINCE_NAME": "ปัตตานี",
+    "PROVINCE_NAME_EN": "Pattani"
+  },
+  {
+    "PROVINCE_CODE": "014",
+    "PROVINCE_NAME": "พระนครศรีอยุธยา",
+    "PROVINCE_NAME_EN": "Phra Nakhon Si Ayutthaya"
+  },
+  {
+    "PROVINCE_CODE": "056",
+    "PROVINCE_NAME": "พะเยา",
+    "PROVINCE_NAME_EN": "Phayao"
+  },
+  {
+    "PROVINCE_CODE": "082",
+    "PROVINCE_NAME": "พังงา",
+    "PROVINCE_NAME_EN": "Phangnga"
+  },
+  {
+    "PROVINCE_CODE": "093",
+    "PROVINCE_NAME": "พัทลุง",
+    "PROVINCE_NAME_EN": "Phatthalung"
+  },
+  {
+    "PROVINCE_CODE": "066",
+    "PROVINCE_NAME": "พิจิตร",
+    "PROVINCE_NAME_EN": "Phichit"
+  },
+  {
+    "PROVINCE_CODE": "065",
+    "PROVINCE_NAME": "พิษณุโลก",
+    "PROVINCE_NAME_EN": "Phitsanulok"
+  },
+  {
+    "PROVINCE_CODE": "076",
+    "PROVINCE_NAME": "เพชรบุรี",
+    "PROVINCE_NAME_EN": "Phetchaburi"
+  },
+  {
+    "PROVINCE_CODE": "067",
+    "PROVINCE_NAME": "เพชรบูรณ์",
+    "PROVINCE_NAME_EN": "Phetchabun"
+  },
+  {
+    "PROVINCE_CODE": "054",
+    "PROVINCE_NAME": "แพร่",
+    "PROVINCE_NAME_EN": "Phrae"
+  },
+  {
+    "PROVINCE_CODE": "083",
+    "PROVINCE_NAME": "ภูเก็ต",
+    "PROVINCE_NAME_EN": "Phuket"
+  },
+  {
+    "PROVINCE_CODE": "044",
+    "PROVINCE_NAME": "มหาสารคาม",
+    "PROVINCE_NAME_EN": "Maha Sarakham"
+  },
+  {
+    "PROVINCE_CODE": "049",
+    "PROVINCE_NAME": "มุกดาหาร",
+    "PROVINCE_NAME_EN": "Mukdahan"
+  },
+  {
+    "PROVINCE_CODE": "058",
+    "PROVINCE_NAME": "แม่ฮ่องสอน",
+    "PROVINCE_NAME_EN": "Mae Hong Son"
+  },
+  {
+    "PROVINCE_CODE": "035",
+    "PROVINCE_NAME": "ยโสธร",
+    "PROVINCE_NAME_EN": "Yasothon"
+  },
+  {
+    "PROVINCE_CODE": "095",
+    "PROVINCE_NAME": "ยะลา",
+    "PROVINCE_NAME_EN": "Yala"
+  },
+  {
+    "PROVINCE_CODE": "045",
+    "PROVINCE_NAME": "ร้อยเอ็ด",
+    "PROVINCE_NAME_EN": "Roi Et"
+  },
+  {
+    "PROVINCE_CODE": "085",
+    "PROVINCE_NAME": "ระนอง",
+    "PROVINCE_NAME_EN": "Ranong"
+  },
+  {
+    "PROVINCE_CODE": "021",
+    "PROVINCE_NAME": "ระยอง",
+    "PROVINCE_NAME_EN": "Rayong"
+  },
+  {
+    "PROVINCE_CODE": "070",
+    "PROVINCE_NAME": "ราชบุรี",
+    "PROVINCE_NAME_EN": "Ratchaburi"
+  },
+  {
+    "PROVINCE_CODE": "016",
+    "PROVINCE_NAME": "ลพบุรี",
+    "PROVINCE_NAME_EN": "Lop Buri"
+  },
+  {
+    "PROVINCE_CODE": "052",
+    "PROVINCE_NAME": "ลำปาง",
+    "PROVINCE_NAME_EN": "Lampang"
+  },
+  {
+    "PROVINCE_CODE": "051",
+    "PROVINCE_NAME": "ลำพูน",
+    "PROVINCE_NAME_EN": "Lamphun"
+  },
+  {
+    "PROVINCE_CODE": "042",
+    "PROVINCE_NAME": "เลย",
+    "PROVINCE_NAME_EN": "Loei"
+  },
+  {
+    "PROVINCE_CODE": "033",
+    "PROVINCE_NAME": "ศรีสะเกษ",
+    "PROVINCE_NAME_EN": "Si Sa Ket"
+  },
+  {
+    "PROVINCE_CODE": "047",
+    "PROVINCE_NAME": "สกลนคร",
+    "PROVINCE_NAME_EN": "Sakon Nakhon"
+  },
+  {
+    "PROVINCE_CODE": "090",
+    "PROVINCE_NAME": "สงขลา",
+    "PROVINCE_NAME_EN": "Songkhla"
+  },
+  {
+    "PROVINCE_CODE": "091",
+    "PROVINCE_NAME": "สตูล",
+    "PROVINCE_NAME_EN": "Satun"
+  },
+  {
+    "PROVINCE_CODE": "011",
+    "PROVINCE_NAME": "สมุทรปราการ",
+    "PROVINCE_NAME_EN": "Samut Prakan"
+  },
+  {
+    "PROVINCE_CODE": "075",
+    "PROVINCE_NAME": "สมุทรสงคราม",
+    "PROVINCE_NAME_EN": "Samut Songkhram"
+  },
+  {
+    "PROVINCE_CODE": "074",
+    "PROVINCE_NAME": "สมุทรสาคร",
+    "PROVINCE_NAME_EN": "Samut Sakhon"
+  },
+  {
+    "PROVINCE_CODE": "027",
+    "PROVINCE_NAME": "สระแก้ว",
+    "PROVINCE_NAME_EN": "Sa Kaeo"
+  },
+  {
+    "PROVINCE_CODE": "019",
+    "PROVINCE_NAME": "สระบุรี",
+    "PROVINCE_NAME_EN": "Saraburi"
+  },
+  {
+    "PROVINCE_CODE": "017",
+    "PROVINCE_NAME": "สิงห์บุรี",
+    "PROVINCE_NAME_EN": "Sing Buri"
+  },
+  {
+    "PROVINCE_CODE": "064",
+    "PROVINCE_NAME": "สุโขทัย",
+    "PROVINCE_NAME_EN": "Sukhothai"
+  },
+  {
+    "PROVINCE_CODE": "072",
+    "PROVINCE_NAME": "สุพรรณบุรี",
+    "PROVINCE_NAME_EN": "Suphan Buri"
+  },
+  {
+    "PROVINCE_CODE": "084",
+    "PROVINCE_NAME": "สุราษฎร์ธานี",
+    "PROVINCE_NAME_EN": "Surat Thani"
+  },
+  {
+    "PROVINCE_CODE": "032",
+    "PROVINCE_NAME": "สุรินทร์",
+    "PROVINCE_NAME_EN": "Surin"
+  },
+  {
+    "PROVINCE_CODE": "043",
+    "PROVINCE_NAME": "หนองคาย",
+    "PROVINCE_NAME_EN": "Nong Khai"
+  },
+  {
+    "PROVINCE_CODE": "039",
+    "PROVINCE_NAME": "หนองบัวลำภู",
+    "PROVINCE_NAME_EN": "Nong Bua Lam Phu"
+  },
+  {
+    "PROVINCE_CODE": "015",
+    "PROVINCE_NAME": "อ่างทอง",
+    "PROVINCE_NAME_EN": "Ang Thong"
+  },
+  {
+    "PROVINCE_CODE": "037",
+    "PROVINCE_NAME": "อำนาจเจริญ",
+    "PROVINCE_NAME_EN": "Amnat Charoen"
+  },
+  {
+    "PROVINCE_CODE": "041",
+    "PROVINCE_NAME": "อุดรธานี",
+    "PROVINCE_NAME_EN": "Udon Thani"
+  },
+  {
+    "PROVINCE_CODE": "053",
+    "PROVINCE_NAME": "อุตรดิตถ์",
+    "PROVINCE_NAME_EN": "Uttaradit"
+  },
+  {
+    "PROVINCE_CODE": "061",
+    "PROVINCE_NAME": "อุทัยธานี",
+    "PROVINCE_NAME_EN": "Uthai Thani"
+  },
+  {
+    "PROVINCE_CODE": "034",
+    "PROVINCE_NAME": "อุบลราชธานี",
+    "PROVINCE_NAME_EN": "Ubon Ratchathani"
+  }
+]

@@ -33,6 +33,12 @@
     "api-interfaces": {
       "tags": []
     },
+    "location-address--address-interface": {
+      "tags": []
+    },
+    "location-address-instant-address": {
+      "tags": []
+    },
     "my-angular": {
       "tags": []
     },

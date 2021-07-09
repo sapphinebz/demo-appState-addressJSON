@@ -64,6 +64,72 @@
         }
       }
     },
+    "location-address--address-interface": {
+      "root": "libs/location/address//address-interface",
+      "sourceRoot": "libs/location/address/address-interface/src",
+      "projectType": "library",
+      "architect": {
+        "build": {
+          "builder": "@nrwl/workspace:tsc",
+          "outputs": ["{options.outputPath}"],
+          "options": {
+            "outputPath": "dist/libs/location/address//address-interface",
+            "main": "libs/location/address//address-interface/src/index.ts",
+            "tsConfig": "libs/location/address//address-interface/tsconfig.lib.json",
+            "assets": ["libs/location/address//address-interface/*.md"]
+          }
+        },
+        "lint": {
+          "builder": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/location/address//address-interface/**/*.ts"
+            ]
+          }
+        },
+        "test": {
+          "builder": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/location/address/address-interface"],
+          "options": {
+            "jestConfig": "libs/location/address/address-interface/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
+    "location-address-instant-address": {
+      "projectType": "library",
+      "root": "libs/location/address/instant-address",
+      "sourceRoot": "libs/location/address/instant-address/src",
+      "prefix": "location",
+      "architect": {
+        "build": {
+          "builder": "@nrwl/angular:ng-packagr-lite",
+          "outputs": ["dist/libs/location/address/instant-address"],
+          "options": {
+            "project": "libs/location/address/instant-address/ng-package.json"
+          },
+          "configurations": {
+            "production": {
+              "tsConfig": "libs/location/address/instant-address/tsconfig.lib.prod.json"
+            },
+            "development": {
+              "tsConfig": "libs/location/address/instant-address/tsconfig.lib.json"
+            }
+          },
+          "defaultConfiguration": "production"
+        },
+        "lint": {
+          "builder": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/location/address/instant-address/src/**/*.ts",
+              "libs/location/address/instant-address/src/**/*.html"
+            ]
+          }
+        }
+      }
+    },
     "my-angular": {
       "projectType": "application",
       "root": "apps/my-angular",
@@ -82,7 +148,12 @@
             "inlineStyleLanguage": "scss",
             "assets": [
               "apps/my-angular/src/favicon.ico",
-              "apps/my-angular/src/assets"
+              "apps/my-angular/src/assets",
+              {
+                "input": "libs/location/address/instant-address/src/assets",
+                "glob": "**/*",
+                "output": "assets/location"
+              }
             ],
             "styles": ["apps/my-angular/src/styles.scss"],
             "scripts": []

@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
-import { HttpClient } from '@angular/common/http';
-import { Message } from '@ac/api-interfaces';
+import { AppStateService } from './app-state.service';
 
 @Component({
   selector: 'ac-root',
@@ -8,6 +7,11 @@ import { Message } from '@ac/api-interfaces';
   styleUrls: ['./app.component.scss'],
 })
 export class AppComponent {
-  hello$ = this.http.get<Message>('/api/hello');
-  constructor(private http: HttpClient) {}
+  employeeList = ['Sam', 'Moe', 'Lisa'];
+  employee$ = this.appState.employee$;
+  constructor(private appState: AppStateService) {}
+
+  viewEmployee(name: string) {
+    this.appState.loadEmployeeName(name);
+  }
 }

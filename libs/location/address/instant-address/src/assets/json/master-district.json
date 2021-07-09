@@ -1,0 +1,5570 @@
+[
+  {
+    "DISTRICT_CODE": "6404",
+    "DISTRICT_NAME": "กงไกรลาศ",
+    "DISTRICT_NAME_EN": "Kong Krailat",
+    "PROVINCE_CODE": "064"
+  },
+  {
+    "DISTRICT_CODE": "9302",
+    "DISTRICT_NAME": "กงหรา",
+    "DISTRICT_NAME_EN": "Kong Ra",
+    "PROVINCE_CODE": "093"
+  },
+  {
+    "DISTRICT_CODE": "2502",
+    "DISTRICT_NAME": "กบินทร์บุรี",
+    "DISTRICT_NAME_EN": "Kabin Buri",
+    "PROVINCE_CODE": "025"
+  },
+  {
+    "DISTRICT_CODE": "4603",
+    "DISTRICT_NAME": "กมลาไสย",
+    "DISTRICT_NAME_EN": "Kamalasai",
+    "PROVINCE_CODE": "046"
+  },
+  {
+    "DISTRICT_CODE": "9508",
+    "DISTRICT_NAME": "กรงปินัง",
+    "DISTRICT_NAME_EN": "Krong Pinang",
+    "PROVINCE_CODE": "095"
+  },
+  {
+    "DISTRICT_CODE": "7402",
+    "DISTRICT_NAME": "กระทุ่มแบน",
+    "DISTRICT_NAME_EN": "Krathum Baen",
+    "PROVINCE_CODE": "074"
+  },
+  {
+    "DISTRICT_CODE": "4009",
+    "DISTRICT_NAME": "กระนวน",
+    "DISTRICT_NAME_EN": "Kranuan",
+    "PROVINCE_CODE": "040"
+  },
+  {
+    "DISTRICT_CODE": "8504",
+    "DISTRICT_NAME": "กระบุรี",
+    "DISTRICT_NAME_EN": "Kra Buri",
+    "PROVINCE_CODE": "085"
+  },
+  {
+    "DISTRICT_CODE": "3103",
+    "DISTRICT_NAME": "กระสัง",
+    "DISTRICT_NAME_EN": "Krasang",
+    "PROVINCE_CODE": "031"
+  },
+  {
+    "DISTRICT_CODE": "9008",
+    "DISTRICT_NAME": "กระแสสินธุ์",
+    "DISTRICT_NAME_EN": "Krasae Sin",
+    "PROVINCE_CODE": "090"
+  },
+  {
+    "DISTRICT_CODE": "8302",
+    "DISTRICT_NAME": "กะทู้",
+    "DISTRICT_NAME_EN": "Kathu",
+    "PROVINCE_CODE": "083"
+  },
+  {
+    "DISTRICT_CODE": "8203",
+    "DISTRICT_NAME": "กะปง",
+    "DISTRICT_NAME_EN": "Kapong",
+    "PROVINCE_CODE": "082"
+  },
+  {
+    "DISTRICT_CODE": "8503",
+    "DISTRICT_NAME": "กะเปอร์",
+    "DISTRICT_NAME_EN": "Kapoe",
+    "PROVINCE_CODE": "085"
+  },
+  {
+    "DISTRICT_CODE": "9411",
+    "DISTRICT_NAME": "กะพ้อ",
+    "DISTRICT_NAME_EN": "Kapho",
+    "PROVINCE_CODE": "094"
+  },
+  {
+    "DISTRICT_CODE": "9202",
+    "DISTRICT_NAME": "กันตัง",
+    "DISTRICT_NAME_EN": "Kantang",
+    "PROVINCE_CODE": "092"
+  },
+  {
+    "DISTRICT_CODE": "3304",
+    "DISTRICT_NAME": "กันทรลักษ์",
+    "DISTRICT_NAME_EN": "Kantharalak",
+    "PROVINCE_CODE": "033"
+  },
+  {
+    "DISTRICT_CODE": "4404",
+    "DISTRICT_NAME": "กันทรวิชัย",
+    "DISTRICT_NAME_EN": "Kantharawichai",
+    "PROVINCE_CODE": "044"
+  },
+  {
+    "DISTRICT_CODE": "3303",
+    "DISTRICT_NAME": "กันทรารมย์",
+    "DISTRICT_NAME_EN": "Kanthararom",
+    "PROVINCE_CODE": "033"
+  },
+  {
+    "DISTRICT_CODE": "5025",
+    "DISTRICT_NAME": "กัลยาณิวัฒนา",
+    "DISTRICT_NAME_EN": "Kanlayaniwatthana",
+    "PROVINCE_CODE": "050"
+  },
+  {
+    "DISTRICT_CODE": "8402",
+    "DISTRICT_NAME": "กาญจนดิษฐ์",
+    "DISTRICT_NAME_EN": "Kanchanadit",
+    "PROVINCE_CODE": "084"
+  },
+  {
+    "DISTRICT_CODE": "3206",
+    "DISTRICT_NAME": "กาบเชิง",
+    "DISTRICT_NAME_EN": "Kap Choeng",
+    "PROVINCE_CODE": "032"
+  },
+  {
+    "DISTRICT_CODE": "9507",
+    "DISTRICT_NAME": "กาบัง",
+    "DISTRICT_NAME_EN": "Kabang",
+    "PROVINCE_CODE": "095"
+  },
+  {
+    "DISTRICT_CODE": "7302",
+    "DISTRICT_NAME": "กำแพงแสน",
+    "DISTRICT_NAME_EN": "Kamphaeng Saen",
+    "PROVINCE_CODE": "073"
+  },
+  {
+    "DISTRICT_CODE": "4605",
+    "DISTRICT_NAME": "กุฉินารายณ์",
+    "DISTRICT_NAME_EN": "Kuchinarai",
+    "PROVINCE_CODE": "046"
+  },
+  {
+    "DISTRICT_CODE": "3412",
+    "DISTRICT_NAME": "กุดข้าวปุ้น",
+    "DISTRICT_NAME_EN": "Kut Khaopun",
+    "PROVINCE_CODE": "034"
+  },
+  {
+    "DISTRICT_CODE": "4102",
+    "DISTRICT_NAME": "กุดจับ",
+    "DISTRICT_NAME_EN": "Kut Chap",
+    "PROVINCE_CODE": "041"
+  },
+  {
+    "DISTRICT_CODE": "3503",
+    "DISTRICT_NAME": "กุดชุม",
+    "DISTRICT_NAME_EN": "Kut Chum",
+    "PROVINCE_CODE": "035"
+  },
+  {
+    "DISTRICT_CODE": "4703",
+    "DISTRICT_NAME": "กุดบาก",
+    "DISTRICT_NAME_EN": "Kut Bak",
+    "PROVINCE_CODE": "047"
+  },
+  {
+    "DISTRICT_CODE": "4412",
+    "DISTRICT_NAME": "กุดรัง",
+    "DISTRICT_NAME_EN": "Kut Rang",
+    "PROVINCE_CODE": "044"
+  },
+  {
+    "DISTRICT_CODE": "4104",
+    "DISTRICT_NAME": "กุมภวาปี",
+    "DISTRICT_NAME_EN": "Kumphawapi",
+    "PROVINCE_CODE": "041"
+  },
+  {
+    "DISTRICT_CODE": "7702",
+    "DISTRICT_NAME": "กุยบุรี",
+    "DISTRICT_NAME_EN": "Kui Buri",
+    "PROVINCE_CODE": "077"
+  },
+  {
+    "DISTRICT_CODE": "4702",
+    "DISTRICT_NAME": "กุสุมาลย์",
+    "DISTRICT_NAME_EN": "Kusuman",
+    "PROVINCE_CODE": "047"
+  },
+  {
+    "DISTRICT_CODE": "4124",
+    "DISTRICT_NAME": "กู่แก้ว",
+    "DISTRICT_NAME_EN": "Ku Kaeo",
+    "PROVINCE_CODE": "041"
+  },
+  {
+    "DISTRICT_CODE": "4502",
+    "DISTRICT_NAME": "เกษตรวิสัย",
+    "DISTRICT_NAME_EN": "Kaset Wisai",
+    "PROVINCE_CODE": "045"
+  },
+  {
+    "DISTRICT_CODE": "3604",
+    "DISTRICT_NAME": "เกษตรสมบูรณ์",
+    "DISTRICT_NAME_EN": "Kaset Sombun",
+    "PROVINCE_CODE": "036"
+  },
+  {
+    "DISTRICT_CODE": "6006",
+    "DISTRICT_NAME": "เก้าเลี้ยว",
+    "DISTRICT_NAME_EN": "Kao Liao",
+    "PROVINCE_CODE": "060"
+  },
+  {
+    "DISTRICT_CODE": "2306",
+    "DISTRICT_NAME": "เกาะกูด",
+    "DISTRICT_NAME_EN": "Ko Kut",
+    "PROVINCE_CODE": "023"
+  },
+  {
+    "DISTRICT_CODE": "5203",
+    "DISTRICT_NAME": "เกาะคา",
+    "DISTRICT_NAME_EN": "Ko Kha",
+    "PROVINCE_CODE": "052"
+  },
+  {
+    "DISTRICT_CODE": "2011",
+    "DISTRICT_NAME": "เกาะจันทร์",
+    "DISTRICT_NAME_EN": "Ko Chan",
+    "PROVINCE_CODE": "020"
+  },
+  {
+    "DISTRICT_CODE": "2307",
+    "DISTRICT_NAME": "เกาะช้าง",
+    "DISTRICT_NAME_EN": "Ko Chang",
+    "PROVINCE_CODE": "023"
+  },
+  {
+    "DISTRICT_CODE": "8405",
+    "DISTRICT_NAME": "เกาะพะงัน",
+    "DISTRICT_NAME_EN": "Ko Pha-ngan",
+    "PROVINCE_CODE": "084"
+  },
+  {
+    "DISTRICT_CODE": "8202",
+    "DISTRICT_NAME": "เกาะยาว",
+    "DISTRICT_NAME_EN": "Ko Yao",
+    "PROVINCE_CODE": "082"
+  },
+  {
+    "DISTRICT_CODE": "8103",
+    "DISTRICT_NAME": "เกาะลันตา",
+    "DISTRICT_NAME_EN": "Ko Lanta",
+    "PROVINCE_CODE": "081"
+  },
+  {
+    "DISTRICT_CODE": "8404",
+    "DISTRICT_NAME": "เกาะสมุย",
+    "DISTRICT_NAME_EN": "Ko Samui",
+    "PROVINCE_CODE": "084"
+  },
+  {
+    "DISTRICT_CODE": "2008",
+    "DISTRICT_NAME": "เกาะสีชัง",
+    "DISTRICT_NAME_EN": "Ko Sichang",
+    "PROVINCE_CODE": "020"
+  },
+  {
+    "DISTRICT_CODE": "7608",
+    "DISTRICT_NAME": "แก่งกระจาน",
+    "DISTRICT_NAME_EN": "Kaeng Krachan",
+    "PROVINCE_CODE": "076"
+  },
+  {
+    "DISTRICT_CODE": "3612",
+    "DISTRICT_NAME": "แก้งคร้อ",
+    "DISTRICT_NAME_EN": "Kaeng Khro",
+    "PROVINCE_CODE": "036"
+  },
+  {
+    "DISTRICT_CODE": "1902",
+    "DISTRICT_NAME": "แก่งคอย",
+    "DISTRICT_NAME_EN": "Kaeng Khoi",
+    "PROVINCE_CODE": "019"
+  },
+  {
+    "DISTRICT_CODE": "3023",
+    "DISTRICT_NAME": "แก้งสนามนาง",
+    "DISTRICT_NAME_EN": "Kaeng Sanam Nang",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "2208",
+    "DISTRICT_NAME": "แก่งหางแมว",
+    "DISTRICT_NAME_EN": "Kaeng Hang Maeo",
+    "PROVINCE_CODE": "022"
+  },
+  {
+    "DISTRICT_CODE": "4402",
+    "DISTRICT_NAME": "แกดำ",
+    "DISTRICT_NAME_EN": "Kae Dam",
+    "PROVINCE_CODE": "044"
+  },
+  {
+    "DISTRICT_CODE": "2103",
+    "DISTRICT_NAME": "แกลง",
+    "DISTRICT_NAME_EN": "Klaeng",
+    "PROVINCE_CODE": "021"
+  },
+  {
+    "DISTRICT_CODE": "6002",
+    "DISTRICT_NAME": "โกรกพระ",
+    "DISTRICT_NAME_EN": "Krok Phra",
+    "PROVINCE_CODE": "060"
+  },
+  {
+    "DISTRICT_CODE": "6211",
+    "DISTRICT_NAME": "โกสัมพีนคร",
+    "DISTRICT_NAME_EN": "Kosamphi Nakhon",
+    "PROVINCE_CODE": "062"
+  },
+  {
+    "DISTRICT_CODE": "4403",
+    "DISTRICT_NAME": "โกสุมพิสัย",
+    "DISTRICT_NAME_EN": "Kosum Phisai",
+    "PROVINCE_CODE": "044"
+  },
+  {
+    "DISTRICT_CODE": "8015",
+    "DISTRICT_NAME": "ขนอม",
+    "DISTRICT_NAME_EN": "Khanom",
+    "PROVINCE_CODE": "080"
+  },
+  {
+    "DISTRICT_CODE": "2202",
+    "DISTRICT_NAME": "ขลุง",
+    "DISTRICT_NAME_EN": "Khlung",
+    "PROVINCE_CODE": "022"
+  },
+  {
+    "DISTRICT_CODE": "6204",
+    "DISTRICT_NAME": "ขาณุวรลักษบุรี",
+    "DISTRICT_NAME_EN": "Khanu Woralaksaburi",
+    "PROVINCE_CODE": "062"
+  },
+  {
+    "DISTRICT_CODE": "3019",
+    "DISTRICT_NAME": "ขามทะเลสอ",
+    "DISTRICT_NAME_EN": "Kham Thale So",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "3011",
+    "DISTRICT_NAME": "ขามสะแกแสง",
+    "DISTRICT_NAME_EN": "Kham Sakaesaeng",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "3305",
+    "DISTRICT_NAME": "ขุขันธ์",
+    "DISTRICT_NAME_EN": "Khukhan",
+    "PROVINCE_CODE": "033"
+  },
+  {
+    "DISTRICT_CODE": "5714",
+    "DISTRICT_NAME": "ขุนตาล",
+    "DISTRICT_NAME_EN": "Khun Tan",
+    "PROVINCE_CODE": "057"
+  },
+  {
+    "DISTRICT_CODE": "5802",
+    "DISTRICT_NAME": "ขุนยวม",
+    "DISTRICT_NAME_EN": "Khun Yuam",
+    "PROVINCE_CODE": "058"
+  },
+  {
+    "DISTRICT_CODE": "3308",
+    "DISTRICT_NAME": "ขุนหาญ",
+    "DISTRICT_NAME_EN": "Khun Han",
+    "PROVINCE_CODE": "033"
+  },
+  {
+    "DISTRICT_CODE": "3405",
+    "DISTRICT_NAME": "เขมราฐ",
+    "DISTRICT_NAME_EN": "Khemarat",
+    "PROVINCE_CODE": "034"
+  },
+  {
+    "DISTRICT_CODE": "3216",
+    "DISTRICT_NAME": "เขวาสินรินทร์",
+    "DISTRICT_NAME_EN": "Khwao Sinarin",
+    "PROVINCE_CODE": "032"
+  },
+  {
+    "DISTRICT_CODE": "6711",
+    "DISTRICT_NAME": "เขาค้อ",
+    "DISTRICT_NAME_EN": "Khao Kho",
+    "PROVINCE_CODE": "067"
+  },
+  {
+    "DISTRICT_CODE": "2210",
+    "DISTRICT_NAME": "เขาคิชฌกูฏ",
+    "DISTRICT_NAME_EN": "Khoa Khitchakut",
+    "PROVINCE_CODE": "022"
+  },
+  {
+    "DISTRICT_CODE": "2707",
+    "DISTRICT_NAME": "เขาฉกรรจ์",
+    "DISTRICT_NAME_EN": "Khao Chakan",
+    "PROVINCE_CODE": "027"
+  },
+  {
+    "DISTRICT_CODE": "2107",
+    "DISTRICT_NAME": "เขาชะเมา",
+    "DISTRICT_NAME_EN": "Khao Chamao",
+    "PROVINCE_CODE": "021"
+  },
+  {
+    "DISTRICT_CODE": "9303",
+    "DISTRICT_NAME": "เขาชัยสน",
+    "DISTRICT_NAME_EN": "Khao Chaison",
+    "PROVINCE_CODE": "093"
+  },
+  {
+    "DISTRICT_CODE": "8102",
+    "DISTRICT_NAME": "เขาพนม",
+    "DISTRICT_NAME_EN": "Khao Phanom",
+    "PROVINCE_CODE": "081"
+  },
+  {
+    "DISTRICT_CODE": "7602",
+    "DISTRICT_NAME": "เขาย้อย",
+    "DISTRICT_NAME_EN": "Khao Yoi",
+    "PROVINCE_CODE": "076"
+  },
+  {
+    "DISTRICT_CODE": "4606",
+    "DISTRICT_NAME": "เขาวง",
+    "DISTRICT_NAME_EN": "Khao Wong",
+    "PROVINCE_CODE": "046"
+  },
+  {
+    "DISTRICT_CODE": "2303",
+    "DISTRICT_NAME": "เขาสมิง",
+    "DISTRICT_NAME_EN": "Khao Saming",
+    "PROVINCE_CODE": "023"
+  },
+  {
+    "DISTRICT_CODE": "4019",
+    "DISTRICT_NAME": "เขาสวนกวาง",
+    "DISTRICT_NAME_EN": "Khao Suan Kwang",
+    "PROVINCE_CODE": "040"
+  },
+  {
+    "DISTRICT_CODE": "3404",
+    "DISTRICT_NAME": "เขื่องใน",
+    "DISTRICT_NAME_EN": "Khueang Nai",
+    "PROVINCE_CODE": "034"
+  },
+  {
+    "DISTRICT_CODE": "3403",
+    "DISTRICT_NAME": "โขงเจียม",
+    "DISTRICT_NAME_EN": "Khong Chiam",
+    "PROVINCE_CODE": "034"
+  },
+  {
+    "DISTRICT_CODE": "3004",
+    "DISTRICT_NAME": "คง",
+    "DISTRICT_NAME_EN": "Khong",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "3002",
+    "DISTRICT_NAME": "ครบุรี",
+    "DISTRICT_NAME_EN": "Khon Buri",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "6205",
+    "DISTRICT_NAME": "คลองขลุง",
+    "DISTRICT_NAME_EN": "Khlong Khlung",
+    "PROVINCE_CODE": "062"
+  },
+  {
+    "DISTRICT_CODE": "2411",
+    "DISTRICT_NAME": "คลองเขื่อน",
+    "DISTRICT_NAME_EN": "Khlong Khuean",
+    "PROVINCE_CODE": "024"
+  },
+  {
+    "DISTRICT_CODE": "1033",
+    "DISTRICT_NAME": "คลองเตย",
+    "DISTRICT_NAME_EN": "Khlong Toei",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "8104",
+    "DISTRICT_NAME": "คลองท่อม",
+    "DISTRICT_NAME_EN": "Khlong Thom",
+    "PROVINCE_CODE": "081"
+  },
+  {
+    "DISTRICT_CODE": "6203",
+    "DISTRICT_NAME": "คลองลาน",
+    "DISTRICT_NAME_EN": "Khlong Lan",
+    "PROVINCE_CODE": "062"
+  },
+  {
+    "DISTRICT_CODE": "1018",
+    "DISTRICT_NAME": "คลองสาน",
+    "DISTRICT_NAME_EN": "Khlong San",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "1046",
+    "DISTRICT_NAME": "คลองสามวา",
+    "DISTRICT_NAME_EN": "Khlong Sam Wa",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "1302",
+    "DISTRICT_NAME": "คลองหลวง",
+    "DISTRICT_NAME_EN": "Khlong Luang",
+    "PROVINCE_CODE": "013"
+  },
+  {
+    "DISTRICT_CODE": "9016",
+    "DISTRICT_NAME": "คลองหอยโข่ง",
+    "DISTRICT_NAME_EN": "Khlong Hoi Khong",
+    "PROVINCE_CODE": "090"
+  },
+  {
+    "DISTRICT_CODE": "2702",
+    "DISTRICT_NAME": "คลองหาด",
+    "DISTRICT_NAME_EN": "Khlong Hat",
+    "PROVINCE_CODE": "027"
+  },
+  {
+    "DISTRICT_CODE": "2302",
+    "DISTRICT_NAME": "คลองใหญ่",
+    "DISTRICT_NAME_EN": "Khlong Yai",
+    "PROVINCE_CODE": "023"
+  },
+  {
+    "DISTRICT_CODE": "9103",
+    "DISTRICT_NAME": "ควนกาหลง",
+    "DISTRICT_NAME_EN": "Khuan Kalong",
+    "PROVINCE_CODE": "091"
+  },
+  {
+    "DISTRICT_CODE": "9305",
+    "DISTRICT_NAME": "ควนขนุน",
+    "DISTRICT_NAME_EN": "Khuan Khanun",
+    "PROVINCE_CODE": "093"
+  },
+  {
+    "DISTRICT_CODE": "9102",
+    "DISTRICT_NAME": "ควนโดน",
+    "DISTRICT_NAME_EN": "Khuan Don",
+    "PROVINCE_CODE": "091"
+  },
+  {
+    "DISTRICT_CODE": "9013",
+    "DISTRICT_NAME": "ควนเนียง",
+    "DISTRICT_NAME_EN": "Khuan Niang",
+    "PROVINCE_CODE": "090"
+  },
+  {
+    "DISTRICT_CODE": "3603",
+    "DISTRICT_NAME": "คอนสวรรค์",
+    "DISTRICT_NAME_EN": "Khon Sawan",
+    "PROVINCE_CODE": "036"
+  },
+  {
+    "DISTRICT_CODE": "3613",
+    "DISTRICT_NAME": "คอนสาร",
+    "DISTRICT_NAME_EN": "Khon San",
+    "PROVINCE_CODE": "036"
+  },
+  {
+    "DISTRICT_CODE": "3507",
+    "DISTRICT_NAME": "ค้อวัง",
+    "DISTRICT_NAME_EN": "Kho Wang",
+    "PROVINCE_CODE": "035"
+  },
+  {
+    "DISTRICT_CODE": "1043",
+    "DISTRICT_NAME": "คันนายาว",
+    "DISTRICT_NAME_EN": "Khan Na Yao",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "1703",
+    "DISTRICT_NAME": "ค่ายบางระจัน",
+    "DISTRICT_NAME_EN": "Khai Bang Rachan",
+    "PROVINCE_CODE": "017"
+  },
+  {
+    "DISTRICT_CODE": "3504",
+    "DISTRICT_NAME": "คำเขื่อนแก้ว",
+    "DISTRICT_NAME_EN": "Kham Khuean Kaeo",
+    "PROVINCE_CODE": "035"
+  },
+  {
+    "DISTRICT_CODE": "4905",
+    "DISTRICT_NAME": "คำชะอี",
+    "DISTRICT_NAME_EN": "Khamcha-i",
+    "PROVINCE_CODE": "049"
+  },
+  {
+    "DISTRICT_CODE": "4709",
+    "DISTRICT_NAME": "คำตากล้า",
+    "DISTRICT_NAME_EN": "Kham Ta Kla",
+    "PROVINCE_CODE": "047"
+  },
+  {
+    "DISTRICT_CODE": "4610",
+    "DISTRICT_NAME": "คำม่วง",
+    "DISTRICT_NAME_EN": "Kham Muang",
+    "PROVINCE_CODE": "046"
+  },
+  {
+    "DISTRICT_CODE": "6403",
+    "DISTRICT_NAME": "คีรีมาศ",
+    "DISTRICT_NAME_EN": "Khiri Mat",
+    "PROVINCE_CODE": "064"
+  },
+  {
+    "DISTRICT_CODE": "8408",
+    "DISTRICT_NAME": "คีรีรัฐนิคม",
+    "DISTRICT_NAME_EN": "Khiri Rat Nikhom",
+    "PROVINCE_CODE": "084"
+  },
+  {
+    "DISTRICT_CODE": "8206",
+    "DISTRICT_NAME": "คุระบุรี",
+    "DISTRICT_NAME_EN": "Khura Buri",
+    "PROVINCE_CODE": "082"
+  },
+  {
+    "DISTRICT_CODE": "3102",
+    "DISTRICT_NAME": "คูเมือง",
+    "DISTRICT_NAME_EN": "Khu Mueang",
+    "PROVINCE_CODE": "031"
+  },
+  {
+    "DISTRICT_CODE": "8414",
+    "DISTRICT_NAME": "เคียนซา",
+    "DISTRICT_NAME_EN": "Khian Sa",
+    "PROVINCE_CODE": "084"
+  },
+  {
+    "DISTRICT_CODE": "3122",
+    "DISTRICT_NAME": "แคนดง",
+    "DISTRICT_NAME_EN": "Khaen Dong",
+    "PROVINCE_CODE": "031"
+  },
+  {
+    "DISTRICT_CODE": "1609",
+    "DISTRICT_NAME": "โคกเจริญ",
+    "DISTRICT_NAME_EN": "Khok Charoen",
+    "PROVINCE_CODE": "016"
+  },
+  {
+    "DISTRICT_CODE": "9402",
+    "DISTRICT_NAME": "โคกโพธิ์",
+    "DISTRICT_NAME_EN": "Khok Pho",
+    "PROVINCE_CODE": "094"
+  },
+  {
+    "DISTRICT_CODE": "4022",
+    "DISTRICT_NAME": "โคกโพธิ์ไชย",
+    "DISTRICT_NAME_EN": "Khok Pho Chai",
+    "PROVINCE_CODE": "040"
+  },
+  {
+    "DISTRICT_CODE": "4715",
+    "DISTRICT_NAME": "โคกศรีสุพรรณ",
+    "DISTRICT_NAME_EN": "Khok Si Suphan",
+    "PROVINCE_CODE": "047"
+  },
+  {
+    "DISTRICT_CODE": "1603",
+    "DISTRICT_NAME": "โคกสำโรง",
+    "DISTRICT_NAME_EN": "Khok Samrong",
+    "PROVINCE_CODE": "016"
+  },
+  {
+    "DISTRICT_CODE": "2708",
+    "DISTRICT_NAME": "โคกสูง",
+    "DISTRICT_NAME_EN": "Khok Sung",
+    "PROVINCE_CODE": "027"
+  },
+  {
+    "DISTRICT_CODE": "4618",
+    "DISTRICT_NAME": "ฆ้องชัย",
+    "DISTRICT_NAME_EN": "Khong Chai",
+    "PROVINCE_CODE": "046"
+  },
+  {
+    "DISTRICT_CODE": "5205",
+    "DISTRICT_NAME": "งาว",
+    "DISTRICT_NAME_EN": "Ngao",
+    "PROVINCE_CODE": "052"
+  },
+  {
+    "DISTRICT_CODE": "1030",
+    "DISTRICT_NAME": "จตุจักร",
+    "DISTRICT_NAME_EN": "Chatuchak",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "4504",
+    "DISTRICT_NAME": "จตุรพักตรพิมาน",
+    "DISTRICT_NAME_EN": "Chaturaphak Phiman",
+    "PROVINCE_CODE": "045"
+  },
+  {
+    "DISTRICT_CODE": "5002",
+    "DISTRICT_NAME": "จอมทอง",
+    "DISTRICT_NAME_EN": "Chom Thong",
+    "PROVINCE_CODE": "050"
+  },
+  {
+    "DISTRICT_CODE": "1035",
+    "DISTRICT_NAME": "จอมทอง",
+    "DISTRICT_NAME_EN": "Chom Thong",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "7002",
+    "DISTRICT_NAME": "จอมบึง",
+    "DISTRICT_NAME_EN": "Chom Bueng",
+    "PROVINCE_CODE": "070"
+  },
+  {
+    "DISTRICT_CODE": "3204",
+    "DISTRICT_NAME": "จอมพระ",
+    "DISTRICT_NAME_EN": "Chom Phra",
+    "PROVINCE_CODE": "032"
+  },
+  {
+    "DISTRICT_CODE": "9003",
+    "DISTRICT_NAME": "จะนะ",
+    "DISTRICT_NAME_EN": "Chana",
+    "PROVINCE_CODE": "090"
+  },
+  {
+    "DISTRICT_CODE": "9612",
+    "DISTRICT_NAME": "จะแนะ",
+    "DISTRICT_NAME_EN": "Chanae",
+    "PROVINCE_CODE": "096"
+  },
+  {
+    "DISTRICT_CODE": "3006",
+    "DISTRICT_NAME": "จักราช",
+    "DISTRICT_NAME_EN": "Chakkarat",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "4517",
+    "DISTRICT_NAME": "จังหาร",
+    "DISTRICT_NAME_EN": "Changhan",
+    "PROVINCE_CODE": "045"
+  },
+  {
+    "DISTRICT_CODE": "3606",
+    "DISTRICT_NAME": "จัตุรัส",
+    "DISTRICT_NAME_EN": "Chatturat",
+    "PROVINCE_CODE": "036"
+  },
+  {
+    "DISTRICT_CODE": "5602",
+    "DISTRICT_NAME": "จุน",
+    "DISTRICT_NAME_EN": "Chun",
+    "PROVINCE_CODE": "056"
+  },
+  {
+    "DISTRICT_CODE": "8019",
+    "DISTRICT_NAME": "จุฬาภรณ์",
+    "DISTRICT_NAME_EN": "Chulabhorn",
+    "PROVINCE_CODE": "080"
+  },
+  {
+    "DISTRICT_CODE": "4716",
+    "DISTRICT_NAME": "เจริญศิลป์",
+    "DISTRICT_NAME_EN": "Charoen Sin",
+    "PROVINCE_CODE": "047"
+  },
+  {
+    "DISTRICT_CODE": "9613",
+    "DISTRICT_NAME": "เจาะไอร้อง",
+    "DISTRICT_NAME_EN": "Cho-airong",
+    "PROVINCE_CODE": "096"
+  },
+  {
+    "DISTRICT_CODE": "5206",
+    "DISTRICT_NAME": "แจ้ห่ม",
+    "DISTRICT_NAME_EN": "Chae Hom",
+    "PROVINCE_CODE": "052"
+  },
+  {
+    "DISTRICT_CODE": "8004",
+    "DISTRICT_NAME": "ฉวาง",
+    "DISTRICT_NAME_EN": "Chawang",
+    "PROVINCE_CODE": "080"
+  },
+  {
+    "DISTRICT_CODE": "8023",
+    "DISTRICT_NAME": "เฉลิมพระเกียรติ",
+    "DISTRICT_NAME_EN": "Chaloem Phra Kiat",
+    "PROVINCE_CODE": "080"
+  },
+  {
+    "DISTRICT_CODE": "1913",
+    "DISTRICT_NAME": "เฉลิมพระเกียรติ",
+    "DISTRICT_NAME_EN": "Chaloem Phra Kiat",
+    "PROVINCE_CODE": "019"
+  },
+  {
+    "DISTRICT_CODE": "5515",
+    "DISTRICT_NAME": "เฉลิมพระเกียรติ",
+    "DISTRICT_NAME_EN": "Chaloem Phra Kiat",
+    "PROVINCE_CODE": "055"
+  },
+  {
+    "DISTRICT_CODE": "3123",
+    "DISTRICT_NAME": "เฉลิมพระเกียรติ",
+    "DISTRICT_NAME_EN": "Chaloem Phra Kiat",
+    "PROVINCE_CODE": "031"
+  },
+  {
+    "DISTRICT_CODE": "3032",
+    "DISTRICT_NAME": "เฉลิมพระเกียรติ",
+    "DISTRICT_NAME_EN": "Chaloem Phra Kiat",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "6702",
+    "DISTRICT_NAME": "ชนแดน",
+    "DISTRICT_NAME_EN": "Chon Daen",
+    "PROVINCE_CODE": "067"
+  },
+  {
+    "DISTRICT_CODE": "4018",
+    "DISTRICT_NAME": "ชนบท",
+    "DISTRICT_NAME_EN": "Chonnabot",
+    "PROVINCE_CODE": "040"
+  },
+  {
+    "DISTRICT_CODE": "8007",
+    "DISTRICT_NAME": "ชะอวด",
+    "DISTRICT_NAME_EN": "Cha-uat",
+    "PROVINCE_CODE": "080"
+  },
+  {
+    "DISTRICT_CODE": "7604",
+    "DISTRICT_NAME": "ชะอำ",
+    "DISTRICT_NAME_EN": "Cha-am",
+    "PROVINCE_CODE": "076"
+  },
+  {
+    "DISTRICT_CODE": "1604",
+    "DISTRICT_NAME": "ชัยบาดาล",
+    "DISTRICT_NAME_EN": "Chai Badan",
+    "PROVINCE_CODE": "016"
+  },
+  {
+    "DISTRICT_CODE": "8418",
+    "DISTRICT_NAME": "ชัยบุรี",
+    "DISTRICT_NAME_EN": "Chai Buri",
+    "PROVINCE_CODE": "084"
+  },
+  {
+    "DISTRICT_CODE": "8022",
+    "DISTRICT_NAME": "ช้างกลาง",
+    "DISTRICT_NAME_EN": "Chang Klang",
+    "PROVINCE_CODE": "080"
+  },
+  {
+    "DISTRICT_CODE": "6503",
+    "DISTRICT_NAME": "ชาติตระการ",
+    "DISTRICT_NAME_EN": "Chat Trakan",
+    "PROVINCE_CODE": "065"
+  },
+  {
+    "DISTRICT_CODE": "3702",
+    "DISTRICT_NAME": "ชานุมาน",
+    "DISTRICT_NAME_EN": "Chanuman",
+    "PROVINCE_CODE": "037"
+  },
+  {
+    "DISTRICT_CODE": "3118",
+    "DISTRICT_NAME": "ชำนิ",
+    "DISTRICT_NAME_EN": "Chamni",
+    "PROVINCE_CODE": "031"
+  },
+  {
+    "DISTRICT_CODE": "4413",
+    "DISTRICT_NAME": "ชื่นชม",
+    "DISTRICT_NAME_EN": "Chuen Chom",
+    "PROVINCE_CODE": "044"
+  },
+  {
+    "DISTRICT_CODE": "6015",
+    "DISTRICT_NAME": "ชุมตาบง",
+    "DISTRICT_NAME_EN": "Chum Ta Bong",
+    "PROVINCE_CODE": "060"
+  },
+  {
+    "DISTRICT_CODE": "3202",
+    "DISTRICT_NAME": "ชุมพลบุรี",
+    "DISTRICT_NAME_EN": "Chumphon Buri",
+    "PROVINCE_CODE": "032"
+  },
+  {
+    "DISTRICT_CODE": "3017",
+    "DISTRICT_NAME": "ชุมพวง",
+    "DISTRICT_NAME_EN": "Chum Phuang",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "4005",
+    "DISTRICT_NAME": "ชุมแพ",
+    "DISTRICT_NAME_EN": "Chum Phae",
+    "PROVINCE_CODE": "040"
+  },
+  {
+    "DISTRICT_CODE": "6003",
+    "DISTRICT_NAME": "ชุมแสง",
+    "DISTRICT_NAME_EN": "Chum Saeng",
+    "PROVINCE_CODE": "060"
+  },
+  {
+    "DISTRICT_CODE": "5509",
+    "DISTRICT_NAME": "เชียงกลาง",
+    "DISTRICT_NAME_EN": "Chiang Klang",
+    "PROVINCE_CODE": "055"
+  },
+  {
+    "DISTRICT_CODE": "4518",
+    "DISTRICT_NAME": "เชียงขวัญ",
+    "DISTRICT_NAME_EN": "Chiang Khwan",
+    "PROVINCE_CODE": "045"
+  },
+  {
+    "DISTRICT_CODE": "5703",
+    "DISTRICT_NAME": "เชียงของ",
+    "DISTRICT_NAME_EN": "Chiang Khong",
+    "PROVINCE_CODE": "057"
+  },
+  {
+    "DISTRICT_CODE": "4203",
+    "DISTRICT_NAME": "เชียงคาน",
+    "DISTRICT_NAME_EN": "Chiang Khan",
+    "PROVINCE_CODE": "042"
+  },
+  {
+    "DISTRICT_CODE": "5603",
+    "DISTRICT_NAME": "เชียงคำ",
+    "DISTRICT_NAME_EN": "Chiang Kham",
+    "PROVINCE_CODE": "056"
+  },
+  {
+    "DISTRICT_CODE": "5004",
+    "DISTRICT_NAME": "เชียงดาว",
+    "DISTRICT_NAME_EN": "Chiang Dao",
+    "PROVINCE_CODE": "050"
+  },
+  {
+    "DISTRICT_CODE": "5604",
+    "DISTRICT_NAME": "เชียงม่วน",
+    "DISTRICT_NAME_EN": "Chiang Muan",
+    "PROVINCE_CODE": "056"
+  },
+  {
+    "DISTRICT_CODE": "4405",
+    "DISTRICT_NAME": "เชียงยืน",
+    "DISTRICT_NAME_EN": "Chiang Yuen",
+    "PROVINCE_CODE": "044"
+  },
+  {
+    "DISTRICT_CODE": "5708",
+    "DISTRICT_NAME": "เชียงแสน",
+    "DISTRICT_NAME_EN": "Chiang Saen",
+    "PROVINCE_CODE": "057"
+  },
+  {
+    "DISTRICT_CODE": "8006",
+    "DISTRICT_NAME": "เชียรใหญ่",
+    "DISTRICT_NAME_EN": "Chian Yai",
+    "PROVINCE_CODE": "080"
+  },
+  {
+    "DISTRICT_CODE": "3007",
+    "DISTRICT_NAME": "โชคชัย",
+    "DISTRICT_NAME_EN": "Chok Chai",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "5021",
+    "DISTRICT_NAME": "ไชยปราการ",
+    "DISTRICT_NAME_EN": "Chai Prakan",
+    "PROVINCE_CODE": "050"
+  },
+  {
+    "DISTRICT_CODE": "4108",
+    "DISTRICT_NAME": "ไชยวาน",
+    "DISTRICT_NAME_EN": "Chai Wan",
+    "PROVINCE_CODE": "041"
+  },
+  {
+    "DISTRICT_CODE": "8406",
+    "DISTRICT_NAME": "ไชยา",
+    "DISTRICT_NAME_EN": "Chaiya",
+    "PROVINCE_CODE": "084"
+  },
+  {
+    "DISTRICT_CODE": "1502",
+    "DISTRICT_NAME": "ไชโย",
+    "DISTRICT_NAME_EN": "Chaiyo",
+    "PROVINCE_CODE": "015"
+  },
+  {
+    "DISTRICT_CODE": "3616",
+    "DISTRICT_NAME": "ซับใหญ่",
+    "DISTRICT_NAME_EN": "Sap Yai",
+    "PROVINCE_CODE": "036"
+  },
+  {
+    "DISTRICT_CODE": "4021",
+    "DISTRICT_NAME": "ซำสูง",
+    "DISTRICT_NAME_EN": "Sam Sung",
+    "PROVINCE_CODE": "040"
+  },
+  {
+    "DISTRICT_CODE": "3804",
+    "DISTRICT_NAME": "เซกา",
+    "DISTRICT_NAME_EN": "Seka",
+    "PROVINCE_CODE": "038"
+  },
+  {
+    "DISTRICT_CODE": "3803",
+    "DISTRICT_NAME": "โซ่พิสัย",
+    "DISTRICT_NAME_EN": "So Phisai",
+    "PROVINCE_CODE": "038"
+  },
+  {
+    "DISTRICT_CODE": "6611",
+    "DISTRICT_NAME": "ดงเจริญ",
+    "DISTRICT_NAME_EN": "Dong Charoen",
+    "PROVINCE_CODE": "066"
+  },
+  {
+    "DISTRICT_CODE": "4904",
+    "DISTRICT_NAME": "ดงหลวง",
+    "DISTRICT_NAME_EN": "Dong Luang",
+    "PROVINCE_CODE": "049"
+  },
+  {
+    "DISTRICT_CODE": "5605",
+    "DISTRICT_NAME": "ดอกคำใต้",
+    "DISTRICT_NAME_EN": "Dok Khamtai",
+    "PROVINCE_CODE": "056"
+  },
+  {
+    "DISTRICT_CODE": "4617",
+    "DISTRICT_NAME": "ดอนจาน",
+    "DISTRICT_NAME_EN": "Don Chan",
+    "PROVINCE_CODE": "046"
+  },
+  {
+    "DISTRICT_CODE": "7206",
+    "DISTRICT_NAME": "ดอนเจดีย์",
+    "DISTRICT_NAME_EN": "Don Chedi",
+    "PROVINCE_CODE": "072"
+  },
+  {
+    "DISTRICT_CODE": "4903",
+    "DISTRICT_NAME": "ดอนตาล",
+    "DISTRICT_NAME_EN": "Don Tan",
+    "PROVINCE_CODE": "049"
+  },
+  {
+    "DISTRICT_CODE": "7304",
+    "DISTRICT_NAME": "ดอนตูม",
+    "DISTRICT_NAME_EN": "Don Tum",
+    "PROVINCE_CODE": "073"
+  },
+  {
+    "DISTRICT_CODE": "1907",
+    "DISTRICT_NAME": "ดอนพุด",
+    "DISTRICT_NAME_EN": "Don Phut",
+    "PROVINCE_CODE": "019"
+  },
+  {
+    "DISTRICT_CODE": "3424",
+    "DISTRICT_NAME": "ดอนมดแดง",
+    "DISTRICT_NAME_EN": "Don Mot Daeng",
+    "PROVINCE_CODE": "034"
+  },
+  {
+    "DISTRICT_CODE": "1036",
+    "DISTRICT_NAME": "ดอนเมือง",
+    "DISTRICT_NAME_EN": "Don Mueang",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "8403",
+    "DISTRICT_NAME": "ดอนสัก",
+    "DISTRICT_NAME_EN": "Don Sak",
+    "PROVINCE_CODE": "084"
+  },
+  {
+    "DISTRICT_CODE": "5017",
+    "DISTRICT_NAME": "ดอยเต่า",
+    "DISTRICT_NAME_EN": "Doi Tao",
+    "PROVINCE_CODE": "050"
+  },
+  {
+    "DISTRICT_CODE": "5005",
+    "DISTRICT_NAME": "ดอยสะเก็ด",
+    "DISTRICT_NAME_EN": "Doi Saket",
+    "PROVINCE_CODE": "050"
+  },
+  {
+    "DISTRICT_CODE": "5718",
+    "DISTRICT_NAME": "ดอยหลวง",
+    "DISTRICT_NAME_EN": "Doi Luang",
+    "PROVINCE_CODE": "057"
+  },
+  {
+    "DISTRICT_CODE": "5024",
+    "DISTRICT_NAME": "ดอยหล่อ",
+    "DISTRICT_NAME_EN": "Doi Lo",
+    "PROVINCE_CODE": "050"
+  },
+  {
+    "DISTRICT_CODE": "3008",
+    "DISTRICT_NAME": "ด่านขุนทด",
+    "DISTRICT_NAME_EN": "Dan Khun Thot",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "7203",
+    "DISTRICT_NAME": "ด่านช้าง",
+    "DISTRICT_NAME_EN": "Dan Chang",
+    "PROVINCE_CODE": "072"
+  },
+  {
+    "DISTRICT_CODE": "4205",
+    "DISTRICT_NAME": "ด่านซ้าย",
+    "DISTRICT_NAME_EN": "Dan Sai",
+    "PROVINCE_CODE": "042"
+  },
+  {
+    "DISTRICT_CODE": "7111",
+    "DISTRICT_NAME": "ด่านมะขามเตี้ย",
+    "DISTRICT_NAME_EN": "Dan Makham Tia",
+    "PROVINCE_CODE": "071"
+  },
+  {
+    "DISTRICT_CODE": "7004",
+    "DISTRICT_NAME": "ดำเนินสะดวก",
+    "DISTRICT_NAME_EN": "Damnoen Saduak",
+    "PROVINCE_CODE": "070"
+  },
+  {
+    "DISTRICT_CODE": "1026",
+    "DISTRICT_NAME": "ดินแดง",
+    "DISTRICT_NAME_EN": "Din Daeng",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "1002",
+    "DISTRICT_NAME": "ดุสิต",
+    "DISTRICT_NAME_EN": "Dusit",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "3407",
+    "DISTRICT_NAME": "เดชอุดม",
+    "DISTRICT_NAME_EN": "Det Udom",
+    "PROVINCE_CODE": "034"
+  },
+  {
+    "DISTRICT_CODE": "5405",
+    "DISTRICT_NAME": "เด่นชัย",
+    "DISTRICT_NAME_EN": "Den Chai",
+    "PROVINCE_CODE": "054"
+  },
+  {
+    "DISTRICT_CODE": "7202",
+    "DISTRICT_NAME": "เดิมบางนางบวช",
+    "DISTRICT_NAME_EN": "Doem Bang Nang Buat",
+    "PROVINCE_CODE": "072"
+  },
+  {
+    "DISTRICT_CODE": "5302",
+    "DISTRICT_NAME": "ตรอน",
+    "DISTRICT_NAME_EN": "Tron",
+    "PROVINCE_CODE": "053"
+  },
+  {
+    "DISTRICT_CODE": "3411",
+    "DISTRICT_NAME": "ตระการพืชผล",
+    "DISTRICT_NAME_EN": "Trakan Phuet Phon",
+    "PROVINCE_CODE": "034"
+  },
+  {
+    "DISTRICT_CODE": "1019",
+    "DISTRICT_NAME": "ตลิ่งชัน",
+    "DISTRICT_NAME_EN": "Taling Chan",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "8204",
+    "DISTRICT_NAME": "ตะกั่วทุ่ง",
+    "DISTRICT_NAME_EN": "Takua Thung",
+    "PROVINCE_CODE": "082"
+  },
+  {
+    "DISTRICT_CODE": "8205",
+    "DISTRICT_NAME": "ตะกั่วป่า",
+    "DISTRICT_NAME_EN": "Takua Pa",
+    "PROVINCE_CODE": "082"
+  },
+  {
+    "DISTRICT_CODE": "6604",
+    "DISTRICT_NAME": "ตะพานหิน",
+    "DISTRICT_NAME_EN": "Taphan Hin",
+    "PROVINCE_CODE": "066"
+  },
+  {
+    "DISTRICT_CODE": "9304",
+    "DISTRICT_NAME": "ตะโหมด",
+    "DISTRICT_NAME_EN": "Tamot",
+    "PROVINCE_CODE": "093"
+  },
+  {
+    "DISTRICT_CODE": "9602",
+    "DISTRICT_NAME": "ตากใบ",
+    "DISTRICT_NAME_EN": "Tak Bai",
+    "PROVINCE_CODE": "096"
+  },
+  {
+    "DISTRICT_CODE": "6012",
+    "DISTRICT_NAME": "ตากฟ้า",
+    "DISTRICT_NAME_EN": "Tak Fa",
+    "PROVINCE_CODE": "060"
+  },
+  {
+    "DISTRICT_CODE": "6007",
+    "DISTRICT_NAME": "ตาคลี",
+    "DISTRICT_NAME_EN": "Takhli",
+    "PROVINCE_CODE": "060"
+  },
+  {
+    "DISTRICT_CODE": "2703",
+    "DISTRICT_NAME": "ตาพระยา",
+    "DISTRICT_NAME_EN": "Ta Phraya",
+    "PROVINCE_CODE": "027"
+  },
+  {
+    "DISTRICT_CODE": "3420",
+    "DISTRICT_NAME": "ตาลสุม",
+    "DISTRICT_NAME_EN": "Tan Sum",
+    "PROVINCE_CODE": "034"
+  },
+  {
+    "DISTRICT_CODE": "4714",
+    "DISTRICT_NAME": "เต่างอย",
+    "DISTRICT_NAME_EN": "Tao Ngoi",
+    "PROVINCE_CODE": "047"
+  },
+  {
+    "DISTRICT_CODE": "8303",
+    "DISTRICT_NAME": "ถลาง",
+    "DISTRICT_NAME_EN": "Thalang",
+    "PROVINCE_CODE": "083"
+  },
+  {
+    "DISTRICT_CODE": "8018",
+    "DISTRICT_NAME": "ถ้ำพรรณรา",
+    "DISTRICT_NAME_EN": "Tham Phannara",
+    "PROVINCE_CODE": "080"
+  },
+  {
+    "DISTRICT_CODE": "5208",
+    "DISTRICT_NAME": "เถิน",
+    "DISTRICT_NAME_EN": "Thoen",
+    "PROVINCE_CODE": "052"
+  },
+  {
+    "DISTRICT_CODE": "6208",
+    "DISTRICT_NAME": "ทรายทองวัฒนา",
+    "DISTRICT_NAME_EN": "Sai Thong Watthana",
+    "PROVINCE_CODE": "062"
+  },
+  {
+    "DISTRICT_CODE": "3502",
+    "DISTRICT_NAME": "ทรายมูล",
+    "DISTRICT_NAME_EN": "Sai Mun",
+    "PROVINCE_CODE": "035"
+  },
+  {
+    "DISTRICT_CODE": "1048",
+    "DISTRICT_NAME": "ทวีวัฒนา",
+    "DISTRICT_NAME_EN": "Thawi Watthana",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "7107",
+    "DISTRICT_NAME": "ทองผาภูมิ",
+    "DISTRICT_NAME_EN": "Thong Pha Phum",
+    "PROVINCE_CODE": "071"
+  },
+  {
+    "DISTRICT_CODE": "5309",
+    "DISTRICT_NAME": "ทองแสนขัน",
+    "DISTRICT_NAME_EN": "Thong Saen Khan",
+    "PROVINCE_CODE": "053"
+  },
+  {
+    "DISTRICT_CODE": "6608",
+    "DISTRICT_NAME": "ทับคล้อ",
+    "DISTRICT_NAME_EN": "Tap Khlo",
+    "PROVINCE_CODE": "066"
+  },
+  {
+    "DISTRICT_CODE": "8207",
+    "DISTRICT_NAME": "ทับปุด",
+    "DISTRICT_NAME_EN": "Thap Put",
+    "PROVINCE_CODE": "082"
+  },
+  {
+    "DISTRICT_CODE": "7703",
+    "DISTRICT_NAME": "ทับสะแก",
+    "DISTRICT_NAME_EN": "Thap Sakae",
+    "PROVINCE_CODE": "077"
+  },
+  {
+    "DISTRICT_CODE": "6102",
+    "DISTRICT_NAME": "ทัพทัน",
+    "DISTRICT_NAME_EN": "Thap Than",
+    "PROVINCE_CODE": "061"
+  },
+  {
+    "DISTRICT_CODE": "4611",
+    "DISTRICT_NAME": "ท่าคันโท",
+    "DISTRICT_NAME_EN": "Tha Khantho",
+    "PROVINCE_CODE": "046"
+  },
+  {
+    "DISTRICT_CODE": "8411",
+    "DISTRICT_NAME": "ท่าฉาง",
+    "DISTRICT_NAME_EN": "Tha Chang",
+    "PROVINCE_CODE": "084"
+  },
+  {
+    "DISTRICT_CODE": "8407",
+    "DISTRICT_NAME": "ท่าชนะ",
+    "DISTRICT_NAME_EN": "Tha Chana",
+    "PROVINCE_CODE": "084"
+  },
+  {
+    "DISTRICT_CODE": "1705",
+    "DISTRICT_NAME": "ท่าช้าง",
+    "DISTRICT_NAME_EN": "Tha Chang",
+    "PROVINCE_CODE": "017"
+  },
+  {
+    "DISTRICT_CODE": "8602",
+    "DISTRICT_NAME": "ท่าแซะ",
+    "DISTRICT_NAME_EN": "Tha Sae",
+    "PROVINCE_CODE": "086"
+  },
+  {
+    "DISTRICT_CODE": "2410",
+    "DISTRICT_NAME": "ท่าตะเกียบ",
+    "DISTRICT_NAME_EN": "Tha Takiap",
+    "PROVINCE_CODE": "024"
+  },
+  {
+    "DISTRICT_CODE": "6008",
+    "DISTRICT_NAME": "ท่าตะโก",
+    "DISTRICT_NAME_EN": "Tha Tako",
+    "PROVINCE_CODE": "060"
+  },
+  {
+    "DISTRICT_CODE": "3203",
+    "DISTRICT_NAME": "ท่าตูม",
+    "DISTRICT_NAME_EN": "Tha Tum",
+    "PROVINCE_CODE": "032"
+  },
+  {
+    "DISTRICT_CODE": "4302",
+    "DISTRICT_NAME": "ท่าบ่อ",
+    "DISTRICT_NAME_EN": "Tha Bo",
+    "PROVINCE_CODE": "043"
+  },
+  {
+    "DISTRICT_CODE": "5303",
+    "DISTRICT_NAME": "ท่าปลา",
+    "DISTRICT_NAME_EN": "Tha Pla",
+    "PROVINCE_CODE": "053"
+  },
+  {
+    "DISTRICT_CODE": "9104",
+    "DISTRICT_NAME": "ท่าแพ",
+    "DISTRICT_NAME_EN": "Tha Phae",
+    "PROVINCE_CODE": "091"
+  },
+  {
+    "DISTRICT_CODE": "7106",
+    "DISTRICT_NAME": "ท่าม่วง",
+    "DISTRICT_NAME_EN": "Tha Muang",
+    "PROVINCE_CODE": "071"
+  },
+  {
+    "DISTRICT_CODE": "7105",
+    "DISTRICT_NAME": "ท่ามะกา",
+    "DISTRICT_NAME_EN": "Tha Maka",
+    "PROVINCE_CODE": "071"
+  },
+  {
+    "DISTRICT_CODE": "8208",
+    "DISTRICT_NAME": "ท้ายเหมือง",
+    "DISTRICT_NAME_EN": "Thai Mueang",
+    "PROVINCE_CODE": "082"
+  },
+  {
+    "DISTRICT_CODE": "7605",
+    "DISTRICT_NAME": "ท่ายาง",
+    "DISTRICT_NAME_EN": "Tha Yang",
+    "PROVINCE_CODE": "076"
+  },
+  {
+    "DISTRICT_CODE": "1402",
+    "DISTRICT_NAME": "ท่าเรือ",
+    "DISTRICT_NAME_EN": "Tha Ruea",
+    "PROVINCE_CODE": "014"
+  },
+  {
+    "DISTRICT_CODE": "4208",
+    "DISTRICT_NAME": "ท่าลี่",
+    "DISTRICT_NAME_EN": "Tha Li",
+    "PROVINCE_CODE": "042"
+  },
+  {
+    "DISTRICT_CODE": "5506",
+    "DISTRICT_NAME": "ท่าวังผา",
+    "DISTRICT_NAME_EN": "Tha Wang Pha",
+    "PROVINCE_CODE": "055"
+  },
+  {
+    "DISTRICT_CODE": "1605",
+    "DISTRICT_NAME": "ท่าวุ้ง",
+    "DISTRICT_NAME_EN": "Tha Wung",
+    "PROVINCE_CODE": "016"
+  },
+  {
+    "DISTRICT_CODE": "8008",
+    "DISTRICT_NAME": "ท่าศาลา",
+    "DISTRICT_NAME_EN": "Tha Sala",
+    "PROVINCE_CODE": "080"
+  },
+  {
+    "DISTRICT_CODE": "6305",
+    "DISTRICT_NAME": "ท่าสองยาง",
+    "DISTRICT_NAME_EN": "Tha Song Yang",
+    "PROVINCE_CODE": "063"
+  },
+  {
+    "DISTRICT_CODE": "1607",
+    "DISTRICT_NAME": "ท่าหลวง",
+    "DISTRICT_NAME_EN": "Tha Luang",
+    "PROVINCE_CODE": "016"
+  },
+  {
+    "DISTRICT_CODE": "2203",
+    "DISTRICT_NAME": "ท่าใหม่",
+    "DISTRICT_NAME_EN": "Tha Mai",
+    "PROVINCE_CODE": "022"
+  },
+  {
+    "DISTRICT_CODE": "4803",
+    "DISTRICT_NAME": "ท่าอุเทน",
+    "DISTRICT_NAME_EN": "Tha Uthen",
+    "PROVINCE_CODE": "048"
+  },
+  {
+    "DISTRICT_CODE": "4520",
+    "DISTRICT_NAME": "ทุ่งเขาหลวง",
+    "DISTRICT_NAME_EN": "Thung Khao Luangก",
+    "PROVINCE_CODE": "045"
+  },
+  {
+    "DISTRICT_CODE": "1049",
+    "DISTRICT_NAME": "ทุ่งครุ",
+    "DISTRICT_NAME_EN": "Thung Khru",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "5508",
+    "DISTRICT_NAME": "ทุ่งช้าง",
+    "DISTRICT_NAME_EN": "Thung Chang",
+    "PROVINCE_CODE": "055"
+  },
+  {
+    "DISTRICT_CODE": "8608",
+    "DISTRICT_NAME": "ทุ่งตะโก",
+    "DISTRICT_NAME_EN": "Thung Tako",
+    "PROVINCE_CODE": "086"
+  },
+  {
+    "DISTRICT_CODE": "4107",
+    "DISTRICT_NAME": "ทุ่งฝน",
+    "DISTRICT_NAME_EN": "Thung Fon",
+    "PROVINCE_CODE": "041"
+  },
+  {
+    "DISTRICT_CODE": "9406",
+    "DISTRICT_NAME": "ทุ่งยางแดง",
+    "DISTRICT_NAME_EN": "Thung Yang Daeng",
+    "PROVINCE_CODE": "094"
+  },
+  {
+    "DISTRICT_CODE": "3426",
+    "DISTRICT_NAME": "ทุ่งศรีอุดม",
+    "DISTRICT_NAME_EN": "Thung Si Udom",
+    "PROVINCE_CODE": "034"
+  },
+  {
+    "DISTRICT_CODE": "8009",
+    "DISTRICT_NAME": "ทุ่งสง",
+    "DISTRICT_NAME_EN": "Thung Song",
+    "PROVINCE_CODE": "080"
+  },
+  {
+    "DISTRICT_CODE": "6409",
+    "DISTRICT_NAME": "ทุ่งเสลี่ยม",
+    "DISTRICT_NAME_EN": "Thung Saliam",
+    "PROVINCE_CODE": "064"
+  },
+  {
+    "DISTRICT_CODE": "9106",
+    "DISTRICT_NAME": "ทุ่งหว้า",
+    "DISTRICT_NAME_EN": "Thung Wa",
+    "PROVINCE_CODE": "091"
+  },
+  {
+    "DISTRICT_CODE": "5105",
+    "DISTRICT_NAME": "ทุ่งหัวช้าง",
+    "DISTRICT_NAME_EN": "Thung Hua Chang",
+    "PROVINCE_CODE": "051"
+  },
+  {
+    "DISTRICT_CODE": "8011",
+    "DISTRICT_NAME": "ทุ่งใหญ่",
+    "DISTRICT_NAME_EN": "Thung Yai",
+    "PROVINCE_CODE": "080"
+  },
+  {
+    "DISTRICT_CODE": "3609",
+    "DISTRICT_NAME": "เทพสถิต",
+    "DISTRICT_NAME_EN": "Thep Sathit",
+    "PROVINCE_CODE": "036"
+  },
+  {
+    "DISTRICT_CODE": "9005",
+    "DISTRICT_NAME": "เทพา",
+    "DISTRICT_NAME_EN": "Thepha",
+    "PROVINCE_CODE": "090"
+  },
+  {
+    "DISTRICT_CODE": "3026",
+    "DISTRICT_NAME": "เทพารักษ์",
+    "DISTRICT_NAME_EN": "Thepharak",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "5704",
+    "DISTRICT_NAME": "เทิง",
+    "DISTRICT_NAME_EN": "Thoeng",
+    "PROVINCE_CODE": "057"
+  },
+  {
+    "DISTRICT_CODE": "3509",
+    "DISTRICT_NAME": "ไทยเจริญ",
+    "DISTRICT_NAME_EN": "Thai Charoen",
+    "PROVINCE_CODE": "035"
+  },
+  {
+    "DISTRICT_CODE": "6202",
+    "DISTRICT_NAME": "ไทรงาม",
+    "DISTRICT_NAME_EN": "Sai Ngam",
+    "PROVINCE_CODE": "062"
+  },
+  {
+    "DISTRICT_CODE": "1205",
+    "DISTRICT_NAME": "ไทรน้อย",
+    "DISTRICT_NAME_EN": "Sai Noi",
+    "PROVINCE_CODE": "012"
+  },
+  {
+    "DISTRICT_CODE": "7102",
+    "DISTRICT_NAME": "ไทรโยค",
+    "DISTRICT_NAME_EN": "Sai Yok",
+    "PROVINCE_CODE": "071"
+  },
+  {
+    "DISTRICT_CODE": "1015",
+    "DISTRICT_NAME": "ธนบุรี",
+    "DISTRICT_NAME_EN": "Thon Buri",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "4505",
+    "DISTRICT_NAME": "ธวัชบุรี",
+    "DISTRICT_NAME_EN": "Thawat Buri",
+    "PROVINCE_CODE": "045"
+  },
+  {
+    "DISTRICT_CODE": "1303",
+    "DISTRICT_NAME": "ธัญบุรี",
+    "DISTRICT_NAME_EN": "Thanyaburi",
+    "PROVINCE_CODE": "013"
+  },
+  {
+    "DISTRICT_CODE": "4805",
+    "DISTRICT_NAME": "ธาตุพนม",
+    "DISTRICT_NAME_EN": "That Phanom",
+    "PROVINCE_CODE": "048"
+  },
+  {
+    "DISTRICT_CODE": "9504",
+    "DISTRICT_NAME": "ธารโต",
+    "DISTRICT_NAME_EN": "Than To",
+    "PROVINCE_CODE": "095"
+  },
+  {
+    "DISTRICT_CODE": "7303",
+    "DISTRICT_NAME": "นครชัยศรี",
+    "DISTRICT_NAME_EN": "Nakhon Chai Si",
+    "PROVINCE_CODE": "073"
+  },
+  {
+    "DISTRICT_CODE": "6502",
+    "DISTRICT_NAME": "นครไทย",
+    "DISTRICT_NAME_EN": "Nakhon Thai",
+    "PROVINCE_CODE": "065"
+  },
+  {
+    "DISTRICT_CODE": "1403",
+    "DISTRICT_NAME": "นครหลวง",
+    "DISTRICT_NAME_EN": "Nakhon Luang",
+    "PROVINCE_CODE": "014"
+  },
+  {
+    "DISTRICT_CODE": "8021",
+    "DISTRICT_NAME": "นบพิตำ",
+    "DISTRICT_NAME_EN": "Nopphitam",
+    "PROVINCE_CODE": "080"
+  },
+  {
+    "DISTRICT_CODE": "3902",
+    "DISTRICT_NAME": "นากลาง",
+    "DISTRICT_NAME_EN": "Na Klang",
+    "PROVINCE_CODE": "039"
+  },
+  {
+    "DISTRICT_CODE": "4807",
+    "DISTRICT_NAME": "นาแก",
+    "DISTRICT_NAME_EN": "Na Kae",
+    "PROVINCE_CODE": "048"
+  },
+  {
+    "DISTRICT_CODE": "4616",
+    "DISTRICT_NAME": "นาคู",
+    "DISTRICT_NAME_EN": "Na Khu",
+    "PROVINCE_CODE": "046"
+  },
+  {
+    "DISTRICT_CODE": "3104",
+    "DISTRICT_NAME": "นางรอง",
+    "DISTRICT_NAME_EN": "Nang Rong",
+    "PROVINCE_CODE": "031"
+  },
+  {
+    "DISTRICT_CODE": "3408",
+    "DISTRICT_NAME": "นาจะหลวย",
+    "DISTRICT_NAME_EN": "Na Chaluai",
+    "PROVINCE_CODE": "034"
+  },
+  {
+    "DISTRICT_CODE": "4407",
+    "DISTRICT_NAME": "นาเชือก",
+    "DISTRICT_NAME_EN": "Na Chueak",
+    "PROVINCE_CODE": "044"
+  },
+  {
+    "DISTRICT_CODE": "4202",
+    "DISTRICT_NAME": "นาด้วง",
+    "DISTRICT_NAME_EN": "Na Duang",
+    "PROVINCE_CODE": "042"
+  },
+  {
+    "DISTRICT_CODE": "2503",
+    "DISTRICT_NAME": "นาดี",
+    "DISTRICT_NAME_EN": "Na Di",
+    "PROVINCE_CODE": "025"
+  },
+  {
+    "DISTRICT_CODE": "4410",
+    "DISTRICT_NAME": "นาดูน",
+    "DISTRICT_NAME_EN": "Na Dun",
+    "PROVINCE_CODE": "044"
+  },
+  {
+    "DISTRICT_CODE": "3430",
+    "DISTRICT_NAME": "นาตาล",
+    "DISTRICT_NAME_EN": "Na Tan",
+    "PROVINCE_CODE": "034"
+  },
+  {
+    "DISTRICT_CODE": "4811",
+    "DISTRICT_NAME": "นาทม",
+    "DISTRICT_NAME_EN": "Na Thom",
+    "PROVINCE_CODE": "048"
+  },
+  {
+    "DISTRICT_CODE": "9004",
+    "DISTRICT_NAME": "นาทวี",
+    "DISTRICT_NAME_EN": "Na Thawi",
+    "PROVINCE_CODE": "090"
+  },
+  {
+    "DISTRICT_CODE": "5504",
+    "DISTRICT_NAME": "นาน้อย",
+    "DISTRICT_NAME_EN": "Na Noi",
+    "PROVINCE_CODE": "055"
+  },
+  {
+    "DISTRICT_CODE": "8010",
+    "DISTRICT_NAME": "นาบอน",
+    "DISTRICT_NAME_EN": "Na Bon",
+    "PROVINCE_CODE": "080"
+  },
+  {
+    "DISTRICT_CODE": "3113",
+    "DISTRICT_NAME": "นาโพธิ์",
+    "DISTRICT_NAME_EN": "Na Pho",
+    "PROVINCE_CODE": "031"
+  },
+  {
+    "DISTRICT_CODE": "4602",
+    "DISTRICT_NAME": "นามน",
+    "DISTRICT_NAME_EN": "Na Mon",
+    "PROVINCE_CODE": "046"
+  },
+  {
+    "DISTRICT_CODE": "2209",
+    "DISTRICT_NAME": "นายายอาม",
+    "DISTRICT_NAME_EN": "Na Yai Am",
+    "PROVINCE_CODE": "022"
+  },
+  {
+    "DISTRICT_CODE": "4122",
+    "DISTRICT_NAME": "นายูง",
+    "DISTRICT_NAME_EN": "Na Yung",
+    "PROVINCE_CODE": "041"
+  },
+  {
+    "DISTRICT_CODE": "3429",
+    "DISTRICT_NAME": "นาเยีย",
+    "DISTRICT_NAME_EN": "Na Yia",
+    "PROVINCE_CODE": "034"
+  },
+  {
+    "DISTRICT_CODE": "9208",
+    "DISTRICT_NAME": "นาโยง",
+    "DISTRICT_NAME_EN": "Na Yong",
+    "PROVINCE_CODE": "092"
+  },
+  {
+    "DISTRICT_CODE": "3906",
+    "DISTRICT_NAME": "นาวัง",
+    "DISTRICT_NAME_EN": "Na Wang",
+    "PROVINCE_CODE": "039"
+  },
+  {
+    "DISTRICT_CODE": "9012",
+    "DISTRICT_NAME": "นาหม่อม",
+    "DISTRICT_NAME_EN": "Na Mom",
+    "PROVINCE_CODE": "090"
+  },
+  {
+    "DISTRICT_CODE": "5510",
+    "DISTRICT_NAME": "นาหมื่น",
+    "DISTRICT_NAME_EN": "Na Muen",
+    "PROVINCE_CODE": "055"
+  },
+  {
+    "DISTRICT_CODE": "4809",
+    "DISTRICT_NAME": "นาหว้า",
+    "DISTRICT_NAME_EN": "Na Wa",
+    "PROVINCE_CODE": "048"
+  },
+  {
+    "DISTRICT_CODE": "4206",
+    "DISTRICT_NAME": "นาแห้ว",
+    "DISTRICT_NAME_EN": "Na Haeo",
+    "PROVINCE_CODE": "042"
+  },
+  {
+    "DISTRICT_CODE": "3315",
+    "DISTRICT_NAME": "น้ำเกลี้ยง",
+    "DISTRICT_NAME_EN": "Nam Kliang",
+    "PROVINCE_CODE": "033"
+  },
+  {
+    "DISTRICT_CODE": "3433",
+    "DISTRICT_NAME": "น้ำขุ่น",
+    "DISTRICT_NAME_EN": "Nam Khun",
+    "PROVINCE_CODE": "034"
+  },
+  {
+    "DISTRICT_CODE": "5304",
+    "DISTRICT_NAME": "น้ำปาด",
+    "DISTRICT_NAME_EN": "Nam Pat",
+    "PROVINCE_CODE": "053"
+  },
+  {
+    "DISTRICT_CODE": "4007",
+    "DISTRICT_NAME": "น้ำพอง",
+    "DISTRICT_NAME_EN": "Nam Phong",
+    "PROVINCE_CODE": "040"
+  },
+  {
+    "DISTRICT_CODE": "3409",
+    "DISTRICT_NAME": "น้ำยืน",
+    "DISTRICT_NAME_EN": "Nam Yuen",
+    "PROVINCE_CODE": "034"
+  },
+  {
+    "DISTRICT_CODE": "4118",
+    "DISTRICT_NAME": "น้ำโสม",
+    "DISTRICT_NAME_EN": "Nam Som",
+    "PROVINCE_CODE": "041"
+  },
+  {
+    "DISTRICT_CODE": "6709",
+    "DISTRICT_NAME": "น้ำหนาว",
+    "DISTRICT_NAME_EN": "Nam Nao",
+    "PROVINCE_CODE": "067"
+  },
+  {
+    "DISTRICT_CODE": "4902",
+    "DISTRICT_NAME": "นิคมคำสร้อย",
+    "DISTRICT_NAME_EN": "Nikhom Kham Soi",
+    "PROVINCE_CODE": "049"
+  },
+  {
+    "DISTRICT_CODE": "4707",
+    "DISTRICT_NAME": "นิคมน้ำอูน",
+    "DISTRICT_NAME_EN": "Nikhom Nam Un",
+    "PROVINCE_CODE": "047"
+  },
+  {
+    "DISTRICT_CODE": "2108",
+    "DISTRICT_NAME": "นิคมพัฒนา",
+    "DISTRICT_NAME_EN": "Nikhom Phatthana",
+    "PROVINCE_CODE": "021"
+  },
+  {
+    "DISTRICT_CODE": "1808",
+    "DISTRICT_NAME": "เนินขาม",
+    "DISTRICT_NAME_EN": "Noen Kham",
+    "PROVINCE_CODE": "018"
+  },
+  {
+    "DISTRICT_CODE": "6509",
+    "DISTRICT_NAME": "เนินมะปราง",
+    "DISTRICT_NAME_EN": "Noen Maprang",
+    "PROVINCE_CODE": "065"
+  },
+  {
+    "DISTRICT_CODE": "3615",
+    "DISTRICT_NAME": "เนินสง่า",
+    "DISTRICT_NAME_EN": "Noen Sa-nga",
+    "PROVINCE_CODE": "036"
+  },
+  {
+    "DISTRICT_CODE": "3313",
+    "DISTRICT_NAME": "โนนคูณ",
+    "DISTRICT_NAME_EN": "Non Khun",
+    "PROVINCE_CODE": "033"
+  },
+  {
+    "DISTRICT_CODE": "3120",
+    "DISTRICT_NAME": "โนนดินแดง",
+    "DISTRICT_NAME_EN": "Non Din Daeng",
+    "PROVINCE_CODE": "031"
+  },
+  {
+    "DISTRICT_CODE": "3024",
+    "DISTRICT_NAME": "โนนแดง",
+    "DISTRICT_NAME_EN": "Non Daeng",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "3009",
+    "DISTRICT_NAME": "โนนไทย",
+    "DISTRICT_NAME_EN": "Non Thai",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "3217",
+    "DISTRICT_NAME": "โนนนารายณ์",
+    "DISTRICT_NAME_EN": "Non Narai",
+    "PROVINCE_CODE": "032"
+  },
+  {
+    "DISTRICT_CODE": "4025",
+    "DISTRICT_NAME": "โนนศิลา",
+    "DISTRICT_NAME_EN": "Non Sila",
+    "PROVINCE_CODE": "040"
+  },
+  {
+    "DISTRICT_CODE": "4105",
+    "DISTRICT_NAME": "โนนสะอาด",
+    "DISTRICT_NAME_EN": "Non Sa-at",
+    "PROVINCE_CODE": "041"
+  },
+  {
+    "DISTRICT_CODE": "3903",
+    "DISTRICT_NAME": "โนนสัง",
+    "DISTRICT_NAME_EN": "Non Sang",
+    "PROVINCE_CODE": "039"
+  },
+  {
+    "DISTRICT_CODE": "3117",
+    "DISTRICT_NAME": "โนนสุวรรณ",
+    "DISTRICT_NAME_EN": "Non Suwan",
+    "PROVINCE_CODE": "031"
+  },
+  {
+    "DISTRICT_CODE": "3010",
+    "DISTRICT_NAME": "โนนสูง",
+    "DISTRICT_NAME_EN": "Non Sung",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "4406",
+    "DISTRICT_NAME": "บรบือ",
+    "DISTRICT_NAME_EN": "Borabue",
+    "PROVINCE_CODE": "044"
+  },
+  {
+    "DISTRICT_CODE": "6005",
+    "DISTRICT_NAME": "บรรพตพิสัย",
+    "DISTRICT_NAME_EN": "Banphot Phisai",
+    "PROVINCE_CODE": "060"
+  },
+  {
+    "DISTRICT_CODE": "5512",
+    "DISTRICT_NAME": "บ่อเกลือ",
+    "DISTRICT_NAME_EN": "Bo Kluea",
+    "PROVINCE_CODE": "055"
+  },
+  {
+    "DISTRICT_CODE": "2010",
+    "DISTRICT_NAME": "บ่อทอง",
+    "DISTRICT_NAME_EN": "Bo Thong",
+    "PROVINCE_CODE": "020"
+  },
+  {
+    "DISTRICT_CODE": "7103",
+    "DISTRICT_NAME": "บ่อพลอย",
+    "DISTRICT_NAME_EN": "Bo Phloi",
+    "PROVINCE_CODE": "071"
+  },
+  {
+    "DISTRICT_CODE": "2304",
+    "DISTRICT_NAME": "บ่อไร่",
+    "DISTRICT_NAME_EN": "Bo Rai",
+    "PROVINCE_CODE": "023"
+  },
+  {
+    "DISTRICT_CODE": "9503",
+    "DISTRICT_NAME": "บันนังสตา",
+    "DISTRICT_NAME_EN": "Bannang Sata",
+    "PROVINCE_CODE": "095"
+  },
+  {
+    "DISTRICT_CODE": "3213",
+    "DISTRICT_NAME": "บัวเชด",
+    "DISTRICT_NAME_EN": "Buachet",
+    "PROVINCE_CODE": "032"
+  },
+  {
+    "DISTRICT_CODE": "3030",
+    "DISTRICT_NAME": "บัวลาย",
+    "DISTRICT_NAME_EN": "Bua Lai",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "3012",
+    "DISTRICT_NAME": "บัวใหญ่",
+    "DISTRICT_NAME_EN": "Bua Yai",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "1202",
+    "DISTRICT_NAME": "บางกรวย",
+    "DISTRICT_NAME_EN": "Bang Kruai",
+    "PROVINCE_CODE": "012"
+  },
+  {
+    "DISTRICT_CODE": "6505",
+    "DISTRICT_NAME": "บางกระทุ่ม",
+    "DISTRICT_NAME_EN": "Bang Krathum",
+    "PROVINCE_CODE": "065"
+  },
+  {
+    "DISTRICT_CODE": "9014",
+    "DISTRICT_NAME": "บางกล่ำ",
+    "DISTRICT_NAME_EN": "Bang Klam",
+    "PROVINCE_CODE": "090"
+  },
+  {
+    "DISTRICT_CODE": "1020",
+    "DISTRICT_NAME": "บางกอกน้อย",
+    "DISTRICT_NAME_EN": "Bangkok Noi",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "1016",
+    "DISTRICT_NAME": "บางกอกใหญ่",
+    "DISTRICT_NAME_EN": "Bangkok Yai",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "1006",
+    "DISTRICT_NAME": "บางกะปิ",
+    "DISTRICT_NAME_EN": "Bang Kapi",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "9309",
+    "DISTRICT_NAME": "บางแก้ว",
+    "DISTRICT_NAME_EN": "Bang Kaeo",
+    "PROVINCE_CODE": "093"
+  },
+  {
+    "DISTRICT_CODE": "8017",
+    "DISTRICT_NAME": "บางขัน",
+    "DISTRICT_NAME_EN": "Bang Khan",
+    "PROVINCE_CODE": "080"
+  },
+  {
+    "DISTRICT_CODE": "1021",
+    "DISTRICT_NAME": "บางขุนเทียน",
+    "DISTRICT_NAME_EN": "Bang Khun Thian",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "1005",
+    "DISTRICT_NAME": "บางเขน",
+    "DISTRICT_NAME_EN": "Bang Khen",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "7502",
+    "DISTRICT_NAME": "บางคนที",
+    "DISTRICT_NAME_EN": "Bang Khonthi",
+    "PROVINCE_CODE": "075"
+  },
+  {
+    "DISTRICT_CODE": "2402",
+    "DISTRICT_NAME": "บางคล้า",
+    "DISTRICT_NAME_EN": "Bang Khla",
+    "PROVINCE_CODE": "024"
+  },
+  {
+    "DISTRICT_CODE": "1031",
+    "DISTRICT_NAME": "บางคอแหลม",
+    "DISTRICT_NAME_EN": "Bang Kho Laem",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "1040",
+    "DISTRICT_NAME": "บางแค",
+    "DISTRICT_NAME_EN": "Bang Khae",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "1413",
+    "DISTRICT_NAME": "บางซ้าย",
+    "DISTRICT_NAME_EN": "Bang Sai",
+    "PROVINCE_CODE": "014"
+  },
+  {
+    "DISTRICT_CODE": "1029",
+    "DISTRICT_NAME": "บางซื่อ",
+    "DISTRICT_NAME_EN": "Bang Sue",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "1404",
+    "DISTRICT_NAME": "บางไทร",
+    "DISTRICT_NAME_EN": "Bang Sai",
+    "PROVINCE_CODE": "014"
+  },
+  {
+    "DISTRICT_CODE": "1047",
+    "DISTRICT_NAME": "บางนา",
+    "DISTRICT_NAME_EN": "Bang Na",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "2403",
+    "DISTRICT_NAME": "บางน้ำเปรี้ยว",
+    "DISTRICT_NAME_EN": "Bang Nam Priao",
+    "PROVINCE_CODE": "024"
+  },
+  {
+    "DISTRICT_CODE": "1102",
+    "DISTRICT_NAME": "บางบ่อ",
+    "DISTRICT_NAME_EN": "Bang Bo",
+    "PROVINCE_CODE": "011"
+  },
+  {
+    "DISTRICT_CODE": "1050",
+    "DISTRICT_NAME": "บางบอน",
+    "DISTRICT_NAME_EN": "Bang Bon",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "1204",
+    "DISTRICT_NAME": "บางบัวทอง",
+    "DISTRICT_NAME_EN": "Bang Bua Thong",
+    "PROVINCE_CODE": "012"
+  },
+  {
+    "DISTRICT_CODE": "1405",
+    "DISTRICT_NAME": "บางบาล",
+    "DISTRICT_NAME_EN": "Bang Ban",
+    "PROVINCE_CODE": "014"
+  },
+  {
+    "DISTRICT_CODE": "7204",
+    "DISTRICT_NAME": "บางปลาม้า",
+    "DISTRICT_NAME_EN": "Bang Pla Ma",
+    "PROVINCE_CODE": "072"
+  },
+  {
+    "DISTRICT_CODE": "2404",
+    "DISTRICT_NAME": "บางปะกง",
+    "DISTRICT_NAME_EN": "Bang Pakong",
+    "PROVINCE_CODE": "024"
+  },
+  {
+    "DISTRICT_CODE": "1407",
+    "DISTRICT_NAME": "บางปะหัน",
+    "DISTRICT_NAME_EN": "Bang Pahan",
+    "PROVINCE_CODE": "014"
+  },
+  {
+    "DISTRICT_CODE": "1406",
+    "DISTRICT_NAME": "บางปะอิน",
+    "DISTRICT_NAME_EN": "Bang Pa-in",
+    "PROVINCE_CODE": "014"
+  },
+  {
+    "DISTRICT_CODE": "1025",
+    "DISTRICT_NAME": "บางพลัด",
+    "DISTRICT_NAME_EN": "Bang Phlat",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "1103",
+    "DISTRICT_NAME": "บางพลี",
+    "DISTRICT_NAME_EN": "Bang Phli",
+    "PROVINCE_CODE": "011"
+  },
+  {
+    "DISTRICT_CODE": "7006",
+    "DISTRICT_NAME": "บางแพ",
+    "DISTRICT_NAME_EN": "Bang Phae",
+    "PROVINCE_CODE": "070"
+  },
+  {
+    "DISTRICT_CODE": "6605",
+    "DISTRICT_NAME": "บางมูลนาก",
+    "DISTRICT_NAME_EN": "Bang Mun Nak",
+    "PROVINCE_CODE": "066"
+  },
+  {
+    "DISTRICT_CODE": "6504",
+    "DISTRICT_NAME": "บางระกำ",
+    "DISTRICT_NAME_EN": "Bang Rakam",
+    "PROVINCE_CODE": "065"
+  },
+  {
+    "DISTRICT_CODE": "1702",
+    "DISTRICT_NAME": "บางระจัน",
+    "DISTRICT_NAME_EN": "Bang Rachan",
+    "PROVINCE_CODE": "017"
+  },
+  {
+    "DISTRICT_CODE": "1004",
+    "DISTRICT_NAME": "บางรัก",
+    "DISTRICT_NAME_EN": "Bang Rak",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "2004",
+    "DISTRICT_NAME": "บางละมุง",
+    "DISTRICT_NAME_EN": "Bang Lamung",
+    "PROVINCE_CODE": "020"
+  },
+  {
+    "DISTRICT_CODE": "7305",
+    "DISTRICT_NAME": "บางเลน",
+    "DISTRICT_NAME_EN": "Bang Len",
+    "PROVINCE_CODE": "073"
+  },
+  {
+    "DISTRICT_CODE": "7704",
+    "DISTRICT_NAME": "บางสะพาน",
+    "DISTRICT_NAME_EN": "Bang Saphan",
+    "PROVINCE_CODE": "077"
+  },
+  {
+    "DISTRICT_CODE": "7705",
+    "DISTRICT_NAME": "บางสะพานน้อย",
+    "DISTRICT_NAME_EN": "Bang Saphan Noi",
+    "PROVINCE_CODE": "077"
+  },
+  {
+    "DISTRICT_CODE": "1106",
+    "DISTRICT_NAME": "บางเสาธง",
+    "DISTRICT_NAME_EN": "Bang Sao Thong",
+    "PROVINCE_CODE": "011"
+  },
+  {
+    "DISTRICT_CODE": "1203",
+    "DISTRICT_NAME": "บางใหญ่",
+    "DISTRICT_NAME_EN": "Bang Yai",
+    "PROVINCE_CODE": "012"
+  },
+  {
+    "DISTRICT_CODE": "9603",
+    "DISTRICT_NAME": "บาเจาะ",
+    "DISTRICT_NAME_EN": "Bacho",
+    "PROVINCE_CODE": "096"
+  },
+  {
+    "DISTRICT_CODE": "3108",
+    "DISTRICT_NAME": "บ้านกรวด",
+    "DISTRICT_NAME_EN": "Ban Kruat",
+    "PROVINCE_CODE": "031"
+  },
+  {
+    "DISTRICT_CODE": "3602",
+    "DISTRICT_NAME": "บ้านเขว้า",
+    "DISTRICT_NAME_EN": "Ban Khwao",
+    "PROVINCE_CODE": "036"
+  },
+  {
+    "DISTRICT_CODE": "7010",
+    "DISTRICT_NAME": "บ้านคา",
+    "DISTRICT_NAME_EN": "Ban Kha",
+    "PROVINCE_CODE": "070"
+  },
+  {
+    "DISTRICT_CODE": "2105",
+    "DISTRICT_NAME": "บ้านค่าย",
+    "DISTRICT_NAME_EN": "Ban Khai",
+    "PROVINCE_CODE": "021"
+  },
+  {
+    "DISTRICT_CODE": "5306",
+    "DISTRICT_NAME": "บ้านโคก",
+    "DISTRICT_NAME_EN": "Ban Khok",
+    "PROVINCE_CODE": "053"
+  },
+  {
+    "DISTRICT_CODE": "2102",
+    "DISTRICT_NAME": "บ้านฉาง",
+    "DISTRICT_NAME_EN": "Ban Chang",
+    "PROVINCE_CODE": "021"
+  },
+  {
+    "DISTRICT_CODE": "3121",
+    "DISTRICT_NAME": "บ้านด่าน",
+    "DISTRICT_NAME_EN": "Ban Dan",
+    "PROVINCE_CODE": "031"
+  },
+  {
+    "DISTRICT_CODE": "6402",
+    "DISTRICT_NAME": "บ้านด่านลานหอย",
+    "DISTRICT_NAME_EN": "Ban Dan Lan Hoi",
+    "PROVINCE_CODE": "064"
+  },
+  {
+    "DISTRICT_CODE": "4111",
+    "DISTRICT_NAME": "บ้านดุง",
+    "DISTRICT_NAME_EN": "Ban Dung",
+    "PROVINCE_CODE": "041"
+  },
+  {
+    "DISTRICT_CODE": "6302",
+    "DISTRICT_NAME": "บ้านตาก",
+    "DISTRICT_NAME_EN": "Ban Tak",
+    "PROVINCE_CODE": "063"
+  },
+  {
+    "DISTRICT_CODE": "8409",
+    "DISTRICT_NAME": "บ้านตาขุน",
+    "DISTRICT_NAME_EN": "Ban Ta Khun",
+    "PROVINCE_CODE": "084"
+  },
+  {
+    "DISTRICT_CODE": "3611",
+    "DISTRICT_NAME": "บ้านแท่น",
+    "DISTRICT_NAME_EN": "Ban Thaen",
+    "PROVINCE_CODE": "036"
+  },
+  {
+    "DISTRICT_CODE": "5107",
+    "DISTRICT_NAME": "บ้านธิ",
+    "DISTRICT_NAME_EN": "Ban Thi",
+    "PROVINCE_CODE": "051"
+  },
+  {
+    "DISTRICT_CODE": "2603",
+    "DISTRICT_NAME": "บ้านนา",
+    "DISTRICT_NAME_EN": "Ban Na",
+    "PROVINCE_CODE": "026"
+  },
+  {
+    "DISTRICT_CODE": "8413",
+    "DISTRICT_NAME": "บ้านนาเดิม",
+    "DISTRICT_NAME_EN": "Ban Na Doem",
+    "PROVINCE_CODE": "084"
+  },
+  {
+    "DISTRICT_CODE": "8412",
+    "DISTRICT_NAME": "บ้านนาสาร",
+    "DISTRICT_NAME_EN": "Ban Na San",
+    "PROVINCE_CODE": "084"
+  },
+  {
+    "DISTRICT_CODE": "2002",
+    "DISTRICT_NAME": "บ้านบึง",
+    "DISTRICT_NAME_EN": "Ban Bueng",
+    "PROVINCE_CODE": "020"
+  },
+  {
+    "DISTRICT_CODE": "7005",
+    "DISTRICT_NAME": "บ้านโป่ง",
+    "DISTRICT_NAME_EN": "Ban Pong",
+    "PROVINCE_CODE": "070"
+  },
+  {
+    "DISTRICT_CODE": "4117",
+    "DISTRICT_NAME": "บ้านผือ",
+    "DISTRICT_NAME_EN": "Ban Phue",
+    "PROVINCE_CODE": "041"
+  },
+  {
+    "DISTRICT_CODE": "4010",
+    "DISTRICT_NAME": "บ้านไผ่",
+    "DISTRICT_NAME_EN": "Ban Phai",
+    "PROVINCE_CODE": "040"
+  },
+  {
+    "DISTRICT_CODE": "4002",
+    "DISTRICT_NAME": "บ้านฝาง",
+    "DISTRICT_NAME_EN": "Ban Fang",
+    "PROVINCE_CODE": "040"
+  },
+  {
+    "DISTRICT_CODE": "4804",
+    "DISTRICT_NAME": "บ้านแพง",
+    "DISTRICT_NAME_EN": "Ban Phaeng",
+    "PROVINCE_CODE": "048"
+  },
+  {
+    "DISTRICT_CODE": "1416",
+    "DISTRICT_NAME": "บ้านแพรก",
+    "DISTRICT_NAME_EN": "Ban Phraek",
+    "PROVINCE_CODE": "014"
+  },
+  {
+    "DISTRICT_CODE": "7403",
+    "DISTRICT_NAME": "บ้านแพ้ว",
+    "DISTRICT_NAME_EN": "Ban Phaeo",
+    "PROVINCE_CODE": "074"
+  },
+  {
+    "DISTRICT_CODE": "2405",
+    "DISTRICT_NAME": "บ้านโพธิ์",
+    "DISTRICT_NAME_EN": "Ban Pho",
+    "PROVINCE_CODE": "024"
+  },
+  {
+    "DISTRICT_CODE": "4710",
+    "DISTRICT_NAME": "บ้านม่วง",
+    "DISTRICT_NAME_EN": "Ban Muang",
+    "PROVINCE_CODE": "047"
+  },
+  {
+    "DISTRICT_CODE": "6106",
+    "DISTRICT_NAME": "บ้านไร่",
+    "DISTRICT_NAME_EN": "Ban Rai",
+    "PROVINCE_CODE": "061"
+  },
+  {
+    "DISTRICT_CODE": "7606",
+    "DISTRICT_NAME": "บ้านลาด",
+    "DISTRICT_NAME_EN": "Ban Lat",
+    "PROVINCE_CODE": "076"
+  },
+  {
+    "DISTRICT_CODE": "2506",
+    "DISTRICT_NAME": "บ้านสร้าง",
+    "DISTRICT_NAME_EN": "Ban Sang",
+    "PROVINCE_CODE": "025"
+  },
+  {
+    "DISTRICT_CODE": "1906",
+    "DISTRICT_NAME": "บ้านหมอ",
+    "DISTRICT_NAME_EN": "Ban Mo",
+    "PROVINCE_CODE": "019"
+  },
+  {
+    "DISTRICT_CODE": "1606",
+    "DISTRICT_NAME": "บ้านหมี่",
+    "DISTRICT_NAME_EN": "Ban Mi",
+    "PROVINCE_CODE": "016"
+  },
+  {
+    "DISTRICT_CODE": "5503",
+    "DISTRICT_NAME": "บ้านหลวง",
+    "DISTRICT_NAME_EN": "Ban Luang",
+    "PROVINCE_CODE": "055"
+  },
+  {
+    "DISTRICT_CODE": "3005",
+    "DISTRICT_NAME": "บ้านเหลื่อม",
+    "DISTRICT_NAME_EN": "Ban Lueam",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "7607",
+    "DISTRICT_NAME": "บ้านแหลม",
+    "DISTRICT_NAME_EN": "Ban Laem",
+    "PROVINCE_CODE": "076"
+  },
+  {
+    "DISTRICT_CODE": "3119",
+    "DISTRICT_NAME": "บ้านใหม่ไชยพจน์",
+    "DISTRICT_NAME_EN": "Ban Mai Chaiyaphot",
+    "PROVINCE_CODE": "031"
+  },
+  {
+    "DISTRICT_CODE": "4024",
+    "DISTRICT_NAME": "บ้านแฮด",
+    "DISTRICT_NAME_EN": "Ban Haet",
+    "PROVINCE_CODE": "040"
+  },
+  {
+    "DISTRICT_CODE": "5103",
+    "DISTRICT_NAME": "บ้านโฮ่ง",
+    "DISTRICT_NAME_EN": "Ban Hong",
+    "PROVINCE_CODE": "051"
+  },
+  {
+    "DISTRICT_CODE": "3607",
+    "DISTRICT_NAME": "บำเหน็จณรงค์",
+    "DISTRICT_NAME_EN": "Bamnet Narong",
+    "PROVINCE_CODE": "036"
+  },
+  {
+    "DISTRICT_CODE": "1027",
+    "DISTRICT_NAME": "บึงกุ่ม",
+    "DISTRICT_NAME_EN": "Bueng Kum",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "3806",
+    "DISTRICT_NAME": "บึงโขงหลง",
+    "DISTRICT_NAME_EN": "Bueng Khong Long",
+    "PROVINCE_CODE": "038"
+  },
+  {
+    "DISTRICT_CODE": "6610",
+    "DISTRICT_NAME": "บึงนาราง",
+    "DISTRICT_NAME_EN": "Bueng Na Rang",
+    "PROVINCE_CODE": "066"
+  },
+  {
+    "DISTRICT_CODE": "3311",
+    "DISTRICT_NAME": "บึงบูรพ์",
+    "DISTRICT_NAME_EN": "Bueng Bun",
+    "PROVINCE_CODE": "033"
+  },
+  {
+    "DISTRICT_CODE": "6708",
+    "DISTRICT_NAME": "บึงสามพัน",
+    "DISTRICT_NAME_EN": "Bueng Sam Phan",
+    "PROVINCE_CODE": "067"
+  },
+  {
+    "DISTRICT_CODE": "6210",
+    "DISTRICT_NAME": "บึงสามัคคี",
+    "DISTRICT_NAME_EN": "Bueng Samakkhi",
+    "PROVINCE_CODE": "062"
+  },
+  {
+    "DISTRICT_CODE": "3808",
+    "DISTRICT_NAME": "บุ่งคล้า",
+    "DISTRICT_NAME_EN": "Bung Khla",
+    "PROVINCE_CODE": "038"
+  },
+  {
+    "DISTRICT_CODE": "3410",
+    "DISTRICT_NAME": "บุณฑริก",
+    "DISTRICT_NAME_EN": "Buntharik",
+    "PROVINCE_CODE": "034"
+  },
+  {
+    "DISTRICT_CODE": "3319",
+    "DISTRICT_NAME": "เบญจลักษ์",
+    "DISTRICT_NAME_EN": "Benchalak",
+    "PROVINCE_CODE": "033"
+  },
+  {
+    "DISTRICT_CODE": "9502",
+    "DISTRICT_NAME": "เบตง",
+    "DISTRICT_NAME_EN": "Betong",
+    "PROVINCE_CODE": "095"
+  },
+  {
+    "DISTRICT_CODE": "5606",
+    "DISTRICT_NAME": "ปง",
+    "DISTRICT_NAME_EN": "Pong",
+    "PROVINCE_CODE": "056"
+  },
+  {
+    "DISTRICT_CODE": "4503",
+    "DISTRICT_NAME": "ปทุมรัตต์",
+    "DISTRICT_NAME_EN": "Pathum Rat",
+    "PROVINCE_CODE": "045"
+  },
+  {
+    "DISTRICT_CODE": "3703",
+    "DISTRICT_NAME": "ปทุมราชวงศา",
+    "DISTRICT_NAME_EN": "Pathum Ratchawongsa",
+    "PROVINCE_CODE": "037"
+  },
+  {
+    "DISTRICT_CODE": "1007",
+    "DISTRICT_NAME": "ปทุมวัน",
+    "DISTRICT_NAME_EN": "Pathum Wan",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "3107",
+    "DISTRICT_NAME": "ประโคนชัย",
+    "DISTRICT_NAME_EN": "Prakhon Chai",
+    "PROVINCE_CODE": "031"
+  },
+  {
+    "DISTRICT_CODE": "4125",
+    "DISTRICT_NAME": "ประจักษ์ศิลปาคม",
+    "DISTRICT_NAME_EN": "Prachak-sinlapakhom",
+    "PROVINCE_CODE": "041"
+  },
+  {
+    "DISTRICT_CODE": "2507",
+    "DISTRICT_NAME": "ประจันตคาม",
+    "DISTRICT_NAME_EN": "Prachantakham",
+    "PROVINCE_CODE": "025"
+  },
+  {
+    "DISTRICT_CODE": "3013",
+    "DISTRICT_NAME": "ประทาย",
+    "DISTRICT_NAME_EN": "Prathai",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "1032",
+    "DISTRICT_NAME": "ประเวศ",
+    "DISTRICT_NAME_EN": "Prawet",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "3307",
+    "DISTRICT_NAME": "ปรางค์กู่",
+    "DISTRICT_NAME_EN": "Prang Ku",
+    "PROVINCE_CODE": "033"
+  },
+  {
+    "DISTRICT_CODE": "7706",
+    "DISTRICT_NAME": "ปราณบุรี",
+    "DISTRICT_NAME_EN": "Pran Buri",
+    "PROVINCE_CODE": "077"
+  },
+  {
+    "DISTRICT_CODE": "3205",
+    "DISTRICT_NAME": "ปราสาท",
+    "DISTRICT_NAME_EN": "Prasat",
+    "PROVINCE_CODE": "032"
+  },
+  {
+    "DISTRICT_CODE": "2106",
+    "DISTRICT_NAME": "ปลวกแดง",
+    "DISTRICT_NAME_EN": "Pluak Daeng",
+    "PROVINCE_CODE": "021"
+  },
+  {
+    "DISTRICT_CODE": "4802",
+    "DISTRICT_NAME": "ปลาปาก",
+    "DISTRICT_NAME_EN": "Pla Pak",
+    "PROVINCE_CODE": "048"
+  },
+  {
+    "DISTRICT_CODE": "8106",
+    "DISTRICT_NAME": "ปลายพระยา",
+    "DISTRICT_NAME_EN": "Plai Phraya",
+    "PROVINCE_CODE": "081"
+  },
+  {
+    "DISTRICT_CODE": "1008",
+    "DISTRICT_NAME": "ป้อมปราบศัตรูพ่าย",
+    "DISTRICT_NAME_EN": "Pom Prap Sattru Phai",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "3112",
+    "DISTRICT_NAME": "ปะคำ",
+    "DISTRICT_NAME_EN": "Pakham",
+    "PROVINCE_CODE": "031"
+  },
+  {
+    "DISTRICT_CODE": "8603",
+    "DISTRICT_NAME": "ปะทิว",
+    "DISTRICT_NAME_EN": "Pathio",
+    "PROVINCE_CODE": "086"
+  },
+  {
+    "DISTRICT_CODE": "9404",
+    "DISTRICT_NAME": "ปะนาเระ",
+    "DISTRICT_NAME_EN": "Panare",
+    "PROVINCE_CODE": "094"
+  },
+  {
+    "DISTRICT_CODE": "9204",
+    "DISTRICT_NAME": "ปะเหลียน",
+    "DISTRICT_NAME_EN": "Palian",
+    "PROVINCE_CODE": "092"
+  },
+  {
+    "DISTRICT_CODE": "3014",
+    "DISTRICT_NAME": "ปักธงชัย",
+    "DISTRICT_NAME_EN": "Pak Thong Chai",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "5505",
+    "DISTRICT_NAME": "ปัว",
+    "DISTRICT_NAME_EN": "Pua",
+    "PROVINCE_CODE": "055"
+  },
+  {
+    "DISTRICT_CODE": "1206",
+    "DISTRICT_NAME": "ปากเกร็ด",
+    "DISTRICT_NAME_EN": "Pak Kret",
+    "PROVINCE_CODE": "012"
+  },
+  {
+    "DISTRICT_CODE": "3805",
+    "DISTRICT_NAME": "ปากคาด",
+    "DISTRICT_NAME_EN": "Pak Khat",
+    "PROVINCE_CODE": "038"
+  },
+  {
+    "DISTRICT_CODE": "4204",
+    "DISTRICT_NAME": "ปากชม",
+    "DISTRICT_NAME_EN": "Pak Chom",
+    "PROVINCE_CODE": "042"
+  },
+  {
+    "DISTRICT_CODE": "3021",
+    "DISTRICT_NAME": "ปากช่อง",
+    "DISTRICT_NAME_EN": "Pak Chong",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "7008",
+    "DISTRICT_NAME": "ปากท่อ",
+    "DISTRICT_NAME_EN": "Pak Tho",
+    "PROVINCE_CODE": "070"
+  },
+  {
+    "DISTRICT_CODE": "8012",
+    "DISTRICT_NAME": "ปากพนัง",
+    "DISTRICT_NAME_EN": "Pak Phanang",
+    "PROVINCE_CODE": "080"
+  },
+  {
+    "DISTRICT_CODE": "2602",
+    "DISTRICT_NAME": "ปากพลี",
+    "DISTRICT_NAME_EN": "Pak Phli",
+    "PROVINCE_CODE": "026"
+  },
+  {
+    "DISTRICT_CODE": "9306",
+    "DISTRICT_NAME": "ปากพะยูน",
+    "DISTRICT_NAME_EN": "Pak Phayun",
+    "PROVINCE_CODE": "093"
+  },
+  {
+    "DISTRICT_CODE": "5807",
+    "DISTRICT_NAME": "ปางมะผ้า",
+    "DISTRICT_NAME_EN": "Pang Mapha",
+    "PROVINCE_CODE": "058"
+  },
+  {
+    "DISTRICT_CODE": "6209",
+    "DISTRICT_NAME": "ปางศิลาทอง",
+    "DISTRICT_NAME_EN": "Pang Sila Thong",
+    "PROVINCE_CODE": "062"
+  },
+  {
+    "DISTRICT_CODE": "5106",
+    "DISTRICT_NAME": "ป่าซาง",
+    "DISTRICT_NAME_EN": "Pa Sang",
+    "PROVINCE_CODE": "051"
+  },
+  {
+    "DISTRICT_CODE": "5706",
+    "DISTRICT_NAME": "ป่าแดด",
+    "DISTRICT_NAME_EN": "Pa Daet",
+    "PROVINCE_CODE": "057"
+  },
+  {
+    "DISTRICT_CODE": "3505",
+    "DISTRICT_NAME": "ป่าติ้ว",
+    "DISTRICT_NAME_EN": "Pa Tio",
+    "PROVINCE_CODE": "035"
+  },
+  {
+    "DISTRICT_CODE": "9308",
+    "DISTRICT_NAME": "ป่าบอน",
+    "DISTRICT_NAME_EN": "Pa Bon",
+    "PROVINCE_CODE": "093"
+  },
+  {
+    "DISTRICT_CODE": "9310",
+    "DISTRICT_NAME": "ป่าพะยอม",
+    "DISTRICT_NAME_EN": "Pa Phayom",
+    "PROVINCE_CODE": "093"
+  },
+  {
+    "DISTRICT_CODE": "1503",
+    "DISTRICT_NAME": "ป่าโมก",
+    "DISTRICT_NAME_EN": "Pa Mok",
+    "PROVINCE_CODE": "015"
+  },
+  {
+    "DISTRICT_CODE": "5803",
+    "DISTRICT_NAME": "ปาย",
+    "DISTRICT_NAME_EN": "Pai",
+    "PROVINCE_CODE": "058"
+  },
+  {
+    "DISTRICT_CODE": "4011",
+    "DISTRICT_NAME": "เปือยน้อย",
+    "DISTRICT_NAME_EN": "Pueai Noi",
+    "PROVINCE_CODE": "040"
+  },
+  {
+    "DISTRICT_CODE": "2409",
+    "DISTRICT_NAME": "แปลงยาว",
+    "DISTRICT_NAME_EN": "Plaeng Yao",
+    "PROVINCE_CODE": "024"
+  },
+  {
+    "DISTRICT_CODE": "2204",
+    "DISTRICT_NAME": "โป่งน้ำร้อน",
+    "DISTRICT_NAME_EN": "Pong Nam Ron",
+    "PROVINCE_CODE": "022"
+  },
+  {
+    "DISTRICT_CODE": "1408",
+    "DISTRICT_NAME": "ผักไห่",
+    "DISTRICT_NAME_EN": "Phak Hai",
+    "PROVINCE_CODE": "014"
+  },
+  {
+    "DISTRICT_CODE": "4212",
+    "DISTRICT_NAME": "ผาขาว",
+    "DISTRICT_NAME_EN": "Pha Khao",
+    "PROVINCE_CODE": "042"
+  },
+  {
+    "DISTRICT_CODE": "5009",
+    "DISTRICT_NAME": "ฝาง",
+    "DISTRICT_NAME_EN": "Fang",
+    "PROVINCE_CODE": "050"
+  },
+  {
+    "DISTRICT_CODE": "4315",
+    "DISTRICT_NAME": "เฝ้าไร่",
+    "DISTRICT_NAME_EN": "Fao Rai",
+    "PROVINCE_CODE": "043"
+  },
+  {
+    "DISTRICT_CODE": "1014",
+    "DISTRICT_NAME": "พญาไท",
+    "DISTRICT_NAME_EN": "Phaya Thai",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "5712",
+    "DISTRICT_NAME": "พญาเม็งราย",
+    "DISTRICT_NAME_EN": "Phaya Mengrai",
+    "PROVINCE_CODE": "057"
+  },
+  {
+    "DISTRICT_CODE": "8410",
+    "DISTRICT_NAME": "พนม",
+    "DISTRICT_NAME_EN": "Phanom",
+    "PROVINCE_CODE": "084"
+  },
+  {
+    "DISTRICT_CODE": "3214",
+    "DISTRICT_NAME": "พนมดงรัก",
+    "DISTRICT_NAME_EN": "Phanom Dong Rak",
+    "PROVINCE_CODE": "032"
+  },
+  {
+    "DISTRICT_CODE": "7109",
+    "DISTRICT_NAME": "พนมทวน",
+    "DISTRICT_NAME_EN": "Phanom Thuan",
+    "PROVINCE_CODE": "071"
+  },
+  {
+    "DISTRICT_CODE": "4506",
+    "DISTRICT_NAME": "พนมไพร",
+    "DISTRICT_NAME_EN": "Phanom Phrai",
+    "PROVINCE_CODE": "045"
+  },
+  {
+    "DISTRICT_CODE": "2406",
+    "DISTRICT_NAME": "พนมสารคาม",
+    "DISTRICT_NAME_EN": "Phanom Sarakham",
+    "PROVINCE_CODE": "024"
+  },
+  {
+    "DISTRICT_CODE": "2006",
+    "DISTRICT_NAME": "พนัสนิคม",
+    "DISTRICT_NAME_EN": "Phanat Nikhom",
+    "PROVINCE_CODE": "020"
+  },
+  {
+    "DISTRICT_CODE": "3704",
+    "DISTRICT_NAME": "พนา",
+    "DISTRICT_NAME_EN": "Phana",
+    "PROVINCE_CODE": "037"
+  },
+  {
+    "DISTRICT_CODE": "6307",
+    "DISTRICT_NAME": "พบพระ",
+    "DISTRICT_NAME_EN": "Phop Phra",
+    "PROVINCE_CODE": "063"
+  },
+  {
+    "DISTRICT_CODE": "4408",
+    "DISTRICT_NAME": "พยัคฆภูมิพิสัย",
+    "DISTRICT_NAME_EN": "Phayakkhaphum Phisai",
+    "PROVINCE_CODE": "044"
+  },
+  {
+    "DISTRICT_CODE": "3320",
+    "DISTRICT_NAME": "พยุห์",
+    "DISTRICT_NAME_EN": "Phayu",
+    "PROVINCE_CODE": "033"
+  },
+  {
+    "DISTRICT_CODE": "6010",
+    "DISTRICT_NAME": "พยุหะคีรี",
+    "DISTRICT_NAME_EN": "Phayuha Khiri",
+    "PROVINCE_CODE": "060"
+  },
+  {
+    "DISTRICT_CODE": "3802",
+    "DISTRICT_NAME": "พรเจริญ",
+    "DISTRICT_NAME_EN": "Phon Charoen",
+    "PROVINCE_CODE": "038"
+  },
+  {
+    "DISTRICT_CODE": "4704",
+    "DISTRICT_NAME": "พรรณานิคม",
+    "DISTRICT_NAME_EN": "Phanna Nikhom",
+    "PROVINCE_CODE": "047"
+  },
+  {
+    "DISTRICT_CODE": "8002",
+    "DISTRICT_NAME": "พรหมคีรี",
+    "DISTRICT_NAME_EN": "Phrom Khiri",
+    "PROVINCE_CODE": "080"
+  },
+  {
+    "DISTRICT_CODE": "1704",
+    "DISTRICT_NAME": "พรหมบุรี",
+    "DISTRICT_NAME_EN": "Phrom Buri",
+    "PROVINCE_CODE": "017"
+  },
+  {
+    "DISTRICT_CODE": "6506",
+    "DISTRICT_NAME": "พรหมพิราม",
+    "DISTRICT_NAME_EN": "Phrom Phiram",
+    "PROVINCE_CODE": "065"
+  },
+  {
+    "DISTRICT_CODE": "1009",
+    "DISTRICT_NAME": "พระโขนง",
+    "DISTRICT_NAME_EN": "Phra Khanong",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "3028",
+    "DISTRICT_NAME": "พระทองคำ",
+    "DISTRICT_NAME_EN": "Phra Thong Kham",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "1001",
+    "DISTRICT_NAME": "พระนคร",
+    "DISTRICT_NAME_EN": "Phra Nakhon",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "1401",
+    "DISTRICT_NAME": "พระนครศรีอยุธยา",
+    "DISTRICT_NAME_EN": "Phra Nakhon Si Ayutthaya",
+    "PROVINCE_CODE": "014"
+  },
+  {
+    "DISTRICT_CODE": "1104",
+    "DISTRICT_NAME": "พระประแดง",
+    "DISTRICT_NAME_EN": "Phra Pradaeng",
+    "PROVINCE_CODE": "011"
+  },
+  {
+    "DISTRICT_CODE": "8020",
+    "DISTRICT_NAME": "พระพรหม",
+    "DISTRICT_NAME_EN": "Phra Phrom",
+    "PROVINCE_CODE": "080"
+  },
+  {
+    "DISTRICT_CODE": "1909",
+    "DISTRICT_NAME": "พระพุทธบาท",
+    "DISTRICT_NAME_EN": "Phra Phutthabat",
+    "PROVINCE_CODE": "019"
+  },
+  {
+    "DISTRICT_CODE": "4003",
+    "DISTRICT_NAME": "พระยืน",
+    "DISTRICT_NAME_EN": "Phra Yuen",
+    "PROVINCE_CODE": "040"
+  },
+  {
+    "DISTRICT_CODE": "1105",
+    "DISTRICT_NAME": "พระสมุทรเจดีย์",
+    "DISTRICT_NAME_EN": "Phra Samut Chedi",
+    "PROVINCE_CODE": "011"
+  },
+  {
+    "DISTRICT_CODE": "8416",
+    "DISTRICT_NAME": "พระแสง",
+    "DISTRICT_NAME_EN": "Phrasaeng",
+    "PROVINCE_CODE": "084"
+  },
+  {
+    "DISTRICT_CODE": "6206",
+    "DISTRICT_NAME": "พรานกระต่าย",
+    "DISTRICT_NAME_EN": "Phran Kratai",
+    "PROVINCE_CODE": "062"
+  },
+  {
+    "DISTRICT_CODE": "5011",
+    "DISTRICT_NAME": "พร้าว",
+    "DISTRICT_NAME_EN": "Phrao",
+    "PROVINCE_CODE": "050"
+  },
+  {
+    "DISTRICT_CODE": "4012",
+    "DISTRICT_NAME": "พล",
+    "DISTRICT_NAME_EN": "Phon",
+    "PROVINCE_CODE": "040"
+  },
+  {
+    "DISTRICT_CODE": "3115",
+    "DISTRICT_NAME": "พลับพลาชัย",
+    "DISTRICT_NAME_EN": "Phlapphla Chai",
+    "PROVINCE_CODE": "031"
+  },
+  {
+    "DISTRICT_CODE": "8606",
+    "DISTRICT_NAME": "พะโต๊ะ",
+    "DISTRICT_NAME_EN": "Phato",
+    "PROVINCE_CODE": "086"
+  },
+  {
+    "DISTRICT_CODE": "4705",
+    "DISTRICT_NAME": "พังโคน",
+    "DISTRICT_NAME_EN": "Phang Khon",
+    "PROVINCE_CODE": "047"
+  },
+  {
+    "DISTRICT_CODE": "1602",
+    "DISTRICT_NAME": "พัฒนานิคม",
+    "DISTRICT_NAME_EN": "Phatthana Nikhom",
+    "PROVINCE_CODE": "016"
+  },
+  {
+    "DISTRICT_CODE": "5705",
+    "DISTRICT_NAME": "พาน",
+    "DISTRICT_NAME_EN": "Phan",
+    "PROVINCE_CODE": "057"
+  },
+  {
+    "DISTRICT_CODE": "2005",
+    "DISTRICT_NAME": "พานทอง",
+    "DISTRICT_NAME_EN": "Phan Thong",
+    "PROVINCE_CODE": "020"
+  },
+  {
+    "DISTRICT_CODE": "5307",
+    "DISTRICT_NAME": "พิชัย",
+    "DISTRICT_NAME_EN": "Phichai",
+    "PROVINCE_CODE": "053"
+  },
+  {
+    "DISTRICT_CODE": "3419",
+    "DISTRICT_NAME": "พิบูลมังสาหาร",
+    "DISTRICT_NAME_EN": "Phibun Mangsahan",
+    "PROVINCE_CODE": "034"
+  },
+  {
+    "DISTRICT_CODE": "4123",
+    "DISTRICT_NAME": "พิบูลย์รักษ์",
+    "DISTRICT_NAME_EN": "Phibun Rak",
+    "PROVINCE_CODE": "041"
+  },
+  {
+    "DISTRICT_CODE": "8005",
+    "DISTRICT_NAME": "พิปูน",
+    "DISTRICT_NAME_EN": "Phipun",
+    "PROVINCE_CODE": "080"
+  },
+  {
+    "DISTRICT_CODE": "3015",
+    "DISTRICT_NAME": "พิมาย",
+    "DISTRICT_NAME_EN": "Phimai",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "7307",
+    "DISTRICT_NAME": "พุทธมณฑล",
+    "DISTRICT_NAME_EN": "Phutthamonthon",
+    "PROVINCE_CODE": "073"
+  },
+  {
+    "DISTRICT_CODE": "3109",
+    "DISTRICT_NAME": "พุทไธสง",
+    "DISTRICT_NAME_EN": "Phutthaisong",
+    "PROVINCE_CODE": "031"
+  },
+  {
+    "DISTRICT_CODE": "8417",
+    "DISTRICT_NAME": "พุนพิน",
+    "DISTRICT_NAME_EN": "Phunphin",
+    "PROVINCE_CODE": "084"
+  },
+  {
+    "DISTRICT_CODE": "4119",
+    "DISTRICT_NAME": "เพ็ญ",
+    "DISTRICT_NAME_EN": "Phen",
+    "PROVINCE_CODE": "041"
+  },
+  {
+    "DISTRICT_CODE": "6606",
+    "DISTRICT_NAME": "โพทะเล",
+    "DISTRICT_NAME_EN": "Pho Thale",
+    "PROVINCE_CODE": "066"
+  },
+  {
+    "DISTRICT_CODE": "7007",
+    "DISTRICT_NAME": "โพธาราม",
+    "DISTRICT_NAME_EN": "Photharam",
+    "PROVINCE_CODE": "070"
+  },
+  {
+    "DISTRICT_CODE": "4508",
+    "DISTRICT_NAME": "โพธิ์ชัย",
+    "DISTRICT_NAME_EN": "Pho Chai",
+    "PROVINCE_CODE": "045"
+  },
+  {
+    "DISTRICT_CODE": "4317",
+    "DISTRICT_NAME": "โพธิ์ตาก",
+    "DISTRICT_NAME_EN": "Pho Tak",
+    "PROVINCE_CODE": "043"
+  },
+  {
+    "DISTRICT_CODE": "1504",
+    "DISTRICT_NAME": "โพธิ์ทอง",
+    "DISTRICT_NAME_EN": "Pho Thong",
+    "PROVINCE_CODE": "015"
+  },
+  {
+    "DISTRICT_CODE": "3421",
+    "DISTRICT_NAME": "โพธิ์ไทร",
+    "DISTRICT_NAME_EN": "Pho Sai",
+    "PROVINCE_CODE": "034"
+  },
+  {
+    "DISTRICT_CODE": "6603",
+    "DISTRICT_NAME": "โพธิ์ประทับช้าง",
+    "DISTRICT_NAME_EN": "Pho Prathap Chang",
+    "PROVINCE_CODE": "066"
+  },
+  {
+    "DISTRICT_CODE": "3321",
+    "DISTRICT_NAME": "โพธิ์ศรีสุวรรณ",
+    "DISTRICT_NAME_EN": "Pho Si Suwan",
+    "PROVINCE_CODE": "033"
+  },
+  {
+    "DISTRICT_CODE": "4513",
+    "DISTRICT_NAME": "โพนทราย",
+    "DISTRICT_NAME_EN": "Phon Sai",
+    "PROVINCE_CODE": "045"
+  },
+  {
+    "DISTRICT_CODE": "4507",
+    "DISTRICT_NAME": "โพนทอง",
+    "DISTRICT_NAME_EN": "Phon Thong",
+    "PROVINCE_CODE": "045"
+  },
+  {
+    "DISTRICT_CODE": "4717",
+    "DISTRICT_NAME": "โพนนาแก้ว",
+    "DISTRICT_NAME_EN": "Phon Na Kaeo",
+    "PROVINCE_CODE": "047"
+  },
+  {
+    "DISTRICT_CODE": "4305",
+    "DISTRICT_NAME": "โพนพิสัย",
+    "DISTRICT_NAME_EN": "Phon Phisai",
+    "PROVINCE_CODE": "043"
+  },
+  {
+    "DISTRICT_CODE": "4810",
+    "DISTRICT_NAME": "โพนสวรรค์",
+    "DISTRICT_NAME_EN": "Phon Sawan",
+    "PROVINCE_CODE": "048"
+  },
+  {
+    "DISTRICT_CODE": "3306",
+    "DISTRICT_NAME": "ไพรบึง",
+    "DISTRICT_NAME_EN": "Phrai Bueng",
+    "PROVINCE_CODE": "033"
+  },
+  {
+    "DISTRICT_CODE": "6009",
+    "DISTRICT_NAME": "ไพศาลี",
+    "DISTRICT_NAME_EN": "Phaisali",
+    "PROVINCE_CODE": "060"
+  },
+  {
+    "DISTRICT_CODE": "5305",
+    "DISTRICT_NAME": "ฟากท่า",
+    "DISTRICT_NAME_EN": "Fak Tha",
+    "PROVINCE_CODE": "053"
+  },
+  {
+    "DISTRICT_CODE": "3614",
+    "DISTRICT_NAME": "ภักดีชุมพล",
+    "DISTRICT_NAME_EN": "Phakdi Chumphon",
+    "PROVINCE_CODE": "036"
+  },
+  {
+    "DISTRICT_CODE": "1409",
+    "DISTRICT_NAME": "ภาชี",
+    "DISTRICT_NAME_EN": "Phachi",
+    "PROVINCE_CODE": "014"
+  },
+  {
+    "DISTRICT_CODE": "1022",
+    "DISTRICT_NAME": "ภาษีเจริญ",
+    "DISTRICT_NAME_EN": "Phasi Charoen",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "4210",
+    "DISTRICT_NAME": "ภูกระดึง",
+    "DISTRICT_NAME_EN": "Phu Kradueng",
+    "PROVINCE_CODE": "042"
+  },
+  {
+    "DISTRICT_CODE": "5609",
+    "DISTRICT_NAME": "ภูกามยาว",
+    "DISTRICT_NAME_EN": "Phu Kamyao",
+    "PROVINCE_CODE": "056"
+  },
+  {
+    "DISTRICT_CODE": "3610",
+    "DISTRICT_NAME": "ภูเขียว",
+    "DISTRICT_NAME_EN": "Phu Khiao",
+    "PROVINCE_CODE": "036"
+  },
+  {
+    "DISTRICT_CODE": "5608",
+    "DISTRICT_NAME": "ภูซาง",
+    "DISTRICT_NAME_EN": "Phu Sang",
+    "PROVINCE_CODE": "056"
+  },
+  {
+    "DISTRICT_CODE": "4020",
+    "DISTRICT_NAME": "ภูผาม่าน",
+    "DISTRICT_NAME_EN": "Phu Pha Man",
+    "PROVINCE_CODE": "040"
+  },
+  {
+    "DISTRICT_CODE": "4718",
+    "DISTRICT_NAME": "ภูพาน",
+    "DISTRICT_NAME_EN": "Phu Phan",
+    "PROVINCE_CODE": "047"
+  },
+  {
+    "DISTRICT_CODE": "5514",
+    "DISTRICT_NAME": "ภูเพียง",
+    "DISTRICT_NAME_EN": "Phu Phiang",
+    "PROVINCE_CODE": "055"
+  },
+  {
+    "DISTRICT_CODE": "4207",
+    "DISTRICT_NAME": "ภูเรือ",
+    "DISTRICT_NAME_EN": "Phu Ruea",
+    "PROVINCE_CODE": "042"
+  },
+  {
+    "DISTRICT_CODE": "4016",
+    "DISTRICT_NAME": "ภูเวียง",
+    "DISTRICT_NAME_EN": "Phu Wiang",
+    "PROVINCE_CODE": "040"
+  },
+  {
+    "DISTRICT_CODE": "3317",
+    "DISTRICT_NAME": "ภูสิงห์",
+    "DISTRICT_NAME_EN": "Phu Sing",
+    "PROVINCE_CODE": "033"
+  },
+  {
+    "DISTRICT_CODE": "4211",
+    "DISTRICT_NAME": "ภูหลวง",
+    "DISTRICT_NAME_EN": "Phu Luang",
+    "PROVINCE_CODE": "042"
+  },
+  {
+    "DISTRICT_CODE": "1802",
+    "DISTRICT_NAME": "มโนรมย์",
+    "DISTRICT_NAME_EN": "Manorom",
+    "PROVINCE_CODE": "018"
+  },
+  {
+    "DISTRICT_CODE": "1911",
+    "DISTRICT_NAME": "มวกเหล็ก",
+    "DISTRICT_NAME_EN": "Muak Lek",
+    "PROVINCE_CODE": "019"
+  },
+  {
+    "DISTRICT_CODE": "3414",
+    "DISTRICT_NAME": "ม่วงสามสิบ",
+    "DISTRICT_NAME_EN": "Muang Sam Sip",
+    "PROVINCE_CODE": "034"
+  },
+  {
+    "DISTRICT_CODE": "3506",
+    "DISTRICT_NAME": "มหาชนะชัย",
+    "DISTRICT_NAME_EN": "Maha Chana Chai",
+    "PROVINCE_CODE": "035"
+  },
+  {
+    "DISTRICT_CODE": "1415",
+    "DISTRICT_NAME": "มหาราช",
+    "DISTRICT_NAME_EN": "Maha Rat",
+    "PROVINCE_CODE": "014"
+  },
+  {
+    "DISTRICT_CODE": "2205",
+    "DISTRICT_NAME": "มะขาม",
+    "DISTRICT_NAME_EN": "Makham",
+    "PROVINCE_CODE": "022"
+  },
+  {
+    "DISTRICT_CODE": "9107",
+    "DISTRICT_NAME": "มะนัง",
+    "DISTRICT_NAME_EN": "Manang",
+    "PROVINCE_CODE": "091"
+  },
+  {
+    "DISTRICT_CODE": "4017",
+    "DISTRICT_NAME": "มัญจาคีรี",
+    "DISTRICT_NAME_EN": "Mancha Khiri",
+    "PROVINCE_CODE": "040"
+  },
+  {
+    "DISTRICT_CODE": "9405",
+    "DISTRICT_NAME": "มายอ",
+    "DISTRICT_NAME_EN": "Mayo",
+    "PROVINCE_CODE": "094"
+  },
+  {
+    "DISTRICT_CODE": "1010",
+    "DISTRICT_NAME": "มีนบุรี",
+    "DISTRICT_NAME_EN": "Min Buri",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "4515",
+    "DISTRICT_NAME": "เมยวดี",
+    "DISTRICT_NAME_EN": "Moei Wadi",
+    "PROVINCE_CODE": "045"
+  },
+  {
+    "DISTRICT_CODE": "8101",
+    "DISTRICT_NAME": "เมืองกระบี่",
+    "DISTRICT_NAME_EN": "Mueang Krabi",
+    "PROVINCE_CODE": "081"
+  },
+  {
+    "DISTRICT_CODE": "7101",
+    "DISTRICT_NAME": "เมืองกาญจนบุรี",
+    "DISTRICT_NAME_EN": "Mueang Kanchanaburi",
+    "PROVINCE_CODE": "071"
+  },
+  {
+    "DISTRICT_CODE": "4601",
+    "DISTRICT_NAME": "เมืองกาฬสินธุ์",
+    "DISTRICT_NAME_EN": "Mueang Kalasin",
+    "PROVINCE_CODE": "046"
+  },
+  {
+    "DISTRICT_CODE": "6201",
+    "DISTRICT_NAME": "เมืองกำแพงเพชร",
+    "DISTRICT_NAME_EN": "Mueang Kamphaeng Phet",
+    "PROVINCE_CODE": "062"
+  },
+  {
+    "DISTRICT_CODE": "4001",
+    "DISTRICT_NAME": "เมืองขอนแก่น",
+    "DISTRICT_NAME_EN": "Mueang Khon Kaen",
+    "PROVINCE_CODE": "040"
+  },
+  {
+    "DISTRICT_CODE": "2201",
+    "DISTRICT_NAME": "เมืองจันทบุรี",
+    "DISTRICT_NAME_EN": "Mueang Chanthaburi",
+    "PROVINCE_CODE": "022"
+  },
+  {
+    "DISTRICT_CODE": "3318",
+    "DISTRICT_NAME": "เมืองจันทร์",
+    "DISTRICT_NAME_EN": "Mueang Chan",
+    "PROVINCE_CODE": "033"
+  },
+  {
+    "DISTRICT_CODE": "2401",
+    "DISTRICT_NAME": "เมืองฉะเชิงเทรา",
+    "DISTRICT_NAME_EN": "Mueang Chachoengsao",
+    "PROVINCE_CODE": "024"
+  },
+  {
+    "DISTRICT_CODE": "2001",
+    "DISTRICT_NAME": "เมืองชลบุรี",
+    "DISTRICT_NAME_EN": "Mueang Chon Buri",
+    "PROVINCE_CODE": "020"
+  },
+  {
+    "DISTRICT_CODE": "1801",
+    "DISTRICT_NAME": "เมืองชัยนาท",
+    "DISTRICT_NAME_EN": "Mueang Chai Nat",
+    "PROVINCE_CODE": "018"
+  },
+  {
+    "DISTRICT_CODE": "3601",
+    "DISTRICT_NAME": "เมืองชัยภูมิ",
+    "DISTRICT_NAME_EN": "Mueang Chaiyaphum",
+    "PROVINCE_CODE": "036"
+  },
+  {
+    "DISTRICT_CODE": "8601",
+    "DISTRICT_NAME": "เมืองชุมพร",
+    "DISTRICT_NAME_EN": "Mueang Chumphon",
+    "PROVINCE_CODE": "086"
+  },
+  {
+    "DISTRICT_CODE": "5701",
+    "DISTRICT_NAME": "เมืองเชียงราย",
+    "DISTRICT_NAME_EN": "Mueang Chiang Rai",
+    "PROVINCE_CODE": "057"
+  },
+  {
+    "DISTRICT_CODE": "5001",
+    "DISTRICT_NAME": "เมืองเชียงใหม่",
+    "DISTRICT_NAME_EN": "Mueang Chiang Mai",
+    "PROVINCE_CODE": "050"
+  },
+  {
+    "DISTRICT_CODE": "9201",
+    "DISTRICT_NAME": "เมืองตรัง",
+    "DISTRICT_NAME_EN": "Mueang Trang",
+    "PROVINCE_CODE": "092"
+  },
+  {
+    "DISTRICT_CODE": "2301",
+    "DISTRICT_NAME": "เมืองตราด",
+    "DISTRICT_NAME_EN": "Mueang Trat",
+    "PROVINCE_CODE": "023"
+  },
+  {
+    "DISTRICT_CODE": "6301",
+    "DISTRICT_NAME": "เมืองตาก",
+    "DISTRICT_NAME_EN": "Mueang Tak",
+    "PROVINCE_CODE": "063"
+  },
+  {
+    "DISTRICT_CODE": "2601",
+    "DISTRICT_NAME": "เมืองนครนายก",
+    "DISTRICT_NAME_EN": "Mueang Nakhon Nayok",
+    "PROVINCE_CODE": "026"
+  },
+  {
+    "DISTRICT_CODE": "7301",
+    "DISTRICT_NAME": "เมืองนครปฐม",
+    "DISTRICT_NAME_EN": "Mueang Nakhon Pathom",
+    "PROVINCE_CODE": "073"
+  },
+  {
+    "DISTRICT_CODE": "4801",
+    "DISTRICT_NAME": "เมืองนครพนม",
+    "DISTRICT_NAME_EN": "Mueang Nakhon Phanom",
+    "PROVINCE_CODE": "048"
+  },
+  {
+    "DISTRICT_CODE": "3001",
+    "DISTRICT_NAME": "เมืองนครราชสีมา",
+    "DISTRICT_NAME_EN": "Mueang Nakhon Ratchasima",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "8001",
+    "DISTRICT_NAME": "เมืองนครศรีธรรมราช",
+    "DISTRICT_NAME_EN": "Mueang Nakhon Si Thammarat",
+    "PROVINCE_CODE": "080"
+  },
+  {
+    "DISTRICT_CODE": "6001",
+    "DISTRICT_NAME": "เมืองนครสวรรค์",
+    "DISTRICT_NAME_EN": "Mueang Nakhon Sawan",
+    "PROVINCE_CODE": "060"
+  },
+  {
+    "DISTRICT_CODE": "1201",
+    "DISTRICT_NAME": "เมืองนนทบุรี",
+    "DISTRICT_NAME_EN": "Mueang Nonthaburi",
+    "PROVINCE_CODE": "012"
+  },
+  {
+    "DISTRICT_CODE": "9601",
+    "DISTRICT_NAME": "เมืองนราธิวาส",
+    "DISTRICT_NAME_EN": "Mueang Narathiwat",
+    "PROVINCE_CODE": "096"
+  },
+  {
+    "DISTRICT_CODE": "5501",
+    "DISTRICT_NAME": "เมืองน่าน",
+    "DISTRICT_NAME_EN": "Mueang Nan",
+    "PROVINCE_CODE": "055"
+  },
+  {
+    "DISTRICT_CODE": "3801",
+    "DISTRICT_NAME": "เมืองบึงกาฬ",
+    "DISTRICT_NAME_EN": "Mueang Bueng Kan",
+    "PROVINCE_CODE": "038"
+  },
+  {
+    "DISTRICT_CODE": "3101",
+    "DISTRICT_NAME": "เมืองบุรีรัมย์",
+    "DISTRICT_NAME_EN": "Mueang Buri Ram",
+    "PROVINCE_CODE": "031"
+  },
+  {
+    "DISTRICT_CODE": "1301",
+    "DISTRICT_NAME": "เมืองปทุมธานี",
+    "DISTRICT_NAME_EN": "Mueang Pathum Thani",
+    "PROVINCE_CODE": "013"
+  },
+  {
+    "DISTRICT_CODE": "7701",
+    "DISTRICT_NAME": "เมืองประจวบคีรีขันธ์",
+    "DISTRICT_NAME_EN": "Mueang Prachuap Khiri Khan",
+    "PROVINCE_CODE": "077"
+  },
+  {
+    "DISTRICT_CODE": "2501",
+    "DISTRICT_NAME": "เมืองปราจีนบุรี",
+    "DISTRICT_NAME_EN": "Mueang Prachin Buri",
+    "PROVINCE_CODE": "025"
+  },
+  {
+    "DISTRICT_CODE": "9401",
+    "DISTRICT_NAME": "เมืองปัตตานี",
+    "DISTRICT_NAME_EN": "Mueang Pattani",
+    "PROVINCE_CODE": "094"
+  },
+  {
+    "DISTRICT_CODE": "5213",
+    "DISTRICT_NAME": "เมืองปาน",
+    "DISTRICT_NAME_EN": "Mueang Pan",
+    "PROVINCE_CODE": "052"
+  },
+  {
+    "DISTRICT_CODE": "5601",
+    "DISTRICT_NAME": "เมืองพะเยา",
+    "DISTRICT_NAME_EN": "Mueang Phayao",
+    "PROVINCE_CODE": "056"
+  },
+  {
+    "DISTRICT_CODE": "8201",
+    "DISTRICT_NAME": "เมืองพังงา",
+    "DISTRICT_NAME_EN": "Mueang Phang-nga",
+    "PROVINCE_CODE": "082"
+  },
+  {
+    "DISTRICT_CODE": "9301",
+    "DISTRICT_NAME": "เมืองพัทลุง",
+    "DISTRICT_NAME_EN": "Mueang Phatthalung",
+    "PROVINCE_CODE": "093"
+  },
+  {
+    "DISTRICT_CODE": "6601",
+    "DISTRICT_NAME": "เมืองพิจิตร",
+    "DISTRICT_NAME_EN": "Mueang Phichit",
+    "PROVINCE_CODE": "066"
+  },
+  {
+    "DISTRICT_CODE": "6501",
+    "DISTRICT_NAME": "เมืองพิษณุโลก",
+    "DISTRICT_NAME_EN": "Mueang Phitsanulok",
+    "PROVINCE_CODE": "065"
+  },
+  {
+    "DISTRICT_CODE": "7601",
+    "DISTRICT_NAME": "เมืองเพชรบุรี",
+    "DISTRICT_NAME_EN": "Mueang Phetchaburi",
+    "PROVINCE_CODE": "076"
+  },
+  {
+    "DISTRICT_CODE": "6701",
+    "DISTRICT_NAME": "เมืองเพชรบูรณ์",
+    "DISTRICT_NAME_EN": "Mueang Phetchabun",
+    "PROVINCE_CODE": "067"
+  },
+  {
+    "DISTRICT_CODE": "5401",
+    "DISTRICT_NAME": "เมืองแพร่",
+    "DISTRICT_NAME_EN": "Mueang Phrae",
+    "PROVINCE_CODE": "054"
+  },
+  {
+    "DISTRICT_CODE": "8301",
+    "DISTRICT_NAME": "เมืองภูเก็ต",
+    "DISTRICT_NAME_EN": "Mueang Phuket",
+    "PROVINCE_CODE": "083"
+  },
+  {
+    "DISTRICT_CODE": "4401",
+    "DISTRICT_NAME": "เมืองมหาสารคาม",
+    "DISTRICT_NAME_EN": "Mueang Maha Sarakham",
+    "PROVINCE_CODE": "044"
+  },
+  {
+    "DISTRICT_CODE": "4901",
+    "DISTRICT_NAME": "เมืองมุกดาหาร",
+    "DISTRICT_NAME_EN": "Mueang Mukdahan",
+    "PROVINCE_CODE": "049"
+  },
+  {
+    "DISTRICT_CODE": "5801",
+    "DISTRICT_NAME": "เมืองแม่ฮ่องสอน",
+    "DISTRICT_NAME_EN": "Mueang Mae Hong Son",
+    "PROVINCE_CODE": "058"
+  },
+  {
+    "DISTRICT_CODE": "3501",
+    "DISTRICT_NAME": "เมืองยโสธร",
+    "DISTRICT_NAME_EN": "Mueang Yasothon",
+    "PROVINCE_CODE": "035"
+  },
+  {
+    "DISTRICT_CODE": "9501",
+    "DISTRICT_NAME": "เมืองยะลา",
+    "DISTRICT_NAME_EN": "Mueang Yala",
+    "PROVINCE_CODE": "095"
+  },
+  {
+    "DISTRICT_CODE": "3027",
+    "DISTRICT_NAME": "เมืองยาง",
+    "DISTRICT_NAME_EN": "Mueang Yang",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "4501",
+    "DISTRICT_NAME": "เมืองร้อยเอ็ด",
+    "DISTRICT_NAME_EN": "Mueang Roi Et",
+    "PROVINCE_CODE": "045"
+  },
+  {
+    "DISTRICT_CODE": "8501",
+    "DISTRICT_NAME": "เมืองระนอง",
+    "DISTRICT_NAME_EN": "Mueang Ranong",
+    "PROVINCE_CODE": "085"
+  },
+  {
+    "DISTRICT_CODE": "2101",
+    "DISTRICT_NAME": "เมืองระยอง",
+    "DISTRICT_NAME_EN": "Mueang Rayong",
+    "PROVINCE_CODE": "021"
+  },
+  {
+    "DISTRICT_CODE": "7001",
+    "DISTRICT_NAME": "เมืองราชบุรี",
+    "DISTRICT_NAME_EN": "Mueang Ratchaburi",
+    "PROVINCE_CODE": "070"
+  },
+  {
+    "DISTRICT_CODE": "1601",
+    "DISTRICT_NAME": "เมืองลพบุรี",
+    "DISTRICT_NAME_EN": "Mueang Lop Buri",
+    "PROVINCE_CODE": "016"
+  },
+  {
+    "DISTRICT_CODE": "5201",
+    "DISTRICT_NAME": "เมืองลำปาง",
+    "DISTRICT_NAME_EN": "Mueang Lampang",
+    "PROVINCE_CODE": "052"
+  },
+  {
+    "DISTRICT_CODE": "5101",
+    "DISTRICT_NAME": "เมืองลำพูน",
+    "DISTRICT_NAME_EN": "Mueang Lamphun",
+    "PROVINCE_CODE": "051"
+  },
+  {
+    "DISTRICT_CODE": "4201",
+    "DISTRICT_NAME": "เมืองเลย",
+    "DISTRICT_NAME_EN": "Mueang Loei",
+    "PROVINCE_CODE": "042"
+  },
+  {
+    "DISTRICT_CODE": "3301",
+    "DISTRICT_NAME": "เมืองศรีสะเกษ",
+    "DISTRICT_NAME_EN": "Mueang Si Sa Ket",
+    "PROVINCE_CODE": "033"
+  },
+  {
+    "DISTRICT_CODE": "4701",
+    "DISTRICT_NAME": "เมืองสกลนคร",
+    "DISTRICT_NAME_EN": "Mueang Sakon Nakhon",
+    "PROVINCE_CODE": "047"
+  },
+  {
+    "DISTRICT_CODE": "9001",
+    "DISTRICT_NAME": "เมืองสงขลา",
+    "DISTRICT_NAME_EN": "Mueang Songkhla",
+    "PROVINCE_CODE": "090"
+  },
+  {
+    "DISTRICT_CODE": "9101",
+    "DISTRICT_NAME": "เมืองสตูล",
+    "DISTRICT_NAME_EN": "Mueang Satun",
+    "PROVINCE_CODE": "091"
+  },
+  {
+    "DISTRICT_CODE": "1101",
+    "DISTRICT_NAME": "เมืองสมุทรปราการ",
+    "DISTRICT_NAME_EN": "Mueang Samut Prakan",
+    "PROVINCE_CODE": "011"
+  },
+  {
+    "DISTRICT_CODE": "7501",
+    "DISTRICT_NAME": "เมืองสมุทรสงคราม",
+    "DISTRICT_NAME_EN": "Mueang Samut Songkhram",
+    "PROVINCE_CODE": "075"
+  },
+  {
+    "DISTRICT_CODE": "7401",
+    "DISTRICT_NAME": "เมืองสมุทรสาคร",
+    "DISTRICT_NAME_EN": "Mueang Samut Sakhon",
+    "PROVINCE_CODE": "074"
+  },
+  {
+    "DISTRICT_CODE": "4512",
+    "DISTRICT_NAME": "เมืองสรวง",
+    "DISTRICT_NAME_EN": "Mueang Suang",
+    "PROVINCE_CODE": "045"
+  },
+  {
+    "DISTRICT_CODE": "2701",
+    "DISTRICT_NAME": "เมืองสระแก้ว",
+    "DISTRICT_NAME_EN": "Mueang Sa Kaeo",
+    "PROVINCE_CODE": "027"
+  },
+  {
+    "DISTRICT_CODE": "1901",
+    "DISTRICT_NAME": "เมืองสระบุรี",
+    "DISTRICT_NAME_EN": "Mueang Saraburi",
+    "PROVINCE_CODE": "019"
+  },
+  {
+    "DISTRICT_CODE": "1701",
+    "DISTRICT_NAME": "เมืองสิงห์บุรี",
+    "DISTRICT_NAME_EN": "Mueang Sing Buri",
+    "PROVINCE_CODE": "017"
+  },
+  {
+    "DISTRICT_CODE": "6401",
+    "DISTRICT_NAME": "เมืองสุโขทัย",
+    "DISTRICT_NAME_EN": "Mueang Sukhothai",
+    "PROVINCE_CODE": "064"
+  },
+  {
+    "DISTRICT_CODE": "7201",
+    "DISTRICT_NAME": "เมืองสุพรรณบุรี",
+    "DISTRICT_NAME_EN": "Mueang Suphan Buri",
+    "PROVINCE_CODE": "072"
+  },
+  {
+    "DISTRICT_CODE": "8401",
+    "DISTRICT_NAME": "เมืองสุราษฎร์ธานี",
+    "DISTRICT_NAME_EN": "Mueang Surat Thani",
+    "PROVINCE_CODE": "084"
+  },
+  {
+    "DISTRICT_CODE": "3201",
+    "DISTRICT_NAME": "เมืองสุรินทร์",
+    "DISTRICT_NAME_EN": "Mueang Surin",
+    "PROVINCE_CODE": "032"
+  },
+  {
+    "DISTRICT_CODE": "4301",
+    "DISTRICT_NAME": "เมืองหนองคาย",
+    "DISTRICT_NAME_EN": "Mueang Nong Khai",
+    "PROVINCE_CODE": "043"
+  },
+  {
+    "DISTRICT_CODE": "3901",
+    "DISTRICT_NAME": "เมืองหนองบัวลำภู",
+    "DISTRICT_NAME_EN": "Mueang Nong Bua Lam Phu",
+    "PROVINCE_CODE": "039"
+  },
+  {
+    "DISTRICT_CODE": "1501",
+    "DISTRICT_NAME": "เมืองอ่างทอง",
+    "DISTRICT_NAME_EN": "Mueang Ang Thong",
+    "PROVINCE_CODE": "015"
+  },
+  {
+    "DISTRICT_CODE": "3701",
+    "DISTRICT_NAME": "เมืองอำนาจเจริญ",
+    "DISTRICT_NAME_EN": "Mueang Amnat Charoen",
+    "PROVINCE_CODE": "037"
+  },
+  {
+    "DISTRICT_CODE": "4101",
+    "DISTRICT_NAME": "เมืองอุดรธานี",
+    "DISTRICT_NAME_EN": "Mueang Udon Thani",
+    "PROVINCE_CODE": "041"
+  },
+  {
+    "DISTRICT_CODE": "5301",
+    "DISTRICT_NAME": "เมืองอุตรดิตถ์",
+    "DISTRICT_NAME_EN": "Mueang Uttaradit",
+    "PROVINCE_CODE": "053"
+  },
+  {
+    "DISTRICT_CODE": "6101",
+    "DISTRICT_NAME": "เมืองอุทัยธานี",
+    "DISTRICT_NAME_EN": "Mueang Uthai Thani",
+    "PROVINCE_CODE": "061"
+  },
+  {
+    "DISTRICT_CODE": "3401",
+    "DISTRICT_NAME": "เมืองอุบลราชธานี",
+    "DISTRICT_NAME_EN": "Mueang Ubon Ratchathani",
+    "PROVINCE_CODE": "034"
+  },
+  {
+    "DISTRICT_CODE": "5502",
+    "DISTRICT_NAME": "แม่จริม",
+    "DISTRICT_NAME_EN": "Mae Charim",
+    "PROVINCE_CODE": "055"
+  },
+  {
+    "DISTRICT_CODE": "5707",
+    "DISTRICT_NAME": "แม่จัน",
+    "DISTRICT_NAME_EN": "Mae Chan",
+    "PROVINCE_CODE": "057"
+  },
+  {
+    "DISTRICT_CODE": "5003",
+    "DISTRICT_NAME": "แม่แจ่ม",
+    "DISTRICT_NAME_EN": "Mae Chaem",
+    "PROVINCE_CODE": "050"
+  },
+  {
+    "DISTRICT_CODE": "5607",
+    "DISTRICT_NAME": "แม่ใจ",
+    "DISTRICT_NAME_EN": "Mae Chai",
+    "PROVINCE_CODE": "056"
+  },
+  {
+    "DISTRICT_CODE": "5006",
+    "DISTRICT_NAME": "แม่แตง",
+    "DISTRICT_NAME_EN": "Mae Taeng",
+    "PROVINCE_CODE": "050"
+  },
+  {
+    "DISTRICT_CODE": "5210",
+    "DISTRICT_NAME": "แม่ทะ",
+    "DISTRICT_NAME_EN": "Mae Tha",
+    "PROVINCE_CODE": "052"
+  },
+  {
+    "DISTRICT_CODE": "5102",
+    "DISTRICT_NAME": "แม่ทา",
+    "DISTRICT_NAME_EN": "Mae Tha",
+    "PROVINCE_CODE": "051"
+  },
+  {
+    "DISTRICT_CODE": "6014",
+    "DISTRICT_NAME": "แม่เปิน",
+    "DISTRICT_NAME_EN": "Mae Poen",
+    "PROVINCE_CODE": "060"
+  },
+  {
+    "DISTRICT_CODE": "5209",
+    "DISTRICT_NAME": "แม่พริก",
+    "DISTRICT_NAME_EN": "Mae Phrik",
+    "PROVINCE_CODE": "052"
+  },
+  {
+    "DISTRICT_CODE": "5715",
+    "DISTRICT_NAME": "แม่ฟ้าหลวง",
+    "DISTRICT_NAME_EN": "Mae Fa Luang",
+    "PROVINCE_CODE": "057"
+  },
+  {
+    "DISTRICT_CODE": "5202",
+    "DISTRICT_NAME": "แม่เมาะ",
+    "DISTRICT_NAME_EN": "Mae Mo",
+    "PROVINCE_CODE": "052"
+  },
+  {
+    "DISTRICT_CODE": "6304",
+    "DISTRICT_NAME": "แม่ระมาด",
+    "DISTRICT_NAME_EN": "Mae Ramat",
+    "PROVINCE_CODE": "063"
+  },
+  {
+    "DISTRICT_CODE": "5007",
+    "DISTRICT_NAME": "แม่ริม",
+    "DISTRICT_NAME_EN": "Mae Rim",
+    "PROVINCE_CODE": "050"
+  },
+  {
+    "DISTRICT_CODE": "9412",
+    "DISTRICT_NAME": "แม่ลาน",
+    "DISTRICT_NAME_EN": "Mae Lan",
+    "PROVINCE_CODE": "094"
+  },
+  {
+    "DISTRICT_CODE": "5805",
+    "DISTRICT_NAME": "แม่ลาน้อย",
+    "DISTRICT_NAME_EN": "Mae La Noi",
+    "PROVINCE_CODE": "058"
+  },
+  {
+    "DISTRICT_CODE": "5716",
+    "DISTRICT_NAME": "แม่ลาว",
+    "DISTRICT_NAME_EN": "Mae Lao",
+    "PROVINCE_CODE": "057"
+  },
+  {
+    "DISTRICT_CODE": "6013",
+    "DISTRICT_NAME": "แม่วงก์",
+    "DISTRICT_NAME_EN": "Mae Wong",
+    "PROVINCE_CODE": "060"
+  },
+  {
+    "DISTRICT_CODE": "5022",
+    "DISTRICT_NAME": "แม่วาง",
+    "DISTRICT_NAME_EN": "Mae Wang",
+    "PROVINCE_CODE": "050"
+  },
+  {
+    "DISTRICT_CODE": "5710",
+    "DISTRICT_NAME": "แม่สรวย",
+    "DISTRICT_NAME_EN": "Mae Suai",
+    "PROVINCE_CODE": "057"
+  },
+  {
+    "DISTRICT_CODE": "6306",
+    "DISTRICT_NAME": "แม่สอด",
+    "DISTRICT_NAME_EN": "Mae Sot",
+    "PROVINCE_CODE": "063"
+  },
+  {
+    "DISTRICT_CODE": "5804",
+    "DISTRICT_NAME": "แม่สะเรียง",
+    "DISTRICT_NAME_EN": "Mae Sariang",
+    "PROVINCE_CODE": "058"
+  },
+  {
+    "DISTRICT_CODE": "5709",
+    "DISTRICT_NAME": "แม่สาย",
+    "DISTRICT_NAME_EN": "Mae Sai",
+    "PROVINCE_CODE": "057"
+  },
+  {
+    "DISTRICT_CODE": "5023",
+    "DISTRICT_NAME": "แม่ออน",
+    "DISTRICT_NAME_EN": "Mae On",
+    "PROVINCE_CODE": "050"
+  },
+  {
+    "DISTRICT_CODE": "5010",
+    "DISTRICT_NAME": "แม่อาย",
+    "DISTRICT_NAME_EN": "Mae Ai",
+    "PROVINCE_CODE": "050"
+  },
+  {
+    "DISTRICT_CODE": "9408",
+    "DISTRICT_NAME": "ไม้แก่น",
+    "DISTRICT_NAME_EN": "Mai Kaen",
+    "PROVINCE_CODE": "094"
+  },
+  {
+    "DISTRICT_CODE": "9410",
+    "DISTRICT_NAME": "ยะรัง",
+    "DISTRICT_NAME_EN": "Yarang",
+    "PROVINCE_CODE": "094"
+  },
+  {
+    "DISTRICT_CODE": "9409",
+    "DISTRICT_NAME": "ยะหริ่ง",
+    "DISTRICT_NAME_EN": "Yaring",
+    "PROVINCE_CODE": "094"
+  },
+  {
+    "DISTRICT_CODE": "9505",
+    "DISTRICT_NAME": "ยะหา",
+    "DISTRICT_NAME_EN": "Yaha",
+    "PROVINCE_CODE": "095"
+  },
+  {
+    "DISTRICT_CODE": "3302",
+    "DISTRICT_NAME": "ยางชุมน้อย",
+    "DISTRICT_NAME_EN": "Yang Chum Noi",
+    "PROVINCE_CODE": "033"
+  },
+  {
+    "DISTRICT_CODE": "4607",
+    "DISTRICT_NAME": "ยางตลาด",
+    "DISTRICT_NAME_EN": "Yang Talat",
+    "PROVINCE_CODE": "046"
+  },
+  {
+    "DISTRICT_CODE": "4411",
+    "DISTRICT_NAME": "ยางสีสุราช",
+    "DISTRICT_NAME_EN": "Yang Sisurat",
+    "PROVINCE_CODE": "044"
+  },
+  {
+    "DISTRICT_CODE": "9203",
+    "DISTRICT_NAME": "ย่านตาขาว",
+    "DISTRICT_NAME_EN": "Yan Ta Khao",
+    "PROVINCE_CODE": "092"
+  },
+  {
+    "DISTRICT_CODE": "1012",
+    "DISTRICT_NAME": "ยานนาวา",
+    "DISTRICT_NAME_EN": "Yan Nawa",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "9604",
+    "DISTRICT_NAME": "ยี่งอ",
+    "DISTRICT_NAME_EN": "Yi-ngo",
+    "PROVINCE_CODE": "096"
+  },
+  {
+    "DISTRICT_CODE": "5402",
+    "DISTRICT_NAME": "ร้องกวาง",
+    "DISTRICT_NAME_EN": "Rong Kwang",
+    "PROVINCE_CODE": "054"
+  },
+  {
+    "DISTRICT_CODE": "4604",
+    "DISTRICT_NAME": "ร่องคำ",
+    "DISTRICT_NAME_EN": "Rong Kham",
+    "PROVINCE_CODE": "046"
+  },
+  {
+    "DISTRICT_CODE": "8013",
+    "DISTRICT_NAME": "ร่อนพิบูลย์",
+    "DISTRICT_NAME_EN": "Ron Phibun",
+    "PROVINCE_CODE": "080"
+  },
+  {
+    "DISTRICT_CODE": "9605",
+    "DISTRICT_NAME": "ระแงะ",
+    "DISTRICT_NAME_EN": "Ra-ngae",
+    "PROVINCE_CODE": "096"
+  },
+  {
+    "DISTRICT_CODE": "9007",
+    "DISTRICT_NAME": "ระโนด",
+    "DISTRICT_NAME_EN": "Ranot",
+    "PROVINCE_CODE": "090"
+  },
+  {
+    "DISTRICT_CODE": "3207",
+    "DISTRICT_NAME": "รัตนบุรี",
+    "DISTRICT_NAME_EN": "Rattanaburi",
+    "PROVINCE_CODE": "032"
+  },
+  {
+    "DISTRICT_CODE": "4316",
+    "DISTRICT_NAME": "รัตนวาปี",
+    "DISTRICT_NAME_EN": "Rattanawapi",
+    "PROVINCE_CODE": "043"
+  },
+  {
+    "DISTRICT_CODE": "9009",
+    "DISTRICT_NAME": "รัตภูมิ",
+    "DISTRICT_NAME_EN": "Rattaphum",
+    "PROVINCE_CODE": "090"
+  },
+  {
+    "DISTRICT_CODE": "9209",
+    "DISTRICT_NAME": "รัษฎา",
+    "DISTRICT_NAME_EN": "Ratsada",
+    "PROVINCE_CODE": "092"
+  },
+  {
+    "DISTRICT_CODE": "1037",
+    "DISTRICT_NAME": "ราชเทวี",
+    "DISTRICT_NAME_EN": "Ratchathewi",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "2407",
+    "DISTRICT_NAME": "ราชสาส์น",
+    "DISTRICT_NAME_EN": "Ratchasan",
+    "PROVINCE_CODE": "024"
+  },
+  {
+    "DISTRICT_CODE": "9506",
+    "DISTRICT_NAME": "รามัน",
+    "DISTRICT_NAME_EN": "Raman",
+    "PROVINCE_CODE": "095"
+  },
+  {
+    "DISTRICT_CODE": "1024",
+    "DISTRICT_NAME": "ราษฎร์บูรณะ",
+    "DISTRICT_NAME_EN": "Rat Burana",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "3309",
+    "DISTRICT_NAME": "ราษีไศล",
+    "DISTRICT_NAME_EN": "Rasi Salai",
+    "PROVINCE_CODE": "033"
+  },
+  {
+    "DISTRICT_CODE": "9606",
+    "DISTRICT_NAME": "รือเสาะ",
+    "DISTRICT_NAME_EN": "Rueso",
+    "PROVINCE_CODE": "096"
+  },
+  {
+    "DISTRICT_CODE": "4806",
+    "DISTRICT_NAME": "เรณูนคร",
+    "DISTRICT_NAME_EN": "Renu Nakhon",
+    "PROVINCE_CODE": "048"
+  },
+  {
+    "DISTRICT_CODE": "5403",
+    "DISTRICT_NAME": "ลอง",
+    "DISTRICT_NAME_EN": "Long",
+    "PROVINCE_CODE": "054"
+  },
+  {
+    "DISTRICT_CODE": "9105",
+    "DISTRICT_NAME": "ละงู",
+    "DISTRICT_NAME_EN": "La-ngu",
+    "PROVINCE_CODE": "091"
+  },
+  {
+    "DISTRICT_CODE": "8605",
+    "DISTRICT_NAME": "ละแม",
+    "DISTRICT_NAME_EN": "Lamae",
+    "PROVINCE_CODE": "086"
+  },
+  {
+    "DISTRICT_CODE": "3106",
+    "DISTRICT_NAME": "ละหานทราย",
+    "DISTRICT_NAME_EN": "Lahan Sai",
+    "PROVINCE_CODE": "031"
+  },
+  {
+    "DISTRICT_CODE": "8502",
+    "DISTRICT_NAME": "ละอุ่น",
+    "DISTRICT_NAME_EN": "La-un",
+    "PROVINCE_CODE": "085"
+  },
+  {
+    "DISTRICT_CODE": "5308",
+    "DISTRICT_NAME": "ลับแล",
+    "DISTRICT_NAME_EN": "Laplae",
+    "PROVINCE_CODE": "053"
+  },
+  {
+    "DISTRICT_CODE": "1011",
+    "DISTRICT_NAME": "ลาดกระบัง",
+    "DISTRICT_NAME_EN": "Lat Krabang",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "1410",
+    "DISTRICT_NAME": "ลาดบัวหลวง",
+    "DISTRICT_NAME_EN": "Lat Bua Luang",
+    "PROVINCE_CODE": "014"
+  },
+  {
+    "DISTRICT_CODE": "1038",
+    "DISTRICT_NAME": "ลาดพร้าว",
+    "DISTRICT_NAME_EN": "Lat Phrao",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "6011",
+    "DISTRICT_NAME": "ลาดยาว",
+    "DISTRICT_NAME_EN": "Lat Yao",
+    "PROVINCE_CODE": "060"
+  },
+  {
+    "DISTRICT_CODE": "1305",
+    "DISTRICT_NAME": "ลาดหลุมแก้ว",
+    "DISTRICT_NAME_EN": "Lat Lum Kaeo",
+    "PROVINCE_CODE": "013"
+  },
+  {
+    "DISTRICT_CODE": "6207",
+    "DISTRICT_NAME": "ลานกระบือ",
+    "DISTRICT_NAME_EN": "Lan Krabue",
+    "PROVINCE_CODE": "062"
+  },
+  {
+    "DISTRICT_CODE": "8003",
+    "DISTRICT_NAME": "ลานสกา",
+    "DISTRICT_NAME_EN": "Lan Saka",
+    "PROVINCE_CODE": "080"
+  },
+  {
+    "DISTRICT_CODE": "6107",
+    "DISTRICT_NAME": "ลานสัก",
+    "DISTRICT_NAME_EN": "Lan Sak",
+    "PROVINCE_CODE": "061"
+  },
+  {
+    "DISTRICT_CODE": "3211",
+    "DISTRICT_NAME": "ลำดวน",
+    "DISTRICT_NAME_EN": "Lamduan",
+    "PROVINCE_CODE": "032"
+  },
+  {
+    "DISTRICT_CODE": "3029",
+    "DISTRICT_NAME": "ลำทะเมนชัย",
+    "DISTRICT_NAME_EN": "Lam Thamenchai",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "8107",
+    "DISTRICT_NAME": "ลำทับ",
+    "DISTRICT_NAME_EN": "Lam Thap",
+    "PROVINCE_CODE": "081"
+  },
+  {
+    "DISTRICT_CODE": "3110",
+    "DISTRICT_NAME": "ลำปลายมาศ",
+    "DISTRICT_NAME_EN": "Lam Plai Mat",
+    "PROVINCE_CODE": "031"
+  },
+  {
+    "DISTRICT_CODE": "1306",
+    "DISTRICT_NAME": "ลำลูกกา",
+    "DISTRICT_NAME_EN": "Lam Luk Ka",
+    "PROVINCE_CODE": "013"
+  },
+  {
+    "DISTRICT_CODE": "1610",
+    "DISTRICT_NAME": "ลำสนธิ",
+    "DISTRICT_NAME_EN": "Lam Sonthi",
+    "PROVINCE_CODE": "016"
+  },
+  {
+    "DISTRICT_CODE": "5104",
+    "DISTRICT_NAME": "ลี้",
+    "DISTRICT_NAME_EN": "Li",
+    "PROVINCE_CODE": "051"
+  },
+  {
+    "DISTRICT_CODE": "3707",
+    "DISTRICT_NAME": "ลืออำนาจ",
+    "DISTRICT_NAME_EN": "Lue Amnat",
+    "PROVINCE_CODE": "037"
+  },
+  {
+    "DISTRICT_CODE": "7110",
+    "DISTRICT_NAME": "เลาขวัญ",
+    "DISTRICT_NAME_EN": "Lao Khwan",
+    "PROVINCE_CODE": "071"
+  },
+  {
+    "DISTRICT_CODE": "3508",
+    "DISTRICT_NAME": "เลิงนกทา",
+    "DISTRICT_NAME_EN": "Loeng Nok Tha",
+    "PROVINCE_CODE": "035"
+  },
+  {
+    "DISTRICT_CODE": "6612",
+    "DISTRICT_NAME": "วชิรบารมี",
+    "DISTRICT_NAME_EN": "Wachirabarami",
+    "PROVINCE_CODE": "066"
+  },
+  {
+    "DISTRICT_CODE": "2104",
+    "DISTRICT_NAME": "วังจันทร์",
+    "DISTRICT_NAME_EN": "Wang Chan",
+    "PROVINCE_CODE": "021"
+  },
+  {
+    "DISTRICT_CODE": "6309",
+    "DISTRICT_NAME": "วังเจ้า",
+    "DISTRICT_NAME_EN": "Wang Chao",
+    "PROVINCE_CODE": "063"
+  },
+  {
+    "DISTRICT_CODE": "5407",
+    "DISTRICT_NAME": "วังชิ้น",
+    "DISTRICT_NAME_EN": "Wang Chin",
+    "PROVINCE_CODE": "054"
+  },
+  {
+    "DISTRICT_CODE": "6602",
+    "DISTRICT_NAME": "วังทรายพูน",
+    "DISTRICT_NAME_EN": "Wang Sai Phun",
+    "PROVINCE_CODE": "066"
+  },
+  {
+    "DISTRICT_CODE": "6508",
+    "DISTRICT_NAME": "วังทอง",
+    "DISTRICT_NAME_EN": "Wang Thong",
+    "PROVINCE_CODE": "065"
+  },
+  {
+    "DISTRICT_CODE": "1045",
+    "DISTRICT_NAME": "วังทองหลาง",
+    "DISTRICT_NAME_EN": "Wang Thonglang",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "1411",
+    "DISTRICT_NAME": "วังน้อย",
+    "DISTRICT_NAME_EN": "Wang Noi",
+    "PROVINCE_CODE": "014"
+  },
+  {
+    "DISTRICT_CODE": "3025",
+    "DISTRICT_NAME": "วังน้ำเขียว",
+    "DISTRICT_NAME_EN": "Wang Nam Khiao",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "2704",
+    "DISTRICT_NAME": "วังน้ำเย็น",
+    "DISTRICT_NAME_EN": "Wang Nam Yen",
+    "PROVINCE_CODE": "027"
+  },
+  {
+    "DISTRICT_CODE": "6710",
+    "DISTRICT_NAME": "วังโป่ง",
+    "DISTRICT_NAME_EN": "Wang Pong",
+    "PROVINCE_CODE": "067"
+  },
+  {
+    "DISTRICT_CODE": "1912",
+    "DISTRICT_NAME": "วังม่วง",
+    "DISTRICT_NAME_EN": "Wang Muang",
+    "PROVINCE_CODE": "019"
+  },
+  {
+    "DISTRICT_CODE": "4812",
+    "DISTRICT_NAME": "วังยาง",
+    "DISTRICT_NAME_EN": "Wang Yang",
+    "PROVINCE_CODE": "048"
+  },
+  {
+    "DISTRICT_CODE": "9207",
+    "DISTRICT_NAME": "วังวิเศษ",
+    "DISTRICT_NAME_EN": "Wang Wiset",
+    "PROVINCE_CODE": "092"
+  },
+  {
+    "DISTRICT_CODE": "2709",
+    "DISTRICT_NAME": "วังสมบูรณ์",
+    "DISTRICT_NAME_EN": "Wang Sombun",
+    "PROVINCE_CODE": "027"
+  },
+  {
+    "DISTRICT_CODE": "4209",
+    "DISTRICT_NAME": "วังสะพุง",
+    "DISTRICT_NAME_EN": "Wang Saphung",
+    "PROVINCE_CODE": "042"
+  },
+  {
+    "DISTRICT_CODE": "4110",
+    "DISTRICT_NAME": "วังสามหมอ",
+    "DISTRICT_NAME_EN": "Wang Sam Mo",
+    "PROVINCE_CODE": "041"
+  },
+  {
+    "DISTRICT_CODE": "3316",
+    "DISTRICT_NAME": "วังหิน",
+    "DISTRICT_NAME_EN": "Wang Hin",
+    "PROVINCE_CODE": "033"
+  },
+  {
+    "DISTRICT_CODE": "5207",
+    "DISTRICT_NAME": "วังเหนือ",
+    "DISTRICT_NAME_EN": "Wang Nuea",
+    "PROVINCE_CODE": "052"
+  },
+  {
+    "DISTRICT_CODE": "1039",
+    "DISTRICT_NAME": "วัฒนา",
+    "DISTRICT_NAME_EN": "Watthana",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "2705",
+    "DISTRICT_NAME": "วัฒนานคร",
+    "DISTRICT_NAME_EN": "Watthana Nakhon",
+    "PROVINCE_CODE": "027"
+  },
+  {
+    "DISTRICT_CODE": "6507",
+    "DISTRICT_NAME": "วัดโบสถ์",
+    "DISTRICT_NAME_EN": "Wat Bot",
+    "PROVINCE_CODE": "065"
+  },
+  {
+    "DISTRICT_CODE": "7009",
+    "DISTRICT_NAME": "วัดเพลง",
+    "DISTRICT_NAME_EN": "Wat Phleng",
+    "PROVINCE_CODE": "070"
+  },
+  {
+    "DISTRICT_CODE": "1803",
+    "DISTRICT_NAME": "วัดสิงห์",
+    "DISTRICT_NAME_EN": "Wat Sing",
+    "PROVINCE_CODE": "018"
+  },
+  {
+    "DISTRICT_CODE": "4708",
+    "DISTRICT_NAME": "วานรนิวาส",
+    "DISTRICT_NAME_EN": "Wanon Niwat",
+    "PROVINCE_CODE": "047"
+  },
+  {
+    "DISTRICT_CODE": "4409",
+    "DISTRICT_NAME": "วาปีปทุม",
+    "DISTRICT_NAME_EN": "Wapi Pathum",
+    "PROVINCE_CODE": "044"
+  },
+  {
+    "DISTRICT_CODE": "4706",
+    "DISTRICT_NAME": "วาริชภูมิ",
+    "DISTRICT_NAME_EN": "Waritchaphum",
+    "PROVINCE_CODE": "047"
+  },
+  {
+    "DISTRICT_CODE": "3415",
+    "DISTRICT_NAME": "วารินชำราบ",
+    "DISTRICT_NAME_EN": "Warin Chamrap",
+    "PROVINCE_CODE": "034"
+  },
+  {
+    "DISTRICT_CODE": "6705",
+    "DISTRICT_NAME": "วิเชียรบุรี",
+    "DISTRICT_NAME_EN": "Wichian Buri",
+    "PROVINCE_CODE": "067"
+  },
+  {
+    "DISTRICT_CODE": "8419",
+    "DISTRICT_NAME": "วิภาวดี",
+    "DISTRICT_NAME_EN": "Vibhavadi",
+    "PROVINCE_CODE": "084"
+  },
+  {
+    "DISTRICT_CODE": "1506",
+    "DISTRICT_NAME": "วิเศษชัยชาญ",
+    "DISTRICT_NAME_EN": "Wiset Chai Chan",
+    "PROVINCE_CODE": "015"
+  },
+  {
+    "DISTRICT_CODE": "1904",
+    "DISTRICT_NAME": "วิหารแดง",
+    "DISTRICT_NAME_EN": "Wihan Daeng",
+    "PROVINCE_CODE": "019"
+  },
+  {
+    "DISTRICT_CODE": "4029",
+    "DISTRICT_NAME": "เวียงเก่า",
+    "DISTRICT_NAME_EN": "Wiang Kao",
+    "PROVINCE_CODE": "040"
+  },
+  {
+    "DISTRICT_CODE": "5713",
+    "DISTRICT_NAME": "เวียงแก่น",
+    "DISTRICT_NAME_EN": "Wiang Kaen",
+    "PROVINCE_CODE": "057"
+  },
+  {
+    "DISTRICT_CODE": "5702",
+    "DISTRICT_NAME": "เวียงชัย",
+    "DISTRICT_NAME_EN": "Wiang Chai",
+    "PROVINCE_CODE": "057"
+  },
+  {
+    "DISTRICT_CODE": "5717",
+    "DISTRICT_NAME": "เวียงเชียงรุ้ง",
+    "DISTRICT_NAME_EN": "Wiang Chiang Rung",
+    "PROVINCE_CODE": "057"
+  },
+  {
+    "DISTRICT_CODE": "5711",
+    "DISTRICT_NAME": "เวียงป่าเป้า",
+    "DISTRICT_NAME_EN": "Wiang Pa Pao",
+    "PROVINCE_CODE": "057"
+  },
+  {
+    "DISTRICT_CODE": "8415",
+    "DISTRICT_NAME": "เวียงสระ",
+    "DISTRICT_NAME_EN": "Wiang Sa",
+    "PROVINCE_CODE": "084"
+  },
+  {
+    "DISTRICT_CODE": "5507",
+    "DISTRICT_NAME": "เวียงสา",
+    "DISTRICT_NAME_EN": "Wiang Sa",
+    "PROVINCE_CODE": "055"
+  },
+  {
+    "DISTRICT_CODE": "5108",
+    "DISTRICT_NAME": "เวียงหนองล่อง",
+    "DISTRICT_NAME_EN": "Wiang Nong Long",
+    "PROVINCE_CODE": "051"
+  },
+  {
+    "DISTRICT_CODE": "5020",
+    "DISTRICT_NAME": "เวียงแหง",
+    "DISTRICT_NAME_EN": "Wiang Haeng",
+    "PROVINCE_CODE": "050"
+  },
+  {
+    "DISTRICT_CODE": "9608",
+    "DISTRICT_NAME": "แว้ง",
+    "DISTRICT_NAME_EN": "Waeng",
+    "PROVINCE_CODE": "096"
+  },
+  {
+    "DISTRICT_CODE": "4014",
+    "DISTRICT_NAME": "แวงน้อย",
+    "DISTRICT_NAME_EN": "Waeng Noi",
+    "PROVINCE_CODE": "040"
+  },
+  {
+    "DISTRICT_CODE": "4013",
+    "DISTRICT_NAME": "แวงใหญ่",
+    "DISTRICT_NAME_EN": "Waeng Yai",
+    "PROVINCE_CODE": "040"
+  },
+  {
+    "DISTRICT_CODE": "4307",
+    "DISTRICT_NAME": "ศรีเชียงใหม่",
+    "DISTRICT_NAME_EN": "Si Chiang Mai",
+    "PROVINCE_CODE": "043"
+  },
+  {
+    "DISTRICT_CODE": "3215",
+    "DISTRICT_NAME": "ศรีณรงค์",
+    "DISTRICT_NAME_EN": "Si Narong",
+    "PROVINCE_CODE": "032"
+  },
+  {
+    "DISTRICT_CODE": "6706",
+    "DISTRICT_NAME": "ศรีเทพ",
+    "DISTRICT_NAME_EN": "Si Thep",
+    "PROVINCE_CODE": "067"
+  },
+  {
+    "DISTRICT_CODE": "4109",
+    "DISTRICT_NAME": "ศรีธาตุ",
+    "DISTRICT_NAME_EN": "Si That",
+    "PROVINCE_CODE": "041"
+  },
+  {
+    "DISTRICT_CODE": "6408",
+    "DISTRICT_NAME": "ศรีนคร",
+    "DISTRICT_NAME_EN": "Si Nakhon",
+    "PROVINCE_CODE": "064"
+  },
+  {
+    "DISTRICT_CODE": "9311",
+    "DISTRICT_NAME": "ศรีนครินทร์",
+    "DISTRICT_NAME_EN": "Srinagarindra",
+    "PROVINCE_CODE": "093"
+  },
+  {
+    "DISTRICT_CODE": "9307",
+    "DISTRICT_NAME": "ศรีบรรพต",
+    "DISTRICT_NAME_EN": "Si Banphot",
+    "PROVINCE_CODE": "093"
+  },
+  {
+    "DISTRICT_CODE": "3904",
+    "DISTRICT_NAME": "ศรีบุญเรือง",
+    "DISTRICT_NAME_EN": "Si Bun Rueang",
+    "PROVINCE_CODE": "039"
+  },
+  {
+    "DISTRICT_CODE": "7205",
+    "DISTRICT_NAME": "ศรีประจันต์",
+    "DISTRICT_NAME_EN": "Si Prachan",
+    "PROVINCE_CODE": "072"
+  },
+  {
+    "DISTRICT_CODE": "2508",
+    "DISTRICT_NAME": "ศรีมหาโพธิ",
+    "DISTRICT_NAME_EN": "Si Maha Phot",
+    "PROVINCE_CODE": "025"
+  },
+  {
+    "DISTRICT_CODE": "2509",
+    "DISTRICT_NAME": "ศรีมโหสถ",
+    "DISTRICT_NAME_EN": "Si Mahosot",
+    "PROVINCE_CODE": "025"
+  },
+  {
+    "DISTRICT_CODE": "3402",
+    "DISTRICT_NAME": "ศรีเมืองใหม่",
+    "DISTRICT_NAME_EN": "Si Mueang Mai",
+    "PROVINCE_CODE": "034"
+  },
+  {
+    "DISTRICT_CODE": "3314",
+    "DISTRICT_NAME": "ศรีรัตนะ",
+    "DISTRICT_NAME_EN": "Si Rattana",
+    "PROVINCE_CODE": "033"
+  },
+  {
+    "DISTRICT_CODE": "2007",
+    "DISTRICT_NAME": "ศรีราชา",
+    "DISTRICT_NAME_EN": "Si Racha",
+    "PROVINCE_CODE": "020"
+  },
+  {
+    "DISTRICT_CODE": "3807",
+    "DISTRICT_NAME": "ศรีวิไล",
+    "DISTRICT_NAME_EN": "Si Wilai",
+    "PROVINCE_CODE": "038"
+  },
+  {
+    "DISTRICT_CODE": "4808",
+    "DISTRICT_NAME": "ศรีสงคราม",
+    "DISTRICT_NAME_EN": "Si Songkhram",
+    "PROVINCE_CODE": "048"
+  },
+  {
+    "DISTRICT_CODE": "4516",
+    "DISTRICT_NAME": "ศรีสมเด็จ",
+    "DISTRICT_NAME_EN": "Si Somdet",
+    "PROVINCE_CODE": "045"
+  },
+  {
+    "DISTRICT_CODE": "7104",
+    "DISTRICT_NAME": "ศรีสวัสดิ์",
+    "DISTRICT_NAME_EN": "Si Sawat",
+    "PROVINCE_CODE": "071"
+  },
+  {
+    "DISTRICT_CODE": "6405",
+    "DISTRICT_NAME": "ศรีสัชนาลัย",
+    "DISTRICT_NAME_EN": "Si Satchanalai",
+    "PROVINCE_CODE": "064"
+  },
+  {
+    "DISTRICT_CODE": "9607",
+    "DISTRICT_NAME": "ศรีสาคร",
+    "DISTRICT_NAME_EN": "Si Sakhon",
+    "PROVINCE_CODE": "096"
+  },
+  {
+    "DISTRICT_CODE": "6406",
+    "DISTRICT_NAME": "ศรีสำโรง",
+    "DISTRICT_NAME_EN": "Si Samrong",
+    "PROVINCE_CODE": "064"
+  },
+  {
+    "DISTRICT_CODE": "3322",
+    "DISTRICT_NAME": "ศิลาลาด",
+    "DISTRICT_NAME_EN": "Sila Lat",
+    "PROVINCE_CODE": "033"
+  },
+  {
+    "DISTRICT_CODE": "3209",
+    "DISTRICT_NAME": "ศีขรภูมิ",
+    "DISTRICT_NAME_EN": "Sikhoraphum",
+    "PROVINCE_CODE": "032"
+  },
+  {
+    "DISTRICT_CODE": "3111",
+    "DISTRICT_NAME": "สตึก",
+    "DISTRICT_NAME_EN": "Satuek",
+    "PROVINCE_CODE": "031"
+  },
+  {
+    "DISTRICT_CODE": "9002",
+    "DISTRICT_NAME": "สทิงพระ",
+    "DISTRICT_NAME_EN": "Sathing Phra",
+    "PROVINCE_CODE": "090"
+  },
+  {
+    "DISTRICT_CODE": "3208",
+    "DISTRICT_NAME": "สนม",
+    "DISTRICT_NAME_EN": "Sanom",
+    "PROVINCE_CODE": "032"
+  },
+  {
+    "DISTRICT_CODE": "2408",
+    "DISTRICT_NAME": "สนามชัยเขต",
+    "DISTRICT_NAME_EN": "Sanam Chai Khet",
+    "PROVINCE_CODE": "024"
+  },
+  {
+    "DISTRICT_CODE": "5211",
+    "DISTRICT_NAME": "สบปราบ",
+    "DISTRICT_NAME_EN": "Sop Prap",
+    "PROVINCE_CODE": "052"
+  },
+  {
+    "DISTRICT_CODE": "5806",
+    "DISTRICT_NAME": "สบเมย",
+    "DISTRICT_NAME_EN": "Sop Moei",
+    "PROVINCE_CODE": "058"
+  },
+  {
+    "DISTRICT_CODE": "4613",
+    "DISTRICT_NAME": "สมเด็จ",
+    "DISTRICT_NAME_EN": "Somdet",
+    "PROVINCE_CODE": "046"
+  },
+  {
+    "DISTRICT_CODE": "1805",
+    "DISTRICT_NAME": "สรรคบุรี",
+    "DISTRICT_NAME_EN": "Sankhaburi",
+    "PROVINCE_CODE": "018"
+  },
+  {
+    "DISTRICT_CODE": "1804",
+    "DISTRICT_NAME": "สรรพยา",
+    "DISTRICT_NAME_EN": "Sapphaya",
+    "PROVINCE_CODE": "018"
+  },
+  {
+    "DISTRICT_CODE": "4314",
+    "DISTRICT_NAME": "สระใคร",
+    "DISTRICT_NAME_EN": "Sakhrai",
+    "PROVINCE_CODE": "043"
+  },
+  {
+    "DISTRICT_CODE": "1608",
+    "DISTRICT_NAME": "สระโบสถ์",
+    "DISTRICT_NAME_EN": "Sa Bot",
+    "PROVINCE_CODE": "016"
+  },
+  {
+    "DISTRICT_CODE": "4120",
+    "DISTRICT_NAME": "สร้างคอม",
+    "DISTRICT_NAME_EN": "Sang Khom",
+    "PROVINCE_CODE": "041"
+  },
+  {
+    "DISTRICT_CODE": "7003",
+    "DISTRICT_NAME": "สวนผึ้ง",
+    "DISTRICT_NAME_EN": "Suan Phueng",
+    "PROVINCE_CODE": "070"
+  },
+  {
+    "DISTRICT_CODE": "1034",
+    "DISTRICT_NAME": "สวนหลวง",
+    "DISTRICT_NAME_EN": "Suan Luang",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "6407",
+    "DISTRICT_NAME": "สวรรคโลก",
+    "DISTRICT_NAME_EN": "Sawankhalok",
+    "PROVINCE_CODE": "064"
+  },
+  {
+    "DISTRICT_CODE": "4712",
+    "DISTRICT_NAME": "สว่างแดนดิน",
+    "DISTRICT_NAME_EN": "Sawang Daen Din",
+    "PROVINCE_CODE": "047"
+  },
+  {
+    "DISTRICT_CODE": "3432",
+    "DISTRICT_NAME": "สว่างวีระวงศ์",
+    "DISTRICT_NAME_EN": "Sawang Wirawong",
+    "PROVINCE_CODE": "034"
+  },
+  {
+    "DISTRICT_CODE": "6103",
+    "DISTRICT_NAME": "สว่างอารมณ์",
+    "DISTRICT_NAME_EN": "Sawang Arom",
+    "PROVINCE_CODE": "061"
+  },
+  {
+    "DISTRICT_CODE": "8607",
+    "DISTRICT_NAME": "สวี",
+    "DISTRICT_NAME_EN": "Sawi",
+    "PROVINCE_CODE": "086"
+  },
+  {
+    "DISTRICT_CODE": "4609",
+    "DISTRICT_NAME": "สหัสขันธ์",
+    "DISTRICT_NAME_EN": "Sahatsakhan",
+    "PROVINCE_CODE": "046"
+  },
+  {
+    "DISTRICT_CODE": "5406",
+    "DISTRICT_NAME": "สอง",
+    "DISTRICT_NAME_EN": "Song",
+    "PROVINCE_CODE": "054"
+  },
+  {
+    "DISTRICT_CODE": "5513",
+    "DISTRICT_NAME": "สองแคว",
+    "DISTRICT_NAME_EN": "Song Khwae",
+    "PROVINCE_CODE": "055"
+  },
+  {
+    "DISTRICT_CODE": "4713",
+    "DISTRICT_NAME": "ส่องดาว",
+    "DISTRICT_NAME_EN": "Song Dao",
+    "PROVINCE_CODE": "047"
+  },
+  {
+    "DISTRICT_CODE": "7207",
+    "DISTRICT_NAME": "สองพี่น้อง",
+    "DISTRICT_NAME_EN": "Song Phi Nong",
+    "PROVINCE_CODE": "072"
+  },
+  {
+    "DISTRICT_CODE": "2207",
+    "DISTRICT_NAME": "สอยดาว",
+    "DISTRICT_NAME_EN": "Soi Dao",
+    "PROVINCE_CODE": "022"
+  },
+  {
+    "DISTRICT_CODE": "9010",
+    "DISTRICT_NAME": "สะเดา",
+    "DISTRICT_NAME_EN": "Sadao",
+    "PROVINCE_CODE": "090"
+  },
+  {
+    "DISTRICT_CODE": "9006",
+    "DISTRICT_NAME": "สะบ้าย้อย",
+    "DISTRICT_NAME_EN": "Saba Yoi",
+    "PROVINCE_CODE": "090"
+  },
+  {
+    "DISTRICT_CODE": "1044",
+    "DISTRICT_NAME": "สะพานสูง",
+    "DISTRICT_NAME_EN": "Saphan Sung",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "5008",
+    "DISTRICT_NAME": "สะเมิง",
+    "DISTRICT_NAME_EN": "Samoeng",
+    "PROVINCE_CODE": "050"
+  },
+  {
+    "DISTRICT_CODE": "7108",
+    "DISTRICT_NAME": "สังขละบุรี",
+    "DISTRICT_NAME_EN": "Sangkhla Buri",
+    "PROVINCE_CODE": "071"
+  },
+  {
+    "DISTRICT_CODE": "3210",
+    "DISTRICT_NAME": "สังขะ",
+    "DISTRICT_NAME_EN": "Sangkha",
+    "PROVINCE_CODE": "032"
+  },
+  {
+    "DISTRICT_CODE": "4308",
+    "DISTRICT_NAME": "สังคม",
+    "DISTRICT_NAME_EN": "Sangkhom",
+    "PROVINCE_CODE": "043"
+  },
+  {
+    "DISTRICT_CODE": "2009",
+    "DISTRICT_NAME": "สัตหีบ",
+    "DISTRICT_NAME_EN": "Sattahip",
+    "PROVINCE_CODE": "020"
+  },
+  {
+    "DISTRICT_CODE": "5013",
+    "DISTRICT_NAME": "สันกำแพง",
+    "DISTRICT_NAME_EN": "San Kamphaeng",
+    "PROVINCE_CODE": "050"
+  },
+  {
+    "DISTRICT_CODE": "5511",
+    "DISTRICT_NAME": "สันติสุข",
+    "DISTRICT_NAME_EN": "Santi Suk",
+    "PROVINCE_CODE": "055"
+  },
+  {
+    "DISTRICT_CODE": "5014",
+    "DISTRICT_NAME": "สันทราย",
+    "DISTRICT_NAME_EN": "San Sai",
+    "PROVINCE_CODE": "050"
+  },
+  {
+    "DISTRICT_CODE": "5012",
+    "DISTRICT_NAME": "สันป่าตอง",
+    "DISTRICT_NAME_EN": "San Pa Tong",
+    "PROVINCE_CODE": "050"
+  },
+  {
+    "DISTRICT_CODE": "1013",
+    "DISTRICT_NAME": "สัมพันธวงศ์",
+    "DISTRICT_NAME_EN": "Samphanthawong",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "6609",
+    "DISTRICT_NAME": "สากเหล็ก",
+    "DISTRICT_NAME_EN": "Sak Lek",
+    "PROVINCE_CODE": "066"
+  },
+  {
+    "DISTRICT_CODE": "1028",
+    "DISTRICT_NAME": "สาทร",
+    "DISTRICT_NAME_EN": "Sathon",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "1507",
+    "DISTRICT_NAME": "สามโก้",
+    "DISTRICT_NAME_EN": "Samko",
+    "PROVINCE_CODE": "015"
+  },
+  {
+    "DISTRICT_CODE": "1307",
+    "DISTRICT_NAME": "สามโคก",
+    "DISTRICT_NAME_EN": "Sam Khok",
+    "PROVINCE_CODE": "013"
+  },
+  {
+    "DISTRICT_CODE": "6607",
+    "DISTRICT_NAME": "สามง่าม",
+    "DISTRICT_NAME_EN": "Sam Ngam",
+    "PROVINCE_CODE": "066"
+  },
+  {
+    "DISTRICT_CODE": "6303",
+    "DISTRICT_NAME": "สามเงา",
+    "DISTRICT_NAME_EN": "Sam Ngao",
+    "PROVINCE_CODE": "063"
+  },
+  {
+    "DISTRICT_CODE": "4615",
+    "DISTRICT_NAME": "สามชัย",
+    "DISTRICT_NAME_EN": "Sam Chai",
+    "PROVINCE_CODE": "046"
+  },
+  {
+    "DISTRICT_CODE": "7208",
+    "DISTRICT_NAME": "สามชุก",
+    "DISTRICT_NAME_EN": "Sam Chuk",
+    "PROVINCE_CODE": "072"
+  },
+  {
+    "DISTRICT_CODE": "7306",
+    "DISTRICT_NAME": "สามพราน",
+    "DISTRICT_NAME_EN": "Sam Phran",
+    "PROVINCE_CODE": "073"
+  },
+  {
+    "DISTRICT_CODE": "7708",
+    "DISTRICT_NAME": "สามร้อยยอด",
+    "DISTRICT_NAME_EN": "Sam Roi Yot",
+    "PROVINCE_CODE": "077"
+  },
+  {
+    "DISTRICT_CODE": "9407",
+    "DISTRICT_NAME": "สายบุรี",
+    "DISTRICT_NAME_EN": "Sai Buri",
+    "PROVINCE_CODE": "094"
+  },
+  {
+    "DISTRICT_CODE": "1042",
+    "DISTRICT_NAME": "สายไหม",
+    "DISTRICT_NAME_EN": "Sai Mai",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "5019",
+    "DISTRICT_NAME": "สารภี",
+    "DISTRICT_NAME_EN": "Saraphi",
+    "PROVINCE_CODE": "050"
+  },
+  {
+    "DISTRICT_CODE": "3422",
+    "DISTRICT_NAME": "สำโรง",
+    "DISTRICT_NAME_EN": "Samrong",
+    "PROVINCE_CODE": "034"
+  },
+  {
+    "DISTRICT_CODE": "3212",
+    "DISTRICT_NAME": "สำโรงทาบ",
+    "DISTRICT_NAME_EN": "Samrong Thap",
+    "PROVINCE_CODE": "032"
+  },
+  {
+    "DISTRICT_CODE": "9205",
+    "DISTRICT_NAME": "สิเกา",
+    "DISTRICT_NAME_EN": "Sikao",
+    "PROVINCE_CODE": "092"
+  },
+  {
+    "DISTRICT_CODE": "9015",
+    "DISTRICT_NAME": "สิงหนคร",
+    "DISTRICT_NAME_EN": "Singhanakhon",
+    "PROVINCE_CODE": "090"
+  },
+  {
+    "DISTRICT_CODE": "8014",
+    "DISTRICT_NAME": "สิชล",
+    "DISTRICT_NAME_EN": "Sichon",
+    "PROVINCE_CODE": "080"
+  },
+  {
+    "DISTRICT_CODE": "3425",
+    "DISTRICT_NAME": "สิรินธร",
+    "DISTRICT_NAME_EN": "Sirindhorn",
+    "PROVINCE_CODE": "034"
+  },
+  {
+    "DISTRICT_CODE": "3020",
+    "DISTRICT_NAME": "สีคิ้ว",
+    "DISTRICT_NAME_EN": "Sikhio",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "4006",
+    "DISTRICT_NAME": "สีชมพู",
+    "DISTRICT_NAME_EN": "Si Chomphu",
+    "PROVINCE_CODE": "040"
+  },
+  {
+    "DISTRICT_CODE": "3031",
+    "DISTRICT_NAME": "สีดา",
+    "DISTRICT_NAME_EN": "Sida",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "8505",
+    "DISTRICT_NAME": "สุขสำราญ",
+    "DISTRICT_NAME_EN": "Suk Samran",
+    "PROVINCE_CODE": "085"
+  },
+  {
+    "DISTRICT_CODE": "9609",
+    "DISTRICT_NAME": "สุคิริน",
+    "DISTRICT_NAME_EN": "Sukhirin",
+    "PROVINCE_CODE": "096"
+  },
+  {
+    "DISTRICT_CODE": "3905",
+    "DISTRICT_NAME": "สุวรรณคูหา",
+    "DISTRICT_NAME_EN": "Suwannakhuha",
+    "PROVINCE_CODE": "039"
+  },
+  {
+    "DISTRICT_CODE": "4511",
+    "DISTRICT_NAME": "สุวรรณภูมิ",
+    "DISTRICT_NAME_EN": "Suwannaphum",
+    "PROVINCE_CODE": "045"
+  },
+  {
+    "DISTRICT_CODE": "9610",
+    "DISTRICT_NAME": "สุไหงโกลก",
+    "DISTRICT_NAME_EN": "Su-ngai Kolok",
+    "PROVINCE_CODE": "096"
+  },
+  {
+    "DISTRICT_CODE": "9611",
+    "DISTRICT_NAME": "สุไหงปาดี",
+    "DISTRICT_NAME_EN": "Su-ngai Padi",
+    "PROVINCE_CODE": "096"
+  },
+  {
+    "DISTRICT_CODE": "3018",
+    "DISTRICT_NAME": "สูงเนิน",
+    "DISTRICT_NAME_EN": "Sung Noen",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "5404",
+    "DISTRICT_NAME": "สูงเม่น",
+    "DISTRICT_NAME_EN": "Sung Men",
+    "PROVINCE_CODE": "054"
+  },
+  {
+    "DISTRICT_CODE": "1412",
+    "DISTRICT_NAME": "เสนา",
+    "DISTRICT_NAME_EN": "Sena",
+    "PROVINCE_CODE": "014"
+  },
+  {
+    "DISTRICT_CODE": "3705",
+    "DISTRICT_NAME": "เสนางคนิคม",
+    "DISTRICT_NAME_EN": "Senangkhanikhom",
+    "PROVINCE_CODE": "037"
+  },
+  {
+    "DISTRICT_CODE": "5204",
+    "DISTRICT_NAME": "เสริมงาม",
+    "DISTRICT_NAME_EN": "Soem Ngam",
+    "PROVINCE_CODE": "052"
+  },
+  {
+    "DISTRICT_CODE": "4510",
+    "DISTRICT_NAME": "เสลภูมิ",
+    "DISTRICT_NAME_EN": "Selaphum",
+    "PROVINCE_CODE": "045"
+  },
+  {
+    "DISTRICT_CODE": "1910",
+    "DISTRICT_NAME": "เสาไห้",
+    "DISTRICT_NAME_EN": "Sao Hai",
+    "PROVINCE_CODE": "019"
+  },
+  {
+    "DISTRICT_CODE": "3003",
+    "DISTRICT_NAME": "เสิงสาง",
+    "DISTRICT_NAME_EN": "Soeng Sang",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "1505",
+    "DISTRICT_NAME": "แสวงหา",
+    "DISTRICT_NAME_EN": "Sawaeng Ha",
+    "PROVINCE_CODE": "015"
+  },
+  {
+    "DISTRICT_CODE": "3105",
+    "DISTRICT_NAME": "หนองกี่",
+    "DISTRICT_NAME_EN": "Nong Ki",
+    "PROVINCE_CODE": "031"
+  },
+  {
+    "DISTRICT_CODE": "4612",
+    "DISTRICT_NAME": "หนองกุงศรี",
+    "DISTRICT_NAME_EN": "Nong Kung Si",
+    "PROVINCE_CODE": "046"
+  },
+  {
+    "DISTRICT_CODE": "6105",
+    "DISTRICT_NAME": "หนองขาหย่าง",
+    "DISTRICT_NAME_EN": "Nong Khayang",
+    "PROVINCE_CODE": "061"
+  },
+  {
+    "DISTRICT_CODE": "1023",
+    "DISTRICT_NAME": "หนองแขม",
+    "DISTRICT_NAME_EN": "Nong Khaem",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "1903",
+    "DISTRICT_NAME": "หนองแค",
+    "DISTRICT_NAME_EN": "Nong Khae",
+    "PROVINCE_CODE": "019"
+  },
+  {
+    "DISTRICT_CODE": "1003",
+    "DISTRICT_NAME": "หนองจอก",
+    "DISTRICT_NAME_EN": "Nong Chok",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "9403",
+    "DISTRICT_NAME": "หนองจิก",
+    "DISTRICT_NAME_EN": "Nong Chik",
+    "PROVINCE_CODE": "094"
+  },
+  {
+    "DISTRICT_CODE": "6104",
+    "DISTRICT_NAME": "หนองฉาง",
+    "DISTRICT_NAME_EN": "Nong Chang",
+    "PROVINCE_CODE": "061"
+  },
+  {
+    "DISTRICT_CODE": "1905",
+    "DISTRICT_NAME": "หนองแซง",
+    "DISTRICT_NAME_EN": "Nong Saeng",
+    "PROVINCE_CODE": "019"
+  },
+  {
+    "DISTRICT_CODE": "1908",
+    "DISTRICT_NAME": "หนองโดน",
+    "DISTRICT_NAME_EN": "Nong Don",
+    "PROVINCE_CODE": "019"
+  },
+  {
+    "DISTRICT_CODE": "4023",
+    "DISTRICT_NAME": "หนองนาคำ",
+    "DISTRICT_NAME_EN": "Nong Na Kham",
+    "PROVINCE_CODE": "040"
+  },
+  {
+    "DISTRICT_CODE": "6004",
+    "DISTRICT_NAME": "หนองบัว",
+    "DISTRICT_NAME_EN": "Nong Bua",
+    "PROVINCE_CODE": "060"
+  },
+  {
+    "DISTRICT_CODE": "3605",
+    "DISTRICT_NAME": "หนองบัวแดง",
+    "DISTRICT_NAME_EN": "Nong Bua Daeng",
+    "PROVINCE_CODE": "036"
+  },
+  {
+    "DISTRICT_CODE": "3608",
+    "DISTRICT_NAME": "หนองบัวระเหว",
+    "DISTRICT_NAME_EN": "Nong Bua Rawe",
+    "PROVINCE_CODE": "036"
+  },
+  {
+    "DISTRICT_CODE": "3022",
+    "DISTRICT_NAME": "หนองบุญมาก",
+    "DISTRICT_NAME_EN": "Nong Bunmak",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "7112",
+    "DISTRICT_NAME": "หนองปรือ",
+    "DISTRICT_NAME_EN": "Nong Prue",
+    "PROVINCE_CODE": "071"
+  },
+  {
+    "DISTRICT_CODE": "6707",
+    "DISTRICT_NAME": "หนองไผ่",
+    "DISTRICT_NAME_EN": "Nong Phai",
+    "PROVINCE_CODE": "067"
+  },
+  {
+    "DISTRICT_CODE": "4509",
+    "DISTRICT_NAME": "หนองพอก",
+    "DISTRICT_NAME_EN": "Nong Phok",
+    "PROVINCE_CODE": "045"
+  },
+  {
+    "DISTRICT_CODE": "1611",
+    "DISTRICT_NAME": "หนองม่วง",
+    "DISTRICT_NAME_EN": "Nong Muang",
+    "PROVINCE_CODE": "016"
+  },
+  {
+    "DISTRICT_CODE": "5408",
+    "DISTRICT_NAME": "หนองม่วงไข่",
+    "DISTRICT_NAME_EN": "Nong Muang Khai",
+    "PROVINCE_CODE": "054"
+  },
+  {
+    "DISTRICT_CODE": "1807",
+    "DISTRICT_NAME": "หนองมะโมง",
+    "DISTRICT_NAME_EN": "Nong Mamong",
+    "PROVINCE_CODE": "018"
+  },
+  {
+    "DISTRICT_CODE": "4004",
+    "DISTRICT_NAME": "หนองเรือ",
+    "DISTRICT_NAME_EN": "Nong Ruea",
+    "PROVINCE_CODE": "040"
+  },
+  {
+    "DISTRICT_CODE": "4103",
+    "DISTRICT_NAME": "หนองวัวซอ",
+    "DISTRICT_NAME_EN": "Nong Wua So",
+    "PROVINCE_CODE": "041"
+  },
+  {
+    "DISTRICT_CODE": "4015",
+    "DISTRICT_NAME": "หนองสองห้อง",
+    "DISTRICT_NAME_EN": "Nong Song Hong",
+    "PROVINCE_CODE": "040"
+  },
+  {
+    "DISTRICT_CODE": "4907",
+    "DISTRICT_NAME": "หนองสูง",
+    "DISTRICT_NAME_EN": "Nong Sung",
+    "PROVINCE_CODE": "049"
+  },
+  {
+    "DISTRICT_CODE": "1304",
+    "DISTRICT_NAME": "หนองเสือ",
+    "DISTRICT_NAME_EN": "Nong Suea",
+    "PROVINCE_CODE": "013"
+  },
+  {
+    "DISTRICT_CODE": "4121",
+    "DISTRICT_NAME": "หนองแสง",
+    "DISTRICT_NAME_EN": "Nong Saeng",
+    "PROVINCE_CODE": "041"
+  },
+  {
+    "DISTRICT_CODE": "3114",
+    "DISTRICT_NAME": "หนองหงส์",
+    "DISTRICT_NAME_EN": "Nong Hong",
+    "PROVINCE_CODE": "031"
+  },
+  {
+    "DISTRICT_CODE": "7210",
+    "DISTRICT_NAME": "หนองหญ้าไซ",
+    "DISTRICT_NAME_EN": "Nong Ya Sai",
+    "PROVINCE_CODE": "072"
+  },
+  {
+    "DISTRICT_CODE": "7603",
+    "DISTRICT_NAME": "หนองหญ้าปล้อง",
+    "DISTRICT_NAME_EN": "Nong Ya Plong",
+    "PROVINCE_CODE": "076"
+  },
+  {
+    "DISTRICT_CODE": "4106",
+    "DISTRICT_NAME": "หนองหาน",
+    "DISTRICT_NAME_EN": "Nong Han",
+    "PROVINCE_CODE": "041"
+  },
+  {
+    "DISTRICT_CODE": "4214",
+    "DISTRICT_NAME": "หนองหิน",
+    "DISTRICT_NAME_EN": "Nong Hin",
+    "PROVINCE_CODE": "042"
+  },
+  {
+    "DISTRICT_CODE": "2003",
+    "DISTRICT_NAME": "หนองใหญ่",
+    "DISTRICT_NAME_EN": "Nong Yai",
+    "PROVINCE_CODE": "020"
+  },
+  {
+    "DISTRICT_CODE": "4519",
+    "DISTRICT_NAME": "หนองฮี",
+    "DISTRICT_NAME_EN": "Nong Hi",
+    "PROVINCE_CODE": "045"
+  },
+  {
+    "DISTRICT_CODE": "6704",
+    "DISTRICT_NAME": "หล่มเก่า",
+    "DISTRICT_NAME_EN": "Lom Kao",
+    "PROVINCE_CODE": "067"
+  },
+  {
+    "DISTRICT_CODE": "6703",
+    "DISTRICT_NAME": "หล่มสัก",
+    "DISTRICT_NAME_EN": "Lom Sak",
+    "PROVINCE_CODE": "067"
+  },
+  {
+    "DISTRICT_CODE": "1041",
+    "DISTRICT_NAME": "หลักสี่",
+    "DISTRICT_NAME_EN": "Lak Si",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "8604",
+    "DISTRICT_NAME": "หลังสวน",
+    "DISTRICT_NAME_EN": "Lang Suan",
+    "PROVINCE_CODE": "086"
+  },
+  {
+    "DISTRICT_CODE": "7113",
+    "DISTRICT_NAME": "ห้วยกระเจา",
+    "DISTRICT_NAME_EN": "Huai Krachao",
+    "PROVINCE_CODE": "071"
+  },
+  {
+    "DISTRICT_CODE": "1017",
+    "DISTRICT_NAME": "ห้วยขวาง",
+    "DISTRICT_NAME_EN": "Huai Khwang",
+    "PROVINCE_CODE": "010"
+  },
+  {
+    "DISTRICT_CODE": "6108",
+    "DISTRICT_NAME": "ห้วยคต",
+    "DISTRICT_NAME_EN": "Huai Khot",
+    "PROVINCE_CODE": "061"
+  },
+  {
+    "DISTRICT_CODE": "3016",
+    "DISTRICT_NAME": "ห้วยแถลง",
+    "DISTRICT_NAME_EN": "Huai Thalaeng",
+    "PROVINCE_CODE": "030"
+  },
+  {
+    "DISTRICT_CODE": "3312",
+    "DISTRICT_NAME": "ห้วยทับทัน",
+    "DISTRICT_NAME_EN": "Huai Thap Than",
+    "PROVINCE_CODE": "033"
+  },
+  {
+    "DISTRICT_CODE": "4614",
+    "DISTRICT_NAME": "ห้วยผึ้ง",
+    "DISTRICT_NAME_EN": "Huai Phueng",
+    "PROVINCE_CODE": "046"
+  },
+  {
+    "DISTRICT_CODE": "4608",
+    "DISTRICT_NAME": "ห้วยเม็ก",
+    "DISTRICT_NAME_EN": "Huai Mek",
+    "PROVINCE_CODE": "046"
+  },
+  {
+    "DISTRICT_CODE": "9206",
+    "DISTRICT_NAME": "ห้วยยอด",
+    "DISTRICT_NAME_EN": "Huai Yot",
+    "PROVINCE_CODE": "092"
+  },
+  {
+    "DISTRICT_CODE": "3116",
+    "DISTRICT_NAME": "ห้วยราช",
+    "DISTRICT_NAME_EN": "Huai Rat",
+    "PROVINCE_CODE": "031"
+  },
+  {
+    "DISTRICT_CODE": "4906",
+    "DISTRICT_NAME": "หว้านใหญ่",
+    "DISTRICT_NAME_EN": "Wan Yai",
+    "PROVINCE_CODE": "049"
+  },
+  {
+    "DISTRICT_CODE": "1806",
+    "DISTRICT_NAME": "หันคา",
+    "DISTRICT_NAME_EN": "Hankha",
+    "PROVINCE_CODE": "018"
+  },
+  {
+    "DISTRICT_CODE": "3706",
+    "DISTRICT_NAME": "หัวตะพาน",
+    "DISTRICT_NAME_EN": "Hua Taphan",
+    "PROVINCE_CODE": "037"
+  },
+  {
+    "DISTRICT_CODE": "8016",
+    "DISTRICT_NAME": "หัวไทร",
+    "DISTRICT_NAME_EN": "Hua Sai",
+    "PROVINCE_CODE": "080"
+  },
+  {
+    "DISTRICT_CODE": "7707",
+    "DISTRICT_NAME": "หัวหิน",
+    "DISTRICT_NAME_EN": "Hua Hin",
+    "PROVINCE_CODE": "077"
+  },
+  {
+    "DISTRICT_CODE": "5212",
+    "DISTRICT_NAME": "ห้างฉัตร",
+    "DISTRICT_NAME_EN": "Hang Chat",
+    "PROVINCE_CODE": "052"
+  },
+  {
+    "DISTRICT_CODE": "5015",
+    "DISTRICT_NAME": "หางดง",
+    "DISTRICT_NAME_EN": "Hang Dong",
+    "PROVINCE_CODE": "050"
+  },
+  {
+    "DISTRICT_CODE": "9210",
+    "DISTRICT_NAME": "หาดสำราญ",
+    "DISTRICT_NAME_EN": "Hat Samran",
+    "PROVINCE_CODE": "092"
+  },
+  {
+    "DISTRICT_CODE": "9011",
+    "DISTRICT_NAME": "หาดใหญ่",
+    "DISTRICT_NAME_EN": "Hat Yai",
+    "PROVINCE_CODE": "090"
+  },
+  {
+    "DISTRICT_CODE": "8108",
+    "DISTRICT_NAME": "เหนือคลอง",
+    "DISTRICT_NAME_EN": "Nuea Khlong",
+    "PROVINCE_CODE": "081"
+  },
+  {
+    "DISTRICT_CODE": "3431",
+    "DISTRICT_NAME": "เหล่าเสือโก้ก",
+    "DISTRICT_NAME_EN": "Lao Suea Kok",
+    "PROVINCE_CODE": "034"
+  },
+  {
+    "DISTRICT_CODE": "2305",
+    "DISTRICT_NAME": "แหลมงอบ",
+    "DISTRICT_NAME_EN": "Laem Ngop",
+    "PROVINCE_CODE": "023"
+  },
+  {
+    "DISTRICT_CODE": "2206",
+    "DISTRICT_NAME": "แหลมสิงห์",
+    "DISTRICT_NAME_EN": "Laem Sing",
+    "PROVINCE_CODE": "022"
+  },
+  {
+    "DISTRICT_CODE": "2604",
+    "DISTRICT_NAME": "องครักษ์",
+    "DISTRICT_NAME_EN": "Ongkharak",
+    "PROVINCE_CODE": "026"
+  },
+  {
+    "DISTRICT_CODE": "5018",
+    "DISTRICT_NAME": "อมก๋อย",
+    "DISTRICT_NAME_EN": "Omkoi",
+    "PROVINCE_CODE": "050"
+  },
+  {
+    "DISTRICT_CODE": "2706",
+    "DISTRICT_NAME": "อรัญประเทศ",
+    "DISTRICT_NAME_EN": "Aranyaprathet",
+    "PROVINCE_CODE": "027"
+  },
+  {
+    "DISTRICT_CODE": "7503",
+    "DISTRICT_NAME": "อัมพวา",
+    "DISTRICT_NAME_EN": "Amphawa",
+    "PROVINCE_CODE": "075"
+  },
+  {
+    "DISTRICT_CODE": "4711",
+    "DISTRICT_NAME": "อากาศอำนวย",
+    "DISTRICT_NAME_EN": "Akat Amnuai",
+    "PROVINCE_CODE": "047"
+  },
+  {
+    "DISTRICT_CODE": "4514",
+    "DISTRICT_NAME": "อาจสามารถ",
+    "DISTRICT_NAME_EN": "At Samat",
+    "PROVINCE_CODE": "045"
+  },
+  {
+    "DISTRICT_CODE": "8105",
+    "DISTRICT_NAME": "อ่าวลึก",
+    "DISTRICT_NAME_EN": "Ao Luek",
+    "PROVINCE_CODE": "081"
+  },
+  {
+    "DISTRICT_CODE": "1706",
+    "DISTRICT_NAME": "อินทร์บุรี",
+    "DISTRICT_NAME_EN": "In Buri",
+    "PROVINCE_CODE": "017"
+  },
+  {
+    "DISTRICT_CODE": "1414",
+    "DISTRICT_NAME": "อุทัย",
+    "DISTRICT_NAME_EN": "Uthai",
+    "PROVINCE_CODE": "014"
+  },
+  {
+    "DISTRICT_CODE": "3310",
+    "DISTRICT_NAME": "อุทุมพรพิสัย",
+    "DISTRICT_NAME_EN": "Uthumphon Phisai",
+    "PROVINCE_CODE": "033"
+  },
+  {
+    "DISTRICT_CODE": "4008",
+    "DISTRICT_NAME": "อุบลรัตน์",
+    "DISTRICT_NAME_EN": "Ubolratana",
+    "PROVINCE_CODE": "040"
+  },
+  {
+    "DISTRICT_CODE": "6308",
+    "DISTRICT_NAME": "อุ้มผาง",
+    "DISTRICT_NAME_EN": "Umphang",
+    "PROVINCE_CODE": "063"
+  },
+  {
+    "DISTRICT_CODE": "7209",
+    "DISTRICT_NAME": "อู่ทอง",
+    "DISTRICT_NAME_EN": "U Thong",
+    "PROVINCE_CODE": "072"
+  },
+  {
+    "DISTRICT_CODE": "4213",
+    "DISTRICT_NAME": "เอราวัณ",
+    "DISTRICT_NAME_EN": "Erawan",
+    "PROVINCE_CODE": "042"
+  },
+  {
+    "DISTRICT_CODE": "5016",
+    "DISTRICT_NAME": "ฮอด",
+    "DISTRICT_NAME_EN": "Hot",
+    "PROVINCE_CODE": "050"
+  }
+]

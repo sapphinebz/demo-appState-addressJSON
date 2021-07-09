@@ -1,9 +1,16 @@
-<div style="text-align: center">
-  <h1>Welcome to my-angular!</h1>
-  <img
-    width="450"
-    src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png"
-    alt="Nx - Smart, Extensible Build Framework"
-  />
+<div>
+  <button
+    style="margin: 0.5em"
+    (click)="viewEmployee(name)"
+    *ngFor="let name of employeeList"
+  >
+    {{ name }}
+  </button>
 </div>
-<div>Message: {{ hello$ | async | json }}</div>
+
+<div *ngIf="employee$ | async as employee">
+  <div>employeeId: {{ employee.id }}</div>
+  <div>employeeName: {{ employee.name }}</div>
+  <div>province: {{ employee.province?.PROVINCE_NAME }}</div>
+  <div>district: {{ employee.district?.DISTRICT_NAME }}</div>
+</div>
