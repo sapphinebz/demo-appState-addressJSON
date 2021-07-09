@@ -1,4 +1,8 @@
 
+ใช้ Nx workspace
+
+frontend Angular รันด้วย nx serve my-angular
+backend NestJS รันด้วย nx serve api
 
 # Ac
 
